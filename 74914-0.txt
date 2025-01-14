@@ -1,0 +1,3078 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 74914 ***
+
+language: Finnish
+
+
+
+
+BEETHOVEN
+
+Kirj.
+
+Romain Rolland
+
+
+Kuudennesta ranskalaisesta painoksesta suomentanut
+
+Leevi Madetoja
+
+
+
+
+
+Porvoossa,
+Werner Söderström Osakeyhtiö,
+1918.
+
+
+
+
+
+
+      Minä tahdon osoittaa, että jokainen,
+      joka toimii oikein ja jalosti, voi
+      juuri tämän kautta kantaa onnettomuuden.
+
+                             _Beethoven_.
+
+
+
+
+SISÄLLYS
+
+Romain Rolland (esipuhe)
+Beethoven
+Liitteitä
+  Heiligstadt-testamentti
+  Kirjeitä
+Beethovenin ajatuksia
+  Musiikista
+  Arvostelusta
+Kirjallisuutta:
+   I. Beethovenin kirjeet
+  II. Beethovenin elämä
+ III. Beethovenin teokset
+  IV. Beethovenin muotokuvat
+Viitteet
+
+
+
+
+Wienin maistraatille 1 p:nä helmik. 1819
+
+Ilma on raskas ympärillämme. Vanha Eurooppa veltostuu painostavassa
+ja pilaantuneessa ilmakehässä. Arkipäiväinen materialismi painaa
+tukehduttavana ajatusta ja kahlehtii sekä hallitusten että yksilöiden
+toimintavoiman. Maailma tukehtuu varovaisessa ja alhaisessa
+itsekkäisyydessään. Ihmiskunta on menehtymäisillään. — Avatkaamme
+ikkunat. Antakaamme raikkaan tuulenhenkäyksen vapaasti puhaltaa.
+Hengittäkäämme keuhkoihimme sitä puhdasta ilmaa, joka inhimillisyyden
+suuria sankareita ympäröi.
+
+Elämä on kova. Se on alituista taistelua niille, jotka eivät tahdo
+alistua yleisen sielullisen keskitason alaiseksi, ja useimmiten
+surullista taistelua, karua, menestyksetöntä, taistelua yksinäisyydessä
+ja hiljaisuudessa. Köyhyyden ja vaikeiden taloudellisten huolten
+ahdistamina, pakoitettuina tekemään nöyryyttävää ja hengetöntä
+ansiotyötä, jossa voimat hyödyttömästi kuluvat, ilman toivoa, ilman
+pienintäkään ilonpilkahdusta, taistelevat useimmat toisistaan
+eristettyinä, voimatta edes saada sitä lohdutusta, että voisivat
+ojentaa kätensä onnettomuusveljilleen, jotka eivät heitä tunne ja
+joita he eivät tunne. Heidän täytyy luottaa vain omaan itseensä, ja on
+hetkiä, jolloin voimakkaimmatkin sortuvat taakkansa alla. He huutavat
+apua, ystävää.
+
+Juuri voidakseni olla näille onnettomille joksikin avuksi
+tahdon esittää heidän katseltavakseen ystäviä, inhimillisyyden
+sankareita, suuria sieluja, jotka ovat kärsineet hyvän puolesta.
+Näiden _Kuuluisien miesten elämäkertojen_[1] tarkoituksena ei ole
+kiihoittaa kunnianhimoisten ylpeyttä; ne ovat aijotut onnettomille.
+Ja kuka ei niihin kuuluisi, pohjaltaan? Antakaamme niille, jotka
+kärsivät, pyhän kärsimyksen balsamia! Me emme seiso yksinämme tässä
+taistelussa. Maailman yötä valaisevat jumalalliset valot. Vieläpä
+meidän päivinämme, aivan lähellämme, olemme äskettäin nähneet kaksi
+kirkkainta valonsädettä loistavan, oikeuden ja vapauden puhtaan
+soihdun: eversti Picquartin ja buurikansan. Joskaan he eivät ole
+onnistuneet karkoittamaan sankkaa pimeyttä, ovat he kuitenkin äkillisen
+salamanleimauksen tavoin näyttäneet meille tien. Käykäämme heidän
+jälkiään, seuratkaamme kaikkia niitä, jotka ovat kamppailleet kuten
+he, yksinäisinä, siroteltuina sinne tänne kaikkiin maihin ja kaikkiin
+vuosisatoihin. Murtakaamme ajan raja-aidat. Herättäkäämme jälleen eloon
+sankarien heimo.
+
+Sankareiksi en kutsu niitä, jotka ovat voittaneet ajatuksen tai
+ruumiillisen voiman avulla. Sankareiksi nimitän vain niitä, jotka
+ovat olleet suuria sydämeltään. Kuten sanoi yksi suurimpia heidän
+joukostaan, sama, jonka elämänvaiheet tulemme tässä kertomaan: "_En
+tunnusta muuta ylemmyyden merkkiä kuin hyvyyden"_. Ilman suurta
+luonnetta ei ole olemassa suurta miestä, ei myöskään suurta taiteilijaa
+tai edes suurten tekojen miestä; on vain vääriä jumalia alhaisia
+joukkoja varten: aika hävittää ne kaikki. Ulkonainen menestys merkitsee
+vähän. Tulee _olla_ suuri, ei _näyttää_ siltä.
+
+Niiden miesten elämä, joiden vaiheita tässä koetamme kuvata, oli
+melkein aina yhtämittaista, pitkää kärsimystä. Joko oli traagillinen
+kohtalo tahtonut muovailla heidän sielunsa ruumiillisten ja henkisten
+kärsimysten, hädän ja sairauden alasimella, tai oli heidän elämänsä
+tuhoutunut ja heidän sydämensä särkynyt heidän nähdessään niitä
+lukemattomia kärsimyksiä ja nöyryytyksiä, joilla heidän veljiään oli
+kidutettu — aina ovat koettelemukset olleet heidän jokapäiväisenä
+leipänään, ja joskin he tulivat suuriksi sielunvoimansa avulla, tulivat
+he siksi myöskin onnettomuuden kautta. Älkööt siis ne, jotka ovat
+onnettomia, liiaksi valittako kohtaloaan: ihmiskunnan parhaimmat ovat
+heidän mukanaan. Ammentakaamme voimaa heidän uskalluksestaan, ja jos
+tunnemme itsemme liian heikoiksi, kallistakaamme päämme hetkiseksi
+heidän lempeään helmaansa. He tulevat lohduttamaan meitä. Näistä
+pyhitetyistä sieluista virtaa luoksemme vuolaana jokena tyyntä voimaa
+ja ylevää hyvyyttä. Meidän ei tarvitse edes tutkia heidän teoksiaan
+eikä kuunnella heidän ääntään, me luemme heidän silmistään, heidän
+elämänsä vaiheista, että elämä ei koskaan ole suurempi, ei koskaan
+hedelmällisempi — ja onnellisempi — kuin kärsimysten sitä kirkastaessa.
+
+       *       *       *       *       *
+
+Ensimäiselle sijalle tässä sankarijoukossa asettakaamme voimakas ja
+puhdas Beethoven. Hän toivoi itse, kärsimystensä keskellä, että hänen
+esimerkkinsä voisi auttaa toisia kurjuuden raskauttamia _ja että joku
+onneton saisi lohdutusta nähdessään toisen onnettoman, joka kaikista
+luonnon esteistä huolimatta oli tehnyt kaikkensa tullakseen ihmiseksi,
+joka olisi tämän nimen arvoinen_. Kun hän vuosikausien taisteluiden
+ja yli-inhimillisten ponnistusten kautta oli onnistunut voittamaan
+tuskansa ja täyttämään elämäntehtävänsä, joka, kuten hän sanoi,
+tarkoitti puhaltaa hiukan rohkeutta poloiseen ihmiskuntaan, lausui
+hän, tämä voitokas Prometeus, eräälle ystävälleen, joka huusi avuksi
+Jumalaa: "_Oi ihminen, auta itse itseäsi_!"
+
+Haltioittakoot nämä ylpeät sanat meitä. Herättäkäämme hänen
+esimerkkinsä kannustamina jälleen henkiin ihmisen usko elämään ja
+ihmiseen.
+
+_Romain Rolland_.
+
+Tammikuussa 1903.
+
+
+
+
+
+
+BEETHOVEN
+
+
+
+
+    Wohltuen, wo man kann,
+    Freiheit über alles lieben;
+    Wahrheit nie, auch sogar am
+    Throne nicht verleugnen.
+
+                _Beethoven_.
+
+    (Muistikirjasta, 1792.)
+
+Hän oli lyhytkasvuinen ja tanakka, väkevän näköinen ja
+ruumiinrakenteeltaan voimailijaa muistuttava. Kasvot olivat leveät ja
+tiilenkarvaiset paitsi hänen elämänsä loppupuolella, jolloin iho kävi
+sairaloiseksi ja kelmeäksi, varsinkin talvisin, jolloin hän oleskeli
+paljon sisällä. Otsa oli jykevä ja kuhmuinen. Pikimusta tukka, joka ei
+näyttänyt koskaan olleen tekemisissä minkään kammantapaisen kanssa,
+pörrötti villeinä kiehkuroina joka suunnalle, oikeat "Medusan käärmeet"
+[2]. Silmistä hehkui ihmeellinen voima, joka hallitsi kaikkia, jotka
+joutuivat niiden tulen alaiseksi; mutta useimmat erehtyivät niiden
+väristä. Kun niiden hurja kiilto liekehti tummista, synkistä kasvoista,
+arveltiin yleisesti niiden olevan mustat; mustat ne eivät kuitenkaan
+olleet, vaan sinisenharmaat. [3]
+
+Ne olivat pienet ja syvälle painuneet, mutta saattoivat äkkiä
+laajentua, kun hän kiihtyi tai vihastui; ne pyörivät silloin kuopissaan
+heijastaen kaikkia tunnelmia ihmeteltävän todenmukaisesti [4]. Usein
+kohottautuivat ne taivasta kohti surumielisin katsein. Nenä oli lyhyt,
+neliskulmainen ja leveä kuten leijonan kuono. Suu hieno ja siro,
+mutta alahuuli pyrki hiukan liian ulkonevaksi. Valtavat leukapielet
+olisivat helposti voineet särkeä pähkinöitä. Syvä kuoppa leuan
+oikealla puolella teki kasvot omituisen vinoiksi. "Hänen hymyilynsä
+oli herttainen", sanoo Moscheles, "ja hänen kasvojenilmeensä oli usein
+keskustelun kuluessa rakastettava ja rohkaiseva. Sitävastoin oli hänen
+naurunsa epämiellyttävä, raju ja suonenvedon tapainen, sitäpaitsi
+katkonainen", — hän nauroi kuten ihminen, joka ei ole tottunut iloon.
+Hänen olemustaan painoi useimmiten raskas kaihomieli, "parantumaton
+murhe". Rellstab mainitsee, v. 1825, että hänen on ponnistettava
+kaikki voimansa voidakseen pidättää kyyneleitään katsellessaan "hänen
+lempeitä silmiään ja niiden viiltävää tuskaa". Vuotta myöhemmin tapaa
+Braun v. Braunthal hänet eräässä oluttuvassa: hän istuu nurkassaan,
+polttelee pitkää piippua, silmät suljettuina, niinkuin hänen
+tavakseen on tullut, kuta enemmän hän lähestyy kuolemaa. Eräs ystävä
+puhuttelee häntä. Hän hymyilee surullisesti, vetää taskustaan pienen
+"keskusteluvihon" ja kuuroille ominaisella räikeällä äänellä pyytää
+puhuttelijaansa kirjoittamaan siihen, mitä hänellä on sanottavana.
+— Hänen kasvonsa muuttuivat, väliin niinä sisäisen haltioitumisen
+hetkinä, jotka usein äkkiarvaamatta valtasivat hänet, vieläpä
+kadullakin, ja jotka herättivät ihmettelyä ohikulkijoissa, väliin
+jonkun yllättäessä hänet pianon ääressä. "Kasvolihakset jännittyivät,
+otsasuonet paisuivat; silmien hehku tuli entistä hurjemmaksi; huulet
+vapisivat; hänen olemuksensa muistutti elävästi loihtijaa, jonka hänen
+itsensä esiinkutsumat henget ovat saaneet valtoihinsa." Siis aito
+Shakespeare-hahmo [5]; "kuningas Lear", sanoo Julius Benedict.
+
+       *       *       *       *       *
+
+Ludwig van Beethoven syntyi joulukuun 16 päivänä Bonnissa, Kölnin
+lähellä, erään talopahaisen kurjassa vinttikamarissa. Hän polveutui
+flaamilaisesta suvusta [6]. Isä oli tenorilaulaja, lahjaton ja
+juopotteleva. Äiti oli taloustoimissa taitava, kokin tytär ja leski
+ensimäisestä aviostaan erään kamaripalvelijan kanssa.
+
+Hänen lapsuutensa oli kolkko: häneltä puuttui se kodin lämpö, josta
+häntä onnellisempi Mozart sai perheensä piirissä nauttia. Alusta alkaen
+oli elämä hänelle ilotonta ja karua taistelua. Isä tahtoi keinotella
+hänen musikaalisilla lahjoillaan ja valmistaa häntä ihmelapseksi.
+Kun poika oli neljänvuotias, kahlehti hän hänet tuntikausiksi
+pianon ääreen tai sulki hänet huoneeseen viuluineen ja oli ottaa
+hänet hengiltä ylenmääräisellä työllä. Läheltä piti, ettei hän
+ikiajoiksi herättänyt lapsessa kammoa taidetta kohtaan. Täytyi käyttää
+väkivaltaa saadakseen Beethovenin ryhtymään musiikkiharjoituksiin.
+Hänen nuoruuttaan synkensivät aineelliset surut, huoli jokapäiväisen
+leivän ansaitsemisesta, liian aikaiset velvollisuudet. Yhdentoista
+vuoden ikäisenä otettiin hänet jäseneksi teatteriorkesteriin;
+kolmentoistavuotiaana tuli hän urkuriksi. V. 1787 hän kadotti äitinsä,
+jota hän jumaloi. "Hän oli minulle niin hyvä, niin rakkautta täynnä,
+minun paras ystäväni! Oi, kenpä oli minua onnellisempi, kun sain
+sanoa tuon suloisen sanan 'äiti' ja hän saattoi kuulla sen [7]!"
+Hän kuoli keuhkotautiin, ja Beethoven luuli itsellään olevan saman
+sairauden; hän tunsi jo alituisia kipuja ja niiden lisäksi tuli
+vielä surumielisyys, joka oli tuskallisempi kuin itse ruumiillinen
+kärsimys [8]. Seitsentoistavuotiaana täytyi hänen yksinään huolehtia
+perheen elatuksesta ja molempien veljiensä kasvatuksesta. Katkeraksi
+häpeäkseen hän oli pakoitettu pyytämään isänsä eläkkeelle-asettamista,
+väkijuomain orja kun tämä oli ja kykenemätön pitämään huolta perheen
+toimeentulosta; eläke maksettiin pojalle, jotta isä ei tapansa
+mukaan tuhlaisi sitä. Tämä surullinen asiaintila jätti häneen syvät
+jäljet. Hän löysi kuitenkin vaikeissa olosuhteissaan lempeän tuen
+eräässä perheessä Bonnissa, johon hän läpi koko elämänsä oli mitä
+sydämellisimmin kiintynyt, v. Breuningin rakastettavassa kodissa.
+Suloinen ja kiltti "Lorchen", Eleonore v. Breuning, oli kahta vuotta
+häntä nuorempi. Hän ohjasi Eleonorea musiikin harjoittamisessa; tämä
+taas tutustutti häntä runouteen. "Lorchen" oli hänen lapsuudentoverinsa
+ja kenties oli heidän välillään hellempiäkin tunteita. Eleonore
+meni myöhemmin naimisiin tohtori Wegelerin kanssa, josta tuli yksi
+Beethovenin läheisimpiä ystäviä, ja kaikkina aikoina vallitsi heidän
+välillään rauhallinen ja häiriytymätön ystävyyssuhde, jota todistavat
+Wegelerin ja Eleonoren monet kunnioittavat ja hellät kirjeet
+mestarille, samoinkuin tämän, vanhan ystävän (alter treuer Freund)
+kirjeet hyvälle, rakkaalle Wegelerille (guter lieber Wegeler) —
+kiintymys, joka oli sitä liikuttavampi, kun vanhuus jo oli saavuttanut
+kaikki kolme, silti jäähdyttämättä heidän sydämensä nuoruutta. [9]
+
+Niin surullinen kuin Beethovenin lapsuus olikin, muisteli hän
+kuitenkin sitä ja kotiseutuaan aina kaivaten ja kaihomielin. Vaikka
+hän oli pakoitettu jättämään Bonnin ja viettämään lähes koko elämänsä
+Wienissä, tuossa suuressa ulkokullaisessa kaupungissa surullisine
+esikaupunkeineen, ei hän silti koskaan unhottanut Reininlaaksoa ja
+tuota suurta majesteetillista virtaa, _unser Vater Rhein_, kuten
+hän sitä kutsuu, "Rein-isäämme", joka niin elävänä, niin, melkein
+inhimillisenä, jättimäisen, lukemattomia ajatuksia ja voimia
+syleilevän sielun tavoin vyöryy eteenpäin, tuskinpa missään niin
+kauniina, mahtavana ja lempeänä kuin ihastuttavan Bonnin vierellä,
+missä se rajusti ja samalla kuitenkin niin hyväilevästi huuhtelee
+siimeisiä ja kukkarikkaita rantoja. Täällä eli Beethoven ensimäiset
+kaksikymmentä vuottansa, täällä hahmoutuivat hänen nuoruutensa unelmat
+— noilla niityillä, jotka riutuvina kuvastuvat veden kalvoon sumussa
+uivine poppeleineen, pensaineen, halavineen ja hedelmäpuineen,
+jotka seisovat juurineen tyvenessä ja nopeassa virrassa, — ja
+äyräiltä kohoavat viehättävän uteliaina kylät, kirkot, vieläpä
+kirkkotarhatkin, sinertävän Siebengebirge-vuoriston taivaanrannalla
+piirtäessä avaruuteen uhkaavat ääriviivansa, joihin kaukaisten vanhojen
+linnojen rauniot siellä täällä muodostavat kapeita ja eriskummallisia
+varjokuvioita. Näille seuduille pysyi hänen sydämensä aina uskollisena;
+viimeiseen hetkeensä saakka unelmoi hän ne vielä näkevänsä, voimatta
+kuitenkaan koskaan toteuttaa unelmaansa. "Isänmaani, tuo kaunis seutu,
+jossa olen nähnyt päivän valon, aina yhtä kaunis minulle, aina yhtä
+kirkas silmissäni kuin se oli jättäessäni sen." [10]
+
+       *       *       *       *       *
+
+Marraskuussa 1792 Beethoven asettui asumaan Wieniin, Saksan
+musiikkikeskukseen [11]. Vallankumous oli puhjennut; se alkoi tulvia
+yli Euroopan. Beethoven lähti Bonnista sodan juuri saapuessa sinne.
+Tiellä Wieniin kohtasi hän hessiläisen armeijan, joka samosi Ranskaa
+kohti. 1796 ja 1797 puki hän säveliin Friedbergin sotaisia runoja:
+_Lähtömarssin_ ja isänmaallisen kuorolaulun: _Suur Saksan kansa
+olemme (Ein grosses deutsches Volk sind wir)_. Mutta turhaan yrittää
+hän ylistää vallankumouksen vihollisia: vallankumous valloittaa koko
+maailman ja — myöskin Beethovenin. Vuodesta 1798 alkaen Beethoven,
+huolimatta Itävallan ja Ranskan kiristyneistä väleistä, solmii läheisiä
+tuttavuussuhteita ranskalaisten kanssa, lähetystön ja kenraali
+Bernadotten kanssa, joka juuri oli saapunut Wieniin. Tämän seurustelun
+vaikutuksesta alkaa tasavaltalainen katsantokanta saada hänessä yhä
+selvempiä muotoja, ja sen myöhempää valtavaa kehitystä voimme läpi koko
+hänen elämänsä seurata.
+
+Eräs piirustus, jonka Stainhauser näihin aikoihin hänestä teki, näyttää
+meille erittäin hyvän kuvan hänestä, sellaisena kuin hän silloin
+oli. Se on samassa suhteessa Beethovenin myöhempiin muotokuviin kuin
+Guérinin tekemä Bonaparten kuva, tuikeine, kunnianhimon kuumeen
+jäytämine kasvoineen, muihin Napoleonin kuviin. Beethoven näyttää
+siinä nuoremmalta kuin hän todellisuudessa on, hän on laiha, pysty,
+jäykkä korkeassa kaulaliinassaan, katse uhmaava ja jännittynyt. Hän
+tietää, mitä hän tahtoo; hän luottaa omaan voimaansa. Vuonna 1796
+hän kirjoittaa päiväkirjaansa: "Rohkeutta! Huolimatta kaikesta
+ruumiillisesta heikkoudestani on neroni voittava... Kaksikymmentäviisi
+vuotta! olen siis kaksikymmentäviisi vuotta täyttänyt... juuri tänä
+vuonna on miehen täytenä ja kokonaisena esiinnyttävä [12]." Rouvat
+de Bernhard ja Gelinck sanovat, että hän on kovin ylpeä, tavoiltaan
+siistimätön ja töykeä ja että hän puhuu sangen peittelemätöntä
+maaseutumurretta. Mutta hänen ystävänsä, he yksin tietävät, mikä
+harvinainen määrä hyvyyttä kätkeytyi tämän kopeilevan ja kömpelön
+ulkokuoren alle. Kirjoittaessaan Wegelerille suuresta menestyksestään
+on ensimäinen ajatus, joka juolahtaa hänen mieleensä, tämä:
+"Esimerkiksi, minä näen jonkun ystäväni kärsivän puutetta: jollei
+kukkaroni salli minun heti tulla hänen avukseen, ei minun tarvitse
+muuta kuin istuutua työpöytäni ääreen, ja pian olen pelastanut hänet
+pulasta... Sinä käsität, kuinka ihanaa sellainen on [13]." Ja hiukan
+kauempana samassa kirjeessä hän sanoo: "Sitten on minun taiteeni vain
+palveleva köyhien parasta". (Dann soll meine Kunst sich nur zum Besten
+der Armen zeigen).
+
+Tuska oli jo kolkuttanut hänen ovelleen; se oli asettunut asumaan hänen
+luokseen eikä enää koskaan ollut jättävä häntä. Vuosien 1796 ja 1800
+välillä alkoi kuurous hävittävän työnsä [14]. Hänen korvansa suhisivat
+yötä päivää; hänen ruumiinvoimiansa jäyti vika ruuansulatuselimissä.
+Kuulo heikkeni vähitellen. Useaan vuoteen ei hän ilmaissut sitä
+kenellekään, ei edes rakkaimmille ystävilleen. Hän vältti ihmisten
+seuraa, jotta hänen sairauttansa ei huomattaisi; hän säilytti tuon
+kauhean salaisuuden omana tietonaan. Mutta v. 1801 ei hän enää
+jaksa kauempaa siitä vaieta; hän uskoo epätoivoissaan sen kahdelle
+ystävälleen: tohtori Wegelerille ja pastori Amendalle:
+
+"Rakas, hyvä, uskollinen Amendani... kuinka usein toivonkaan, että
+olisit lähelläni! Sinun Beethovenisi on syvästi onneton. Tiedä, että
+jaloin aisti minussa, kuuloni, on suuresti huonontunut. Jo siihen
+aikaan, jolloin olimme yhdessä, huomasin tämän pahan enteitä, mutta
+minä salasin ne; sairaus on nyt kuitenkin vain yhä pahentunut...
+Tulenkohan koskaan terveeksi? Toivon sitä luonnollisesti, mutta hyvin
+luultavasti turhaan; sellaiset viat ovat useimmiten parantumattomia.
+Kuinka surullista on minun elää, minun täytyy välttää kaikkea sitä,
+joka on minulle rakasta, ja vielä lisäksi tehdä sitä tässä niin
+kurjassa, niin itsekkäässä maailmassa!... Tuskallinen alistuvaisuus,
+jonka turviin minun täytyy paeta! Tosin olen päättänyt rohkeasti kantaa
+kaikki kärsimykseni, mutta kuinka se on käyvä mahdolliseksi?..." [15]
+
+Ja Wegelerille: "... Minä vietän kurjaa elämää. Jo kaksi vuotta minä
+vältän kaikkia seurapiirejä, koska minun on mahdotonta keskustella
+ihmisten kanssa: minä olen kuuro. Jos minun ammattini olisi toinen,
+kävisi se vielä päinsä; mutta minun toimialallani on tämä tilanne
+kauhea. Mitä tulisivatkaan vihamieheni, joiden luku ei ole niinkään
+pieni, sanomaan!... Teatterissa täytyy minun asettua aivan orkesterin
+lähelle voidakseni kuulla näyttelijöitä. En kuule soittimien ja
+ihmisäänten korkeita säveleitä, jos istun kauempana... Kun puhutaan
+hiljaa, kuulen tuskin mitään ja, toiselta puolelta, jos huudetaan, on
+se minusta sietämätöntä... Sangen usein olen kironnut olemassaoloni...
+Plutarkos on minulle opettanut alistuvaisuutta. Minä tahdon, jos se
+vain suinkin on mahdollista, minä tahdon uhmata kohtaloani; mutta
+on hetkiä elämässäni, jolloin olen onnettomin Jumalan luomista
+olennoista... Alistuminen! mikä surullinen pakopaikka! Ja kuitenkin on
+se ainoa, mikä minulla on jälellä!" [16, ks. Liitteitä.]
+
+Tämä synkkä surumielisyys ilmenee muutamissa tämän kauden teoksissa;
+_Patetique-sonaatissa_, op. 13 (1799) ja ennen kaikkea _Kolmannen
+pianosonaatin_, op. 10, _largossa_ (1798). Ihmeellistä on, ettei sama
+leima ole kaikkialla näkyvissä, että näiden teosten ohella niin monet
+muut, kuten esim, hymyilevä _Septetti_ (1800) ja kirkas _Ensimäinen
+sinfonia_ (C-duurissa, 1800) uhkuvat nuorekasta suruttomuutta. Sielu
+tarvitsee epäilemättä aikaa tottuakseen tuskaan. Se tarvitsee siinä
+määrin iloa, että ellei sillä sitä ole, se luopi sen. Kun nykyhetki
+on liian julma, elää se menneisyydessä. Muinaiset onnen päivät eivät
+niin pian häivy; valo säteilee niistä vielä kauan senkin jälkeen kuin
+niitä ei enää ole. Yksinäisenä ja onnettomana Beethoven Wienissä
+pakeni synnyinseutunsa muistoihin; ne täyttävät kokonaan hänen
+ajatuksensa näihin aikoihin. Teema _Septetin_ muunnosten _andantessa_
+on _Rein-laulu_. _C-duuri-sinfonia_ on myöskin runoelma Reinistä,
+teos, jossa nuori säveltäjä hymyilee unelmilleen. Se on iloinen,
+harras; siinä tuntuu kaipuuta ja miellyttämisen halua. Mutta muutamissa
+sävelkuvioissa, johdannossa, eräitten bassoäänien loihtimassa tummassa
+hämytunnelmassa, fantastisessa _scherzossa_ huomaa — millä liikutuksen
+tunteilla! — näissä nuorissa kasvoissa tulevan neron katseen. Ne
+ovat Botticellin _Bambinon_ silmät, hänen _Pyhissä perheissään_, nuo
+lapsensilmät, joissa jo luulee lukevansa saapuvan murhenäytelmän.
+
+Näiden ruumiillisten kärsimysten lisäksi tulivat vielä toisenlaiset
+murheet. Wegeler kertoo, ettei hän koskaan nähnyt Beethovenia muuten
+kuin mielettömästi rakastuneena. Hänen rakkaus-romaaninsa näyttävät
+aina olleen ihanteellisen puhtaita. Niissä ei intohimoisella
+rakkaudella ja nautinnolla ole mitään toistensa kanssa tekemistä.
+Kun meidän päivinämme nämä kaksi seikkaa niin yleisesti sekoitetaan
+toisiinsa, osoittaa se vain, että useimmat ihmiset eivät tunne
+todellista intohimoa eivätkä tiedä kuinka harvinainen se on.
+Beethovenilla oli jotain puritaanista sielussaan; epäsiveelliset
+puheet ja ajatukset olivat hänelle kauhistus; rakkauden pyhyydestä
+oli hänellä järkkymättömän ankarat mielipiteet. Väitetään, ettei hän
+koskaan antanut Mozartille anteeksi sitä, että tämä oli häpäissyt
+neronsa kirjoittamalla sellaisen teoksen kuin _Don Juan_. Schindler,
+joka oli hänen läheinen ystävänsä, vakuuttaa, että hän oli läpi koko
+elämänsä neitseellinen kaino, tarvitsematta koskaan syyttää itseään
+mistään heikkoudesta. Sellainen mies oli kuin luotu joutumaan rakkauden
+orjaksi. Ja sitä hän olikin. Alinomaa rakastui hän silmittömästi,
+alinomaa uneksi hän onnesta — unelmat, jotka pian särkyivät ja joita
+seurasivat katkerat kärsimykset. Rakkauden ja kapinoitsevan ylpeyden
+vuorottaisista tunteista onkin löydettävissä Beethovenin luomisvoiman
+runsain lähde, aina siihen ikään saakka, jolloin hänen tuliluontonsa
+vaimentuu surumieliseksi alistuvaisuudeksi.
+
+V. 1801 oli, kuten näyttää, hänen rakkautensa esineenä Giulietta
+Guicciardi, jonka hän teki kuolemattomaksi omistamalla hänelle
+kuuluisan, n.k. _Kuutamosonaattinsa_ op. 27 (1802). "Minä elän
+miellyttävämpää elämää", kirjoittaa hän Wegelerille, "ja viihdyn
+paremmin ihmisten seurassa... Tämän muutoksen on erään tytön lumoava
+sulous aikaansaanut; hän rakastaa minua ja minä rakastan häntä.
+Nämä ovat minun ensimäiset onnen hetkeni sitten kahden vuoden"
+[17]. Hän sai maksaa ne kalliisti. Ensiksikin antoi tämä rakkaus
+hänen yhä selvemmin tuntea sairaloisuutensa kaikessa kurjuudessaan
+ja taloudellisesti epävakaisen asemansa, jotka tekivät hänelle
+avioliiton rakastettunsa kanssa mahdottomaksi. Sitäpaitsi oli
+Giulietta kiemaileva, lapsellinen, itsekäs; hän tuotti Beethovenille
+julmia kärsimyksiä, ja marraskuussa 1803 meni hän naimisiin kreivi
+Gallenbergin kanssa [18]. — Tällaiset kärsimykset jäytävät sielua;
+kun se, niinkuin Beethovenin, jo on sairauden heikontama, voivat ne
+helposti sen tuhotakin. Tämä oli Beethovenin elämässä ainoa ajankohta,
+jolloin hän näyttää olleen lähellä sortua taakkansa alle. Hän kamppaili
+vaikean sielullisen taistelun, kuten eräs kirje meille osoittaa:
+_Heiligenstadt-testamentti_ hänen Karl- ja Johann- veljilleen; sen
+kuoreen oli kirjoitettu: "_Luettava ja toimeenpantava kuolemani
+jälkeen_" [19]. Se on kapinan ja sydäntäsärkevän tuskan huuto. On
+mahdotonta kuulla sitä tuntematta syvää mielenliikutusta ja sääliä.
+Hän oli silloin aivan lähellä lopettaa elämänsä. Ainoa, mikä pidätti
+hänet siitä, oli hänen ankara siveellinen elämänkatsomuksensa [20].
+Viimeisetkin toiveet hänen parantumisestaan näyttäytyivät turhiksi.
+"Se päättäväinen rohkeuskin, joka minua ennen piti pystyssä, on nyt
+kadonnut. Oi Kohtalo, salli minun vielä kerran nähdä yksi päivä, yksi
+ainoa todellinen ilon päivä! Siitä on niin kauan, kun sain kuulla
+todellisen ilon syviä säveliä. Milloin, ah milloin, Jumalani, soivat ne
+vielä minulle?... Ei koskaan? — Ei, se olisi liian julmaa!"
+
+Tämä on kuin kuolevan kauhunhuuto; ja kuitenkin eli Beethoven vielä
+kaksikymmentäviisi vuotta. Hänen voimakas luontonsa ei voinut alistua
+kohtalon muserrettavaksi. "Minun ruumiillinen voimani kasvaa yhä
+enemmän henkisten voimieni ohella... Nuoruuteni, sen tunnen, on vasta
+alkanut. Jokainen päivä viepi minua lähemmäs sitä päämäärää, jonka
+näen kuin sumun läpi, voimatta sitä lähemmin määritellä ... Oi, jos
+pääsisin tuosta sairaudestani, niin syleilisin koko maailmaa!... Ei
+mitään lepoa! En tunne muuta lepoa kuin unen, ja olen kylliksi onneton
+täytyäkseni suoda sille enemmän aikaa kuin ennen. Jospa olisin vain
+puoleksikin vapautunut taudistani: silloin... Ei, minä en tätä enää
+siedä. Tahdon tarttua kohtaloa kurkusta. Sen ei ole onnistuva kokonaan
+lannistaa minua. — Ah, on niin kaunista elää, elää tuhat elämää!" [21]
+
+Rakkautta, kärsimystä, tahdon voimaa, alakuloisuuden ja ylpeyden
+vaihteluita, hänen sisäisiä taisteluitaan kuvastavat suuret, v. 1802
+kirjoitetut teokset: _Surumarssi-sonaatti_ op. 26; _Sonata quasi una
+fantasia_ ja n.k. _Kuutamo-sonaatti_ op. 27, _Sonaatti_ n:o 2, op.
+31, dramaattisine resitativeineen, jotka muistuttavat suurenmoista
+ja synkkää monologia; _C-molli-sonaatti_ viululle, op. 30, omistettu
+keisari Aleksanterille; _Kreutzer-sonaatti_ op. 47; kuusi voimakasta ja
+järkyttävää uskonnollista laulua Gellertin sanoihin, op. 48. _Toinen
+sinfonia_, sävelletty 1803, ilmehtii sitävastoin pikemmin hänen
+nuorekasta rakkauttaan, ja sitä kuunnellessaan tuntee, että hänen
+tahtonsa nyt on ratkaisevasti päässyt voitolle. Vastustamaton voima
+pyyhkäisee pois synkät ajatukset. _Finali_ on täynnä kuohuvaa elämää.
+Beethoven tahtoo olla onnellinen; hän ei tahdo uskoa, että hänen
+onnettomuutensa olisi parantumaton: hän tahtoo tulla terveeksi, hän
+tahtoo rakastaa, hän on tulvillaan toivoa. [22]
+
+       *       *       *       *       *
+
+Useissa näissä teoksissa hämmästyttää meitä marssi- ja taistelurytmien
+tarmokkuus ja itsepintainen voima. Tämä piirre on etenkin tuntuva
+_Toisen sinfonian allegrossa ja finalissa_ ja vielä enemmän
+_Aleksanteri-sonaatin_ ensimäisessä, loistavan sankarillisessa
+osassa. Sotainen sävy, joka on erikoisen ominaista tälle musiikille,
+muistuttaa sitä ajanjaksoa, jolloin nämä teokset ovat syntyneet.
+Vallankumous saapui Wieniin. Se tempasi Beethovenin mukaansa.
+"Hän puheli kernaasti", sanoo ritari von Seyfried, "läheisempien
+tuttaviensa kanssa valtiollisista tapahtumista, joita hän arvosteli
+harvinaisen terävänäköisesti, selvästi ja ennakkoluulottomasti." Hänen
+myötätuntonsa oli kokonaan vallankumouksellisten aatteiden puolella.
+"Hän rakasti tasavaltalaisia periaatteita", sanoo Schindler, se ystävä,
+joka parhaiten tunsi Beethovenin hänen elämänsä viimeisenä kautena.
+"Hän oli rajoittamattoman vapauden ja kansallisen riippumattomuuden
+kannattaja... Hän tahtoi, että kaikki olisivat mukana valtiota
+ohjattaessa... Hän tahtoi, että Ranska saisi yleisen äänioikeuden ja
+hän toivoi että Bonaparte sen toteuttaisi ja siten laskisi perustuksen
+ihmissuvun onnelle." Hän oli vallankumouksellinen roomalainen,
+Plutarkoksen aatteiden läpitunkema ja hän unelmoi sankaritasavallasta,
+jonka Voiton jumala, ensimäinen konsuli, perustaisi; vasaranlyöntien
+seuratessa toisiaan yhä tiheämmin hän takoo _Sankarisinfoniaa_:
+Bonaparte [23], keisariajan Iliadia ja _C-molli-sinfonian_ finalia
+(1805-1808), sankarikunnian epopeaa. Nämä olivat todellisen
+vallankumouksellisen musiikin ensimäisiä ilmauksia: ajan henki
+kumpuaa niistä esille voimakkaana ja puhtaana samoin kuin nämä suuret
+tapahtumat esiintyvät voimakkaina ja puhtaina suurille, yksinäisille
+sieluille, joiden vastaanottokykyä ei ole heikontanut kosketus
+todellisuuden kanssa. Niissä valaisee Beethovenin hahmoa heijastus
+noista sankarisodista. Ne ilmenevät, kenties hänen tietämättään,
+kaikkialla hänen tämän kauden teoksissaan: _Coriolan-alkusoitossa_
+(1807), jossa myrskyt puhaltavat, _Neljännessä kvartetissa_, op. 18,
+jonka ensimäisellä osalla on niin paljon yhteistä mainitun alkusoiton
+kanssa; _Appassionata-sonaatissa_, op. 57 (1804), josta Bismarck
+sanoi: "Jos kuulisin sitä usein, olisin aina hyvin rohkea" [24];
+_Egmontin_ partituurissa, niin, vieläpä hänen pianokonserteissaankin:
+_Es-duuri-konsertissa_, op. 73 (1809), jossa itse soittimellisessa,
+loistavassa tekotavassakin on jotain sankarillista, ikäänkuin armeijat
+marssisivat ohitsemme. — Ihmettelisimmekö sitä? Jollei Beethoven,
+kirjoittaessaan _Surumarssin sankarin kuoleman muistoksi_ (sonaatissa
+op. 26), tiennytkään sitä, että se sankari, joka oli hänen kauneimpien
+ylistyslaulujensa arvoinen ja joka paremmin kuin Napoleon soveltui
+hänen _Sankarisinfoniansa_ esi-kuvaksi, Hoche, oli juuri äsken kuollut
+Reinin lähellä, jossa hänen hautapatsaansa vieläkin kohoaa pienellä
+kummulla Koblenzin ja Bonnin välillä — oli hän kuitenkin itse Wienissä
+kaksi kertaa nähnyt voittoisan vallankumouksen. Ranskalaiset upseerit
+ovat läsnä _Fidelion_ ensi-illassa marraskuussa 1805. Kenraali Hulin,
+Bastiljin valloittaja, asettuu asumaan Lobkowitzin luokse, joka on
+Beethovenin ystävä ja suosija ja jolle _Sankarit_ ja _C-molli-sinfonia_
+ovat omistetut. Ja 10 p:nä toukok. 1809 viettää Napoleon yönsä
+Schönbrunnissa [25]. Pian puhkesi Beethovenissa viha ranskalaisia
+valloittajia kohtaan. Mutta, kuitenkin kaikitenkin, hän on tuntenut
+heidän sankaritarinansa sytyttävän hehkun; ja se, joka ei sitä tunne
+samalla tavalla kuin hän, voi ymmärtää vain puolittain tätä musiikkia,
+joka on täynnä toimintavoimaa ja keisariajan loistavia voittoja.
+
+       *       *       *       *       *
+
+Beethoven keskeytti äkkiä _C-molli-sinfonian_ kirjoittaakseen yhteen
+vetoon ja ilman tavanmukaisia valmistavia luonnoksia _Neljännen
+sinfoniansa_. Onni oli häneen kääntänyt suopeat kasvonsa. Toukokuussa
+1806 hän meni kihloihin Therese von Brunswickin kanssa [26], joka jo
+kauan oli rakastanut häntä, aina siitä saakka kun hän pienenä tyttönä
+oli käynyt pianotunneilla hänen luonaan hänen Wienissä-olonsa ensi
+aikoina. Theresen veli, kreivi Franz, oli Beethovenin ystävä. V.
+1806 oli Beethoven heidän vieraanaan Martonvásárissa, Unkarissa, ja
+täällä he rakastuivat toisiinsa. Näiden onnellisten päivien muisto
+on säilynyt muutamissa Therese von Brunswickin kertomuksissa.[27]
+"Eräänä sunnuntai-iltana", kirjoittaa hän, "istuutui Beethoven
+päivällisen jälkeen pianon ääreen. Oli kuutamo. Aluksi hän antoi
+käsiensä vain liukua koskettimilla. Franz ja minä tunsimme hänet:
+hän alkoi soittonsa aina tällä tavalla. Sitten löi hän muutamia
+bassosointuja, ja hitaasti, salaperäisen juhlallisesti soitti hän nyt
+Sebastian Bachin laulun:[28] '_Jos tahdot antaa minulle sydämesi, niin
+pysyköön se aluksi salaisuutena; älköön kukaan saako aavistaa meidän
+yhteistä ajatustamme_.' Äitini ja pastori olivat uinahtaneet; veljeni
+tuijotti vakavana eteensä, ja minä, joka olin syvästi liikutettu
+hänen laulustaan ja hänen katseestaan, minä tunsin elämän kaikessa
+runsaudessaan. — Seuraavana aamuna tapasimme toisemme puistossa. Hän
+sanoi minulle: 'Sävellän nykyään oopperaa. Sen päähenkilö on minussa,
+minun ympärilläni, kaikkialla missä liikun, kaikkialla missä olen.
+En ole koskaan kohonnut sellaisiin korkeuksiin. Kaikki on valoisaa,
+puhdasta, kirkasta. Tähän saakka olen ollut sen sadun lapsen kaltainen,
+joka kokoaa kiviä eikä huomaa loistavaväristä kukkaa, joka kasvaa
+aivan tien varrella...' Toukokuussa 1806 tulin hänen morsiamekseen,
+mutta ainoastaan hellästi rakastama veljeni Franz antoi siihen
+myöntymyksensä."
+
+_Neljäs sinfonia_, samana vuonna sävelletty, on puhdas kukka, jonka
+tuoksu on kotoisin näiltä hänen elämänsä valoisimmilta päiviltä.
+Tässä sävellyksessä on aivan oikein kiinnitetty huomiota "Beethovenin
+senaikaiseen pyrkimykseen sovelluttaa mikäli mahdollista neronsa
+sen mukaan, mikä silloin oli yleisesti tunnettua ja pidettyä niissä
+muodoissa, jotka hän oli saanut perinnöksi edeltäjiltään" [29]. Sama
+sovinnollinen mieliala, rakkauden esiinloihtima, vaikutti myöskin hänen
+tapoihinsa ja elämäänsä. Ignaz von Seyfried ja Grillparzer sanovat,
+että hän on tulvillaan ilomieltä, vilkas, hauska, henkevä, kohtelias
+seurustelussaan, kärsivällinen tunkeilevia ihmisiä kohtaan, hienosti ja
+maukkaasti puettu, niin — eivätpä he huomaa hänen kuurouttaankaan, vaan
+väittävät, että hän on täysin terve, lukuunottamatta näköä, joka on
+heikko [30]. Saman vaikutelman saa eräästä romantisen ja hiukan haetun
+sirosta muotokuvasta, jonka Maehler näihin aikoihin hänestä valmisti.
+Beethoven tahtoo miellyttää, ja hän tietää että hän miellyttää. Leijona
+on rakastunut; se vetää kyntensä sisään. Mutta hänen leikittelevän
+tapansa, hänen B-duuri-sinfoniansa mielikuvien ja vieläpä hellyydenkin
+takaa voi koko ajan huomata pelottavan voiman, oikuttelevan luonteen
+laadun, äkkipikaiset ja kiivaat tunteenpurkaukset.
+
+Tämä syvä rauha ei tullut kestämään kauan, mutta rakkauden
+hyväätekevä vaikutus jatkui vuoteen 1810 saakka. Rakkauttaan on
+Beethovenin epäilemättä kiittäminen siitä itsensä hillitsemisestä,
+joka salli hänen neronsa tähän aikaan kantaa täydellisimmät
+hedelmänsä: _C-molli-sinfonian_, tuon klassillisen tragedian ja
+_Pastorale-sinfonian_ (1808), tuon jumalallisen suvipäivä-unelman [31].
+— Shakespearen _Myrskyn_[32] haltioittama _Appassionata_, jota hän itse
+piti sonaateistaan valtavimpana, ilmestyi 1807 ja on omistettu Theresen
+veljelle. Thereselle itselleen omisti hän unelmoivan ja fantastisen
+sonaatin op. 78 (1809). Eräs kirje, jossa ei ole päivämäärää [33]
+ja joka on osoitettu _Kuolemattomalle rakastetulle_, uhkuu yhtä
+vakuuttavasti kuin _Appassionatakin_ hänen rakkautensa hehkuvaa voimaa:
+
+"Enkelini, kaikkeni, oma minäni... sydämeni on täysi pakahtuakseen
+kaikkea sitä, mitä minulla on sinulle sanottavana. Ah, missä lienenkin,
+siellä olet sinä kerallani... Minä itken, kun ajattelen, että et
+luultavasti ennen sunnuntaita saa minusta kuulla. — Rakastan sinua,
+kuten sinä rakastat minua, mutta paljoa voimakkaammin... Oi, Jumala!
+— Mikä elämä! Ilman sinua! — Niin lähellä, niin kaukana. — Ajatukseni
+kiirehtävät luoksesi, kuolematon rakastettuni (meine unsterbliche
+Geliebte), milloin iloisina, milloin taas suruisina, kääntyen kysyvinä
+kohtalon puoleen, pyytäen sitä kuulemaan rukouksemme. — En voi elää
+muutoin kuin sinun kanssasi, muutoin en elä lainkaan... Sydäntäni
+ei koskaan tule saamaan kukaan muu. Ei koskaan! — Ei koskaan! — Oi,
+Jumala, minkätähden täytyy olla kaukana toisistaan, kun rakastaa toinen
+toistaan? Ja kuitenkin on elämäni, sellaisena kuin nyt sitä vietän,
+täynnä tuskaa. Sinun rakkautesi on tehnyt minut samalla onnellisimmaksi
+ja onnettomimmaksi kaikista kuolevaisista. — ... Ole rauhallinen... ole
+rauhallinen — rakasta minua! — Tänään, — eilen, — mikä polttava kaipuu,
+mikä kyynelten tulva sinun puoleesi — sinun — sinun — sinä minun
+elämäni — kaikkeni! — Hyvästi! — Oi, rakasta minua aina. — Älä epäile
+koskaan rakastamasi Ludwigin sydäntä. — Ikuisesti sinun — ikuisesti
+minun — ikuisesti toinen toistemme". [34]
+
+Mikä oli se salaperäinen voima, joka asetti paulansa molempien
+rakastavien onnen tielle? — Kenties varojen puute, heidän erilainen
+yhteiskunnallinen asemansa. Kenties nousi Beethoven sitä pitkää
+odotusaikaa vastaan, joka häneltä vaadittiin, tai kenties tuntui
+hänestä liian nöyryyttävältä loppumattomiin saakka pitää rakkauttaan
+salassa.
+
+Kenties hän myöskin, kiivasluontoinen, sairas ja ihmisarka kun oli,
+tahtomattaan aiheutti rakastetulleen suruja ja kärsimyksiä, ja oli itse
+siitä epätoivoinen. — Suhde särkyi, mutta kuitenkaan ei kumpikaan näy
+koskaan unhottaneen rakkauttaan. Viimeiseen elinpäiväänsä saakka (hän
+kuoli vasta 1861) rakasti Therese von Brunswick Beethovenia.
+
+Ja Beethoven sanoi, v. 1816: "Häntä ajatellessani lyö sydämeni vielä
+yhtä kiivaasti kuin sinä päivänä, jolloin näin hänet ensi kerran".
+Samalta vuodelta ovat syntyisin kuusi laulua _kaukaiselle rakastetulle
+(an die ferne Geliebte)_, op. 98, joiden sävy on niin liikuttava
+ja syvä. Hän kirjoittaa päiväkirjaansa: "Sydämeni on tulvillaan
+katsellessani tätä ihmeellistä luontoa, ja kuitenkin — Hän ei ole
+täällä, minun lähelläni!" — Therese oli antanut kuvansa Beethovenille,
+siinä oli omistus: "Harvinaiselle nerolle, suurelle taiteilijalle,
+hyvälle ihmiselle. T.B. [35]" Beethovenin elämän viime vuosina yllätti
+eräs ystävä hänet, kun hän yksin, itkien suuteli tätä kuvaa ja tapansa
+mukaan puheli itsekseen kovaa: "Olit niin kaunis, niin jalo, enkelien
+lainen!" Ystävä vetäytyi pois, palasi myöhemmin takaisin, löysi hänet
+pianon äärestä ja sanoi: "Tänään, vanha ystäväni, ei sinun kasvoissasi
+näy jälkeäkään paholaisesta". Beethoven vastasi: "Sen vuoksi, että hyvä
+enkelini on käynyt luonani". — Haava oli syvä. "Beethoven-parka", sanoi
+hän itselleen, "sinua varten ei ole mitään onnea tässä maailmassa.
+Ainoastaan ihanteiden avaruuksissa löydät sinä ystäviä." [36]
+
+Hän kirjoittaa päiväkirjaansa: "Alistu, alistu täydellisesti
+kohtaloosi: sinä et voi enää olla olemassa itseäsi, vaan ainoastaan
+toisia varten; sinulle ei enää löydy onnea muualla kuin omassa
+taiteessasi. Oi, Jumala, anna minulle voimaa voittamaan itseni!"
+
+       *       *       *       *       *
+
+Niin on hän siis rakkauden hylkäämä. V. 1810 on hän yksinään; mutta
+maine on tullut, ja oman voiman tunto. Hän on parhaimmassa miehuutensa
+ijässä. Hän antautuu kiivaan ja rajun luontonsa johdettavaksi,
+välittämättä enää mistään, huolimatta ihmisistä, sovinnaisuuden
+vaatimuksista, toisten mielipiteistä. Mitä on hänellä peljättävää tai
+suojeltavaa? Ei rakkautta, ei kunnianhimoa enää. Hänen voimansa, se
+on hänellä vielä jäljellä, siitä johtuva ilon tunne ja tarve käyttää
+sitä, melkeinpä käyttää sitä väärinkin. "Voima, siinä on niiden
+ihmisten moraali, jotka sulkevat itsensä pois laumoista." Hän on
+jälleen huolimaton pukeutumisessaan ja hänen käytöstapansa vapaus on
+tullut huomattavasti entistä rohkeammaksi. Hän tietää että hänellä
+on oikeus lausua julki kaikki, vieläpä korkeimmassa arvossa oleville
+henkilöillekin. "En tunnusta muuta ylemmyyden merkkiä kuin hyvyyden",
+kirjoittaa hän 17 p. heinäk. 1812 [37]. Bettina Brentano, joka näki
+hänet tähän aikaan, sanoo ettei "kenelläkään keisarilla, kenelläkään
+kuninkaalla ole sellaista tietoisuutta oman voimansa suuruudesta".
+Hänet hurmasi Beethovenin valtava henki. "Kun ensi kerran näin hänet",
+kirjoittaa hän Goethelle, "katosi koko maailma silmistäni. Beethoven
+sai minut unohtamaan ihmiset ja myöskin sinut, oi Goethe... En luule
+että erehdyn, kun vakuutan, että tämä mies on paljon nykyaikaista
+sivistystä edempänä." Goethe etsi Beethovenin tuttavuutta. He tapasivat
+toisensa eräässä Böömin kylpypaikassa, Teplitzissä, v. 1812, mutta
+tulivat huonosti toimeen keskenänsä. Beethoven ihaili kiihkeästi
+Goethen neroa [38], mutta hänen luonteensa oli aivan liian vapaa ja
+hillitön Goethen luonteeseen soveltuakseen ja voidakseen olla tätä
+loukkaamatta. Hän on itse kertonut eräästä kävelymatkasta, jonka he
+tekivät yhdessä ja jonka kestäessä hän, ylpeä tasavaltalainen, opetti
+arvokkuuden vaatimuksia Weimarin suurherttuan salaneuvokselle, joka ei
+koskaan sitä antanut hänelle anteeksi:
+
+"Kuninkaat ja ruhtinaat voivat tosin tehdä professoreita
+ja salaneuvoksia; he voivat kuormittaa nämä arvonimillä ja
+ritarimerkeillä; mutta he eivät voi tehdä suuria ihmisiä, henkiä, jotka
+kohoavat maailman saastan yläpuolelle...; ja kun kaksi sellaista miestä
+kuin Goethe ja minä olemme yhdessä, saavat nämä herrat tunnustaa meidän
+suuruutemme. — Eilen tapasimme kotimatkalla koko keisarillisen perheen.
+Näimme sen lähestyvän kaukaa. Goethe päästi minun käteni, voidakseen
+asettua asentoon tiensyrjään. Kaikista puheistani ja pyynnöistäni
+huolimatta en saanut häntä ottamaan askeltakaan eteenpäin. Painoin
+silloin hatun syvälle päähäni, napitin takin kiinni ja tunkeusin kädet
+selän takana keskelle tiheintä joukkoa. — Ruhtinaat ja hovimiehet
+muodostivat piirin; herttua Rudolf paljasti päänsä edessäni, keisarinna
+tervehti ensimäiseksi minua. — Korkeat henkilöt tuntevat minut. —
+Hauskuudekseni näin kulkueen vaeltavan Goethen ohitse. Hän seisoi yhä
+tiepuolessa, syvään kumartuneena, hattu kädessä. Läksytin häntä sitten
+aikalailla, en suinkaan säästänyt häntä..."[39] Goethe puolestaan
+muisti tämän solvauksen aina. [40]
+
+Näiltä ajoilta ovat _Seitsemäs_ ja _Kahdeksas sinfonia_, jotka ovat
+sävelletyt muutamien kuukausien kuluessa Teplitzissä v. 1812: rytmin
+orgia ja humoristinen sinfonia, teokset, joissa hän kenties esiintyy
+enimmän luonnollisena ja, kuten hän sanoi, enimmän "napit auki"
+(aufgeknöpft), noine ilon ja hurjuuden puuskineen, aavistamattomine
+vastakohtineen, rajuine ja suuremmoisine päähänpistoineen, noine
+jättimäisine tulivuoren purkauksineen, jotka saattoivat Goethen ja
+Zelterin kauhun valtaan [41] ja saivat sanomalehti "Norddeutschlandin"
+kirjoittamaan A-duuri-sinfoniasta, että se oli humalaisen tekemä.
+Humalaisen työtä tosiaankin, mutta miehen, joka oli päihtynyt
+voimasta ja neroudesta. "Minä olen", on hän itse sanonut, "Bacchus,
+joka valmistaa suloista nektaria ihmiskunnalle. Minä juuri lahjoitan
+ihmisille hengen jumalaista hulluutta." En tiedä, onko hän, kuten
+Wagner on kirjoittanut, tahtonut tämän sinfonian finalissa kuvata
+Dionysos-juhlaa [42]. Minä näen ennen kaikkea tässä tulisessa
+"kermessissä" todistuksen hänen flaamilaisesta syntyperästään, samalla
+kertaa kuin tunnen sen hänen puheensa ja tapojensa rohkeudessa
+ja vapaudessa, joka niin räikeästi loukkaa korvaa kurin ja
+tottelevaisuuden maassa. Ei missään ole riippumattomuus ja kahleita
+kammova voima siinä määrin vallitsevana kuin _A-duuri-sinfoniassa_. Se
+on hullua yli-inhimillisen tarmon tuhlausta, jolla ei ole päämäärää,
+vaan ilo itsessään, ilo, joka virran lailla tulvehtii yli äyräittensä
+ja hukuttaa kaikki. _Kahdeksannessa sinfoniassa_ on tämä voima
+vähemmän suuremmoista, mutta vielä ihmeteltävämpää ja tekijälleen
+luonteenomaisempaa, kun se sekoittaa murhenäytelmän farssiin ja
+herkuleellisen väkevyyden lapsen leikkeihin ja oikkuihin. [43]
+
+Vuosi 1814 merkitsee huippukohtaa Beethovenin ulkonaisessa
+menestyksessä. Wienin kongressissa kohdeltiin häntä kuin eurooppalaista
+suuruutta. Juhlallisuuksiin otti hän toimivana henkilönä osaa.
+Ruhtinaat osoittivat hänelle kunnioitustaan ja hän antoi ylpeänä heidän
+kosiskella itseään, kuten hän kehaisi Schindlerille.
+
+Vapautussota oli saanut hänen innostuksensa liekehtimään [44]. V.
+1813 hän kirjoitti sinfonian _Wellingtonin voitto_ ja alussa vuotta
+1814 sotakuoron: _Saksan jälleensyntyminen (Germanias Wiedergeburt)_.
+29 p:nä marrask. 1814 hän johti kuningas yleisölle isänmaallisen
+kantaattinsa: _Kunniakas hetki (Der glorreiche Augenblick)_ ja v.
+1815, Parisin valloituksen johdosta, kuoron: _Se on täytetty! (Es ist
+vollbracht!)_ Nämä tilapäissävellykset tekivät hänen maineensa hyväksi
+enemmän kuin kaikki hänen muu sävellystuotantonsa. Blasius Haefelin
+ranskalaisen Letronnen piirustuksen mukaan tekemä vaskipiirros sekä
+rehevä naamio, jonka Franz Klein hänen kasvoistaan otti 1812, antavat
+elävän kuvan Beethovenista Wienin kongressin ajoilta. Hallitsevana
+ilmeenä tässä leijonahahmossa, yhteenpuserrettuine leukoineen, vihan
+ja tuskan vaoittamine piirteineen, on tahto — napoleonilainen tahto.
+Tunnemme miehen, joka sanoi Napoleonista Jenan taistelun jälkeen: "Mikä
+onnettomuus, että en ymmärrä sotataitoa yhtä hyvin kuin sävellystä!
+Minä hänet voittaisin!" — Mutta hänen valtakuntansa ei ollut tästä
+maailmasta. "Minun valtakuntani on ilmassa", kuten hän kirjoitti Franz
+von Brunswickille (Mein Reich ist in der Luft.)[45]
+
+       *       *       *       *       *
+
+Tätä kunniakasta aikaa seuraa surullisin ja onnettomin kausi
+Beethovenin elämässä.
+
+Wien ei ollut koskaan miellyttänyt Beethovenia. Hänen ylpeä ja
+vapaa neronsa ei voinut viihtyä tässä keinotekoisessa, hengeltään
+pintapuolisessa ja keskinkertaisessa kaupungissa, johon Wagner niin
+säälimättömästi on polttanut halveksintansa leiman [46]. Hän ei
+laiminlyönyt yhtään tilaisuutta poistuakseen sieltä ja noin v. 1808
+hän vakavasti aikoi jättää Itävallan lähteäkseen Jérôme Bonaparten,
+Westfalin kuninkaan hoviin [47]. Mutta Wienissä oli musiikin alalla
+runsaasti mahdollisuuksia, ja täytyy oikeuden mukaisesti tunnustaa,
+että siellä aina oli jaloja musiikinystäviä, jotka tunnustivat
+Beethovenin suuruuden ja säästivät synnyinmaaltaan häpeän kadottaa
+hänet. V. 1809 oli kolme Wienin rikkainta aatelismiestä, arkkiherttua
+Rudolf, Beethovenin oppilas, ruhtinas Lobkowitz ja ruhtinas Kinsky,
+sitoutunut vuosittain hänelle suorittamaan 4,000 florinin eläkkeen
+sillä ainoalla ehdolla, että hän jäisi Itävaltaan. "Koska on
+osoittautunut", lausuivat he, "että ihminen ei kokonaan voi antautua
+taiteelleen joutumatta aineellisten huolien rasittamaksi ja että hän
+vasta niiden poistuttua voi luoda yleviä teoksia, jotka ovat taiteelle
+kunniaksi, ovat allekirjoittaneet päättäneet turvata Ludwig van
+Beethovenin taloudelliselta ahdingolta ja siten poistaa ne esteet,
+jotka saattaisivat ehkäistä — hänen neronsa lentoa."
+
+Onnetonta kyllä eivät nämä lupaukset näyttäytyneet paikkaansapitäviksi.
+Avustusta ei koskaan säntillisesti suoritettu, ja pian lakkasi se
+kokonaan. Sitäpaitsi oli Wien muuttanut tapojaan vuoden 1814 kongressin
+jälkeen. Seurapiirit unohtivat taiteen politiikan vuoksi, italialainen
+vaikutus tärveli musikaalista makua, ja muotimielipide, joka kokonaan
+kulki Rossinin merkeissä, piti Beethovenia kuivakiskoisena. [48]
+
+Beethovenin ystävät ja suosijat joko muuttivat pois tai kuolivat:
+ruhtinas Kinsky 1812, Lichnowsky 1814, Lobkowitz 1816. Rasumowsky,
+jolle hän on säveltänyt ihailtavat kvartettinsa op. 59, antoi viimeisen
+konserttinsa helmikuussa 1815. Samana vuonna rikkoo Beethoven välinsä
+Stephan von Breuningin, lapsuudenystävänsä, Eleonoren veljen kanssa
+[49]. Tämän jälkeen on hän yksin [50]. "Minulla ei ole ketään ystävää",
+kirjoittaa hän päiväkirjaansa 1816.
+
+Kuurous oli nyt tullut täydelliseksi [51]. Syksystä 1815 voi hän
+ainoastaan kirjallisesti keskustella ihmisten kanssa. Vanhin
+keskusteluvihko on vuodelta 1816 [52]. Schindlerin surullinen kertomus
+_Fidelio-esityksestä_ v. 1822 on yleisesti tunnettu. "Beethoven halusi
+johtaa kenraaliharjoitusta... Jo ensimäisen näytöksen duetossa kävi
+selville, ettei hän kuullut mitään siitä, mitä tapahtui näyttämöllä.
+Hän hidastutti tempoa huomattavasti, ja sillä välin kun orkesteri
+seurasi hänen tahtipuikkoaan, kiiruhtivat laulajat puolestaan tempoa.
+Yleinen hämminki syntyi. Orkesterin varsinainen johtaja, Umlauf,
+määräsi harjoituksen hetkeksi keskeytettäväksi, ilmoittamatta
+syytä siihen, ja kun hän oli vaihtanut muutamia sanoja laulajien
+kanssa, aloitettiin uudelleen. Sama sekasorto syntyi jälleen.
+Täytyi määrätä uusi väliaika. Oli selvää, että esityksen jatkaminen
+Beethovenin johdolla oli mahdotonta, mutta kuinka tehdä hänelle tämä
+ymmärrettäväksi? Ei kellään ollut sydäntä sanoa hänelle: 'Mene tiehesi,
+mies parka, sinä et voi johtaa'. Beethoven, levottomana, kiihtyneenä,
+käännähteli oikealle ja vasemmalle, koetti lukea eri kasvojenilmeitä
+ja käsittää, mistä keskeytys johtui — kaikkialla sama hiljaisuus.
+Äkkiä kutsui hän minua luokseen käskevällä äänenpainolla. Kun olin
+tullut hänen lähelleen, ojensi hän minulle keskusteluvihkonsa ja teki
+merkin, että kirjoittaisin. Kirjoitin siihen nämä sanat: 'Pyydän, ettet
+jatka enää; kotona sanon sinulle minkätähden.' Yhdellä hyppäyksellä
+oli hän permannolla ja huusi minulle: 'Mennään heti!' Hän juoksi yhtä
+mittaa kotiin; astuttuaan huoneeseensa heittäytyi hän voimattomana
+sohvalle, kätkien kasvonsa käsiinsä. Siten makasi hän päivälliseen
+saakka. Pöydässä oli mahdotonta saada hänestä yhtään sanaa irti; koko
+ajan pysyi hänen kasvoillaan masentunut ja syvästi tuskaisa ilme. Kun
+minä päivällisen jälkeen tahdoin poistua, pyysi hän minua jäämään,
+sanoen, ettei hän haluaisi olla yksin. Kun meidän piti erota, pyysi
+hän, että seuraisin häntä hänen lääkärinsä luokse, jolla oli suuri
+maine korvatautien taitavana käsittelijänä... Koko Beethovenin ja minun
+välisen suhteeni aikana ei myöhemmin ollut yhtään päivää, jota olisi
+voinut verrata tähän kohtalokkaaseen marraskuunpäivään... Hän oli
+järkytetty sisimpään olemukseensa saakka, ja aina hänen kuolemaansa
+asti säilyi tämä hirveä kohtaus hänen muistossaan".[53]
+
+Kahta vuotta myöhemmin, 7 p. toukok. 1824, johtaessaan _Kuorosinfonian_
+esitystä (tai oikeammin, kuten ohjelmassa mainitaan, "ottaessaan
+osaa konsertin johtamiseen"), ei hän kuullut lainkaan salintäyteisen
+kuulijakunnan myrskyisiä suosionosoituksia; hän ei aavistanut mitään
+ennenkuin eräs laulajattarista otti häntä kädestä ja käänsi hänet
+yleisöön päin, jolloin hän äkkiä näki kuulijoiden seisovan, heiluttaen
+hattujaan ja käsiään taputtaen. — Eräs englantilainen matkustaja,
+Russel, joka noin v. 1825 kuuli hänen soittavan, mainitsee, että kun
+hän tahtoi soittaa hyvin hiljaa, eivät koskettimet antaneet mitään
+ääntä, ja että oli järkyttävää tämän hiljaisuuden vallitessa tarkata
+sitä voimakasta mielenliikutusta, joka hänet valtasi, hänen kasvojensa
+ilmeessä ja hänen suonikkaissa sormissaan.
+
+Itseensä sulkeutuneena,[54] erillään muista ihmisistä, hän löysi
+ainoan lohdutuksensa luonnosta. "Se oli hänen ainoa uskottunsa", sanoo
+Therese von Brunswick. Sen helmaan hän pakeni. Charles Neate, joka
+tutustui häneen 1815, sanoo, ettei hän koskaan ole nähnyt ketään, joka
+niin rajattomasti rakastaisi kukkia, pilviä, koko luontoa [55]: hän
+näytti imevän siitä itseensä ravintoa. — "Ei kukaan koko maan päällä
+voi rakastaa maaseutua niin kuin minä", kirjoittaa Beethoven... — Kun
+hän oli Wienissä, teki hän joka päivä kävelyretken ympäri linnoitusten
+muurien. Maalla vaelsi hän yksinään auringonnoususta pimeän tuloon
+saakka, ilman hattua, satoipa sitten tai paistoi. "Kaikkivaltias! —
+Metsässä olen onnellinen — onnellinen metsässä, missä jokainen puu
+puhuu sinusta. — Jumala, mikä ihanuus! — Metsissä, kummuilla, siellä
+vallitsee hiljaisuus, hiljaisuus sinua palvellakseni."
+
+Hänen sielullinen levottomuutensa vaimentui luonnossa muutamiksi
+hetkiksi.[56] Häntä kiusasivat rahahuolet. V. 1818 kirjoittaa hän:
+"Olen köyhä kuin kerjäläinen ja kuitenkin täytyy minun pitää huolta
+siitä, ettei luultaisi minun kärsivän mitään puutetta." Ja toisessa
+paikassa: "_Sonaatti op. 106_ on sävelletty tukalissa olosuhteissa.
+On raskasta tehdä työtä saadakseen leipää." Spohr sanoo, että hän
+useinkaan ei voinut mennä ulos rikkinäisten jalkineittensa vuoksi.
+Hän oli velkaa suuria summia kustantajilleen, ja hänen teoksensa
+eivät tuottaneet hänelle mitään. _D-duurimessu_, joka tarjottiin
+ennakolta tilattavaksi, sai seitsemän tilaajaa (niiden joukossa ei
+ollut yhtään säveltaiteilijaa) [57]. Hän sai tuskin kolmea- tai
+neljääkymmentä tukaattia ihmeteltävistä sonaateistaan, joihin jokaiseen
+hän oli uhrannut kolmen kuukauden työn. Ruhtinas Galitzin tilasi
+häneltä kvartetit op. 127, 130 ja 132, hänen kenties syvämielisimmät
+sävellyksensä, jotka — siltä tuntuu — ovat hänen sydänverellään
+kirjoitetut; hän ei maksanut niitä koskaan. Beethovenia tuskastuttivat
+taloudelliset huolet ja loputtomat oikeudenkäynnit, joita hän kävi
+saadakseen itselleen maksetuiksi hänelle tulevat vuotuiset avustukset
+tai säilyttääkseen itsellään veljenpoikansa holhoojatoimen, pojan,
+jonka isä, hänen veljensä Karl, oli 1815 kuollut keuhkotautiin.
+
+Hän oli tähän lapseen kiintynyt kaiken sen hellyyden siteillä, jota
+hänen sydämensä oli tulvillaan. Mutta tässä sai hän kannettavakseen yhä
+lisää katkeria kärsimyksiä. Näyttää siltä kuin olisi joku korkeampi
+voima pitänyt huolta siitä, että hänen onnettomuutensa lakkaamatta
+uudistuisivat ja lisääntyisivät ja että hanen neronsa aina tulisi
+saamaan kyllältä ravintoa. — Aluksi täytyi hänen taistella pikku
+Karl'in omistamisesta hänen arvottoman äitinsä kanssa, joka tahtoi
+hänet riistää häneltä:
+
+"Oi, Jumalani", kirjoittaa hän, "minun kilpeni, minun suojani, minun
+ainoa turvani! Sinä luet sieluni sisimpään ja näet sen tuskan, jota
+tunnen, kun minun täytyy tuottaa kärsimyksiä niille, jotka tahtovat
+minulta riistää oikeuteni Karl'iini, aarteeseeni [58]. Kuule minua,
+Olento, jonka nimeä en tunne, kuule onnettomimman luomasi palava
+rukous!"
+
+"Oi, Jumala, auta minua! Sinä näet kuinka koko ihmiskunta on minut
+hyljännyt, koska en tahdo alistua vääryydelle. Kuule tämä rukoukseni,
+jonka kohotan puoleesi saadakseni ainakin tulevaisuudessa elää yhdessä
+Karl'ini kanssa!... Oi julmaa osaani, lepyttämätöntä kohtaloani! Ei,
+ei, onnettomuudelleni ei tule koskaan loppua!"
+
+Tämä veljenpoika, jota hän niin intohimoisesti rakasti, ei myöhemmin
+osoittautunut setänsä luottamuksen arvoiseksi. Kirjeenvaihdossa
+Beethovenin ja hänen välillään on tuskan ja harmin leima, aivan kuin
+Michelangelon kirjeenvaihdossa veljiensä kanssa, mutta tässä se on
+naivimpaa ja liikuttavampaa:
+
+"Saanko vielä kerran palkakseni vain häpeällisintä kiittämättömyyttä?
+No hyvä, jos siteen meidän välillämme täytyy särkyä, käyköön niin!
+Kaikki puolueettomat ihmiset, jotka saavat sen tietää, tulevat sinua
+vihaamaan... Jos se suhde, joka yhdistää meitä, sinua rasittaa, niin
+Jumalan nimessä — tapahtukoon hänen tahtonsa mukaan! — Hylkään sinut
+Kohtalon kouriin; olen tehnyt kaikki, mitä olen voinut; minä voin astua
+Korkeimman Tuomarin kasvojen eteen..." [59]
+
+"Hemmoiteltu kun olet, ei olisi sinulle vahingoksi vihdoinkin
+koettaa olla luonnollinen ja tosi; sydämeni on kärsinyt liian paljon
+rehentelevästä käytöksestäsi minua kohtaan ja minun on vaikea
+unohtaa... Jumala on todistajani, että ainoa toivoni on saada pysyä
+sinusta tuhannen peninkulman päässä, sinusta, sinun surkuteltavasta
+veljestäsi ja inhoittavasta perheestäsi... En voi enää osoittaa
+luottamusta sinulle." Ja allekirjoitus kuuluu: "Isäsi, onnetonta kyllä
+— tai pikemminkin, ei sinun isäsi". [60]
+
+Mutta anteeksianto seuraa pian:
+
+"Rakas poikani! — Ei sanaakaan enää, — tule syliini, sinun ei tarvitse
+enää kuulla ainoatakaan kovaa sanaa... Otan sinut vastaan samoin
+rakkaudentuntein kuin ennenkin. Kaikessa ystävyydessä keskustelemme
+siitä, mitä olisi tehtävä tulevaisuutesi hyväksi. — Kunniasanallani, ei
+mitään soimauksia! Niistä ei enää ole mitään hyötyä. Sinulla on minun
+puoleltani odotettavana vain mitä rakkainta huolenpitoa ja apua. Riennä
+— riennä uskollisen isäsi rinnoille! — Beethoven. — Niinpian kuin olet
+saanut tämän kirjeen, kiiruhda kotiin!" (Kirjeen kuoreen oli ranskaksi
+kirjoitettu: "_Si vous ne viendrez pas, vous me tuerez sǔrement_".) [61]
+
+"Älä valehtele", rukoilee hän. "Pysy aina minun rakkaana poikanani!
+Mikä kauhea epäsointu, jos saisin palkakseni sinulta viekastelevaa
+imartelua, niinkuin minulle tahdotaan uskotella!... Hyvästi! Se
+henkilö, joka ei tosin ole antanut sinulle elämää, mutta joka aivan
+varmaan on sitä ylläpitänyt ja joka on omistanut sinun siveelliselle
+kasvatuksellesi kaiken mahdollisen huolenpitonsa enemmän kuin
+isällisellä alttiudella, hän pyytää syvimmästä sydämestään sinua
+kulkemaan hyvän ja oikean ainoaa varmaa tietä. Uskollinen, hellä
+isäsi." [62]
+
+Tuuditeltuaan itsensä kaikenlaisiin unelmiin veljenpoikansa
+tulevaisuudesta, pojan, jolta ei puuttunut älyä ja jonka hän tahtoi
+kouluuttaa tiedemieheksi, täytyi Beethovenin lopuksi myöntyä siihen,
+että pojasta tulisi kauppamies. Mutta Karl kävi pelipaikoissa ja teki
+velkoja.
+
+Sedän moraalinen suuruus, sen sijaan että se olisi ollut veljenpojalle
+hyödyksi, vaikutti häneen päinvastoin vahingollisesti — surullinen
+ilmiö, joka on tavallisempi kuin yleensä luullaankaan —, se ärsytti
+häntä, teki hänet kapinoivaksi, niinkuin hän itse sanoi tuossa
+hirveässä lausunnossaan, jossa hänen sielunsa alhaisuus selvästi
+paljastuu: "Minä olen tullut huonoksi ihmiseksi sen vuoksi, että
+setäni tahtoi minusta tehdä parempaa". Hän luisui niin alas, että hän
+kesällä 1826 ampui pistoolin luodin päähänsä. Hän ei kuollut; mutta
+Beethoven sen sijaan oli vähällä kuolla tästä iskusta; hän ei koskaan
+toipunut tämän tapauksen tuottamasta mielenjärkytyksestä [63]. Karl
+parantui: hän eli ja tuotti viime hetkeen saakka katkeroita kärsimyksiä
+sedälleen, jonka kuolemaan hän ei ole aivan syytön ja jonka luona hän
+kuoleman saapuessa ei ollut. — "Jumala ei ole minua koskaan hyljännyt",
+oli Beethoven muutamia vuosia sitä ennen kirjoittanut veljenpojallensa.
+"Kyllä aina löytyy joku, joka sulkee silmäni." — Se ei tullut olemaan
+hän, jota Beethoven kutsui "pojakseen". [64]
+
+       *       *       *       *       *
+
+Tämän surujen kuilun syvyyksistä kohosi Beethoven laulamaan Ilon
+ylistystä.
+
+Sitä oli hän mielikuvituksessaan suunnitellut läpi koko elämänsä.
+Jo v. 1793 hän sitä ajatteli Bonnissa ollessaan [65]. Kautta koko
+elämänsä tahtoi hän laulaa Ilon kunniaa ja seppelöidä sillä jonkun
+suurista teoksistaan. Koko elämänsä oli hän epätietoinen tämän hymnin
+varmasta muodosta ja siitä teoksesta, johon hän sen voisi sijoittaa.
+Eipä edes _Yhdeksättä sinfoniaa_ luodessaan hän ollut tästä asiasta
+selvillä. Viimeiseen hetkeen saakka oli hän aikeissa käyttää _Odia
+Ilolle_ kymmenennessä tai yhdennessätoista sinfoniassaan. On tarkoin
+huomattava, että _Yhdeksännellä_ ei, kuten tavallisesti sanotaan, ole
+otsikkoa _Sinfonia kuoroineen_, vaan _Sinfonia ynnä loppukuoro Odiin
+Ilolle_. Sinfonia olisi voinut, ja oli lähelläkin, saada toisellaisen
+loppuosaston. Vielä heinäkuussa 1823 aikoi Beethoven kirjoittaa siihen
+soitin-finalin, saman, jota hän sitten käytti kvartetissa op. 132.
+Czerny ja Sonnleithner vakuuttavat vieläpä sitäkin, että sinfonian
+esityksen jälkeenkään (toukok. 1824) Beethoven ei ollut luopunut tästä
+ajatuksesta.
+
+Kuoron liittäminen sinfoniaan tarjosi suuria teknillisiä vaikeuksia,
+niinkuin näkyy Beethovenin luonnosvihoista ja hänen monista kokeistaan
+antaa lauluäänien esiintyä toisella tavalla ja toisissa paikoissa
+teoksessa. _Adagion_ [66] jälkimäisen melodian luonnossuunnitelmaan
+on hän kirjoittanut: "Kenties kuoro luontevammin soveltuisi tähän".
+Mutta hän ei voinut olla päättäväinen, kun hänen olisi ollut
+luovuttava rakkaasta orkesteristaan. "Kun saan jonkun musikaalisen
+ajatuksen", sanoi hän, "kuulen sen aina jossakin soittimessa, en
+koskaan lauluäänessä." Niinpä hän lykkääkin niin kauan kuin mahdollista
+tuonnemmaksi sitä hetkeä, jolloin lauluäänet tulisivat käytettäviksi,
+ja hän menee niin pitkälle, että hän aluksi uskoo soittimille ei
+ainoastaan _finalin_ [67] resitatiivin, vaan myöskin itse Ilon teeman.
+
+Mutta täytyy mennä vielä pitemmälle selittääkseen tätä epäröimistä,
+tätä viivyttelyä: syyt siihen ovat syvemmällä. Tämä onneton mies,
+alati murheen ympäröimä, kaipasi aina saada ylistää Ilon ihanuutta, ja
+vuosi vuodelta lykkäsi hän sen toteuttamisen tuonnemmaksi, lakkaamatta
+intohimojensa pyörteiden heittelemänä ja kaihomielen raskauttamana.
+Vasta viime hetkessä saavutti hän päämääränsä. Ja kuinka suuremmoisella
+tavalla!
+
+Siinä hetkessä, jolloin Ilon teema esiintyy ensimäistä kertaa,
+orkesteri pysähtyy aavistamatta; syntyy äkillinen hiljaisuus: tämä
+antaa laululle salaperäisen ja jumalallisen leiman. Ja totta on, että
+tämä teema itse asiassa on jumala. Ilo laskeutuu alas taivaasta,
+yliluonnollisen hiljaisuuden verhoamana: kevyellä henkäyksellään
+lievittää hän kärsimyksiä, ja ensimäinen vaikutelma, jonka hän
+aikaansaa toipuvassa sydämessä, on niin hellä, että — niinkuin
+Beethovenin edellämainittu ystävä lausuu — "tuntee halua itkeä
+nähdessään hänen lempeät silmänsä". Kun lauluäänet sitten ottavat
+teeman käsitelläkseen, esiintyy se ensiksi bassossa jonkun verran
+vakavan ja painostetun sävyisenä. Mutta vähitellen Ilo valtaa koko
+olemuksen. Se on taistelua, voittoisaa taistelua tuskaa vastaan. Ja
+nyt seuraavat marssirytmit, samoavat armeijat, tenoriäänen tulinen
+ja läähättävä melodia, koko tuo tärisyttävä musiikki, jossa luulee
+tuntevansa tuulahduksen Beethovenista itsestään, hänen hengityksensä
+ja hänen haltioituneitten huutojensa rytmin, kun hän harhailee ketoja
+pitkin, säveltäen teostaan, demoonisen raivon valtaamana, kuten vanha
+kuningas Lear keskellä rajuilmaa. Taistelun riemua seuraa uskonnollinen
+hurmio, sitten pyhä orgia, rakkauden hourekuvat. Koko värisevä
+ihmiskunta ojentaa käsiään taivasta kohti, kohottaa valtavia huutoja,
+syöksyy Ilon puoleen ja painaa hänet sydämelleen.
+
+Jättiläisen teos voitti yleisen nolon keskinkertaisuuden. Wienin
+pintapuolisuus järkkyi hetkeksi; se oli kokonaan antautunut Rossinin
+ja italialaisten oopperojen kuljetettavaksi. Nöyryytettynä ja
+surullisena aikoi Beethoven asettua asumaan Lontooseen ja hän
+suunnitteli _Yhdeksännen sinfonian_ esittämistä siellä. Vielä kerran,
+aivan kuin v. 1809, pyysivät muutamat hänen jalot ystävänsä, että
+hän ei jättäisi isänmaata. "Me tiedämme", sanoivat he, "että olette
+kirjoittaneet uuden hengellisen sävelteoksen [68], jossa olette
+antaneet ilmaisumuodon niille tunteille, jotka _teidän syvä uskonne_
+on esiinkutsunut. Se _yliluonnollinen kirkkaus_, joka täyttää teidän
+suuren sielunne, levittää valonsa tämän teoksen yli. Me tiedämme
+toiseksi, että teidän suurten sinfoniojenne seppeleeseen on puhjennut
+uusi kuolematon kukka... Teidän vaitiolonne viimeisinä vuosina
+murehdutti kaikkia niitä, joiden katseet olivat kiintyneet teihin
+[69]. Kaikki ajattelivat surumielellä sitä, että nerokas mies, joka
+seisoi niin paljon korkeammaila aikaansa, pysyi vaiti, sillä välin kuin
+eräänlaatuinen ulkomainen musiikki koetti juurtua meidän maaperäämme ja
+painaa saksalaisen taiteemme unohduksiin... Teiltä, yksinomaan teiltä
+odottaa kansakunta uutta elämää, uusia laakereita, uutta toden ja
+kauniin aikakautta, huolimatta nykypäivien vallitsevasta muodista...
+Antakaa meidän uskoa, että näkisimme toivomuksemme pian täyttyvän... Ja
+kantakoon saapuva kevät, teidän lahjojenne rikastuttamana, yhä uusia
+kukkia meidän ja koko maailman siunaukseksi!" [70] Tämä ylevä lausunto
+osoittaa, kuinka suuri oli se valta, sekä taiteellinen että myöskin
+moraalinen, joka Beethovenilla oli Saksan parhaimmiston yli. Ensimäinen
+sana, joka johtuu hänen ihailijoittensa mieleen, kun he tahtovat
+osoittaa kunnioitusta hänen nerolleen, ei ole tiede, ei taide; se on
+sana: _usko_. [71]
+
+Beethoven tuli syvästi liikutetuksi näistä sanoista. Hän jäi. Toukokuun
+7 p:nä 1824 esitettiin Wienissä ensimäisen kerran _D-duuri-messu_ ja
+_Yhdeksäs sinfonia_. Menestys oli loistava ja luonteeltaan melkein
+metelöivä. Kun Beethoven astui esiin, vastaanotti yleisö hänet
+viisikertaisella kättentaputustervehdyksellä; tapana tässä etiketin
+maassa oli taputtaa käsiään ainoastaan kolme kertaa keisarillisen
+perheenkin ilmestyessä. Poliisin täytyi tehdä loppu mielenosoituksista.
+Sinfonia herätti hurjan innostuksen myrskyn. Monet itkivät. Beethoven
+pyörtyi konsertin jälkeen mielenliikutuksesta. Hänet vietiin
+Schindlerin kotiin; siellä makasi hän koko yön ja seuraavan aamun
+horroksissa, vaatteet päällään ja ilman mitään ruokaa tai juomaa.
+Triumfi oli ohimenevää laatua, ja taloudellisessa suhteessa ei
+konsertti Beethovenille tuottanut mitään. Rahallinen ahdinko pysyi
+entisellään. Hän oli yhä köyhä, sairas [72], yksinäinen — mutta
+voittaja³, ihmisten arkipäiväisyyden voittaja [73], oman kohtalonsa,
+oman kärsimyksensä voittaja.
+
+"Uhraa, uhraa kaikki elämän typerät pikkuseikat taiteellesi! Jumala
+ylinnä kaikkea!" (O Gott über alles!)
+
+       *       *       *       *       *
+
+Niin on hän siis saavuttanut elämänsä päämaalin. Hän on vanginnut
+saaliikseen Ilon. — Voiko hän pysyä näissä sielun korkeuksissa,
+jotka myrskyjä hallitsevat? — Tosin täytyi hänen monina hetkinä
+painua jälleen entisiin tuskan syvyyksiin. Tosin ovat hänen viimeiset
+kvartettinsa täynnä ihmeellisiä varjoja. Kuitenkin näyttää siltä
+kuin olisi _Yhdeksännen sinfonian_ voitto lyönyt häneen ainaiseksi
+säteilevän leimansa. Hänen tulevaisuudensuunnitelmansa: [74] _Kymmenes
+sinfonia_,[75] _Alkusoitto nimestä Bach_, musiikki Grillparzerin
+_Melusinaan_, [76] Körnerin _Odysseukseen_ ja Goethen _Faustiin_, [77]
+raamatullinen oratorio _Saul ja David_ osoittavat kuinka hänen henkensä
+pyrkii kohti vanhojen saksalaisten mestarien valtavaa kirkkautta:
+Bachiin ja Händeliin, — ja vielä enemmän kohti Etelän valoa, eteläistä
+Ranskaa tai Italiaa, jossa hän unelmoi saavansa vielä joskus
+matkustella. [78]
+
+Tohtori Spiller, joka tapasi hänet 1826, sanoo, että hänen
+kasvojenilmeensä oli tullut iloiseksi ja hyväntahtoiseksi. Samana
+vuonna, jolloin Grillparzer puhuu hänen kanssaan viimeistä kertaa, on
+se Beethoven, joka antaa masentuneelle runoilijalle hänen tarmonsa
+takaisin. "Oi", sanoo tämä, "jospa minulla olisi edes tuhannesosa
+teidän voimastanne ja kyvystänne!" Aika on kova; monarkinen taantumus
+painostaa henkisiä voimia. "Sensuuri on minut tappanut", huokaa
+Grillparzer. "Täytyy matkustaa Pohjois-Amerikkaan, jos tahtoo puhua ja
+ajatella vapaasti." Mutta ei mikään voima voinut kahlehtia Beethovenin
+ajatusta. "Sanat ovat kahlehditut, mutta sävelet ovat kaikeksi onneksi
+vielä vapaat", kirjoittaa hänelle runoilija Kuffner. Beethoven
+on ajan suuri, vapaa ääni, kenties ainoa saksalaisen ajatuksen
+ääni tähän aikaan. Hän oli siitä tietoinen. Usein puhuu hän siitä
+velvollisuudesta, joka oli hänen osakseen tullut, velvollisuudesta
+taiteensa avulla vaikuttaa "kurjan ihmiskunnan" ja "tulevan
+ihmiskunnan" (der künftigen Menschheit) hyväksi, auttaa sitä, antaa
+sille rohkeutta, herättää se unestaan, suomia sen pelkuruutta. "Meidän
+aikamme", kirjoittaa hän veljenpojalleen, "tarvitsee voimakkaita henkiä
+ruoskimaan näitä kerjäileviä, matalamielisiä ihmissieluja." Tohtori
+Müller sanoo v. 1827, että Beethoven aina lausui häikäilemättömästi
+mielipiteensä hallituksesta, järjestysvallasta ja ylimystöstä, vieläpä
+julkisestikin. Poliisi tiesi tämän, mutta sieti hänen arvostelujaan
+ja hänen satiirisia purkauksiaan, sillä se piti niitä vaarattomina
+haaveiluina; se jätti loistavan neron rauhaan.[79]
+
+Niinpä ei mikään kyennyt taivuttamaan tätä kukistamatonta voimaa. Se
+näyttää nyt leikkivän tuskan kanssa. Siinä musiikissa, jota Beethoven
+kirjoitti viime vuosiensa aikana, on — huolimatta niistä surullisista
+olosuhteista, joiden vallitessa hän teki sävellystyötään [80] — usein
+aivan uusi, irooninen, sankarillisen ja ilomielisen halveksiva sävy.
+Neljä kuukautta ennen kuolemaansa kirjoitti hän viimeisen lopullisesti
+valmiin sävellyksensä, marraskuussa 1826, uuden _finalin Kvartettiin_
+op. 130, ja se on hyvin iloinen. Tosin ei tämä iloisuus ole tavallisen
+ihmisen iloa. Milloin se on tuota katkeraa ja katkonaista naurua, josta
+Moscheles puhuu, milloin tuota liikuttavaa hymyilyä, joka on niin
+monien voitettujen kärsimysten tulos. Yhdentekevää, hän on voittaja.
+Hän ei usko kuolemaan.
+
+Se saapui kuitenkin. Marraskuun lopulla 1826 sai hän
+keuhkopussintulehduksen; hän sairastui palatessaan Wieniin eräältä
+matkalta, jonka hän talvella teki turvatakseen veljenpoikansa
+tulevaisuuden [81]. Hänen ystävänsä olivat kaukana. Hän antoi
+veljenpojalleen toimeksi hankkia lääkärin. Tuo heittiö unohti hänelle
+annetun tehtävän, hän muisti sen vasta kaksi päivää myöhemmin. Lääkäri
+saapui liian myöhään ja hoiti huonosti Beethovenia. Kolme kuukautta
+kamppaili hänen voimakas ruumiinsa sairautta vastaan. Tammikuun 3
+p:nä 1827 hän määräsi rakkaan veljenpoikansa ainoaksi perijäkseen.
+Hän muisteli rakkaita ystäviään Reinin rannoilta, hän kirjoitti vielä
+Wegelerille: "... Kuinka kernaasti tahtoisinkaan puhua kanssasi!
+Mutta olen liian heikko. En voi enää muuta kuin sydämeni sisimmässä
+syleillä sinua ja Lorcheniasi." Todellinen puute olisi, ilman
+muutamien jalomielisten englantilaisten ystävien apua, synkentänyt
+hänen viimeiset hetkensä. Hän oli nyt tullut hyvin hempeäksi ja
+kärsivälliseksi. Kuolinvuoteellaan kirjoitti hän helmikuun 17 p:nä,
+kolmannen leikkauksen jälkeen ja odottaessaan neljättä [82], aivan
+rauhallisena: "Minä pysyn kärsivällisenä ja ajattelen: Ei mitään pahaa,
+ettei siinä olisi jotain hyvääkin."
+
+Tuo "hyvä" oli lähestyvä vapautuksen hetki, "komedian loppu", kuten hän
+kuolevana sanoi; — me sanomme: hänen elämänsä murhenäytelmän loppu.
+
+Hän kuoli rajuilman raivotessa, lumimyrskyn vinkuessa ja ukkosen
+jyristessä. Vieras käsi sulki hänen silmänsä [83] (maaliskuun 26 p:nä
+1827).
+
+       *       *       *       *       *
+
+Rakas Beethoven! Monet muut ovat ylistäneet hänen taiteensa suuruutta.
+Mutta hän on paljon enemmän kuin ensimäinen kaikista säveltäjistä.
+Hän on uusaikaisen taiteen valtavin voima. Hän on jokaisen kärsivän
+ja taistelevan suurin ja parhain ystävä. Kun meitä maailman kurjuus
+katkeroittaa, saapuu hän luoksemme, niinkuin hän kerran istui pianon
+ääreen erään surevan äidin luona ja lausumatta sanaakaan lohdutti
+alistuvan valituksensa sävelillä itkevää. Ja kun väsymys meidät
+yllättää siinä alituisessa toivottomassa taistelussa, jota käymme
+paheiden ja hyveiden arkipäiväisyyttä vastaan, tuntuu sanomattoman
+onnelliselta saada vilvoittaa itseänsä tuossa tahdon ja uskon
+valtameressä. Hänestä virtaa sytyttävää tarmoa, joka tarttuu, taistelun
+onnea [84], tietoisuuden hurmiota, tietoisuuden, joka tuntee itseensä
+sisältyvän jumalan. Näyttää siltä kuin hän jokahetkisen seurustelunsa
+kautta luonnon kanssa [85] lopulta oli sulattanut itseensä sen
+syvimmät voimat. Grillparzer, joka ihaili Beethovenia jonkunmoisilla
+pelon sekaisilla tunteilla, sanoo hänestä: "Hän loittoni musiikissaan
+aina tuohon hirvittävään rajaan saakka, jossa taide sulaa yhteen
+kesyttömien ja oikullisten luonnonvoimain kanssa." Schumann kirjoittaa
+samasta asiasta, _C-molli-sinfoniasta_ puhuessaan: "Joka kerran kun
+sitä kuuntelemme vaikuttaa se meihin yhtä järkyttävän valtavasti kuin
+luonnonilmiöt, jotka, niin usein kuin ne tarjoutuvat katseltavaksemme,
+aina täyttävät meidät pelolla ja ihmettelyllä." Ja Schindler, hänen
+uskottu ystävänsä: "Hän oli valloittanut itselleen luonnon sielun". —
+Se on totta: Beethoven on luonnonvoima, ja tuo taistelu alkuvoimaisen
+tarmon ja muun luonnon välillä on näytelmä täynnä homerolaista
+suuruutta.
+
+Koko hänen elämänsä on kuin rajuilma-päivä. — Aluksi kuulakka
+varhais-aamu. Vain muutama kaihon tuulahdus. Mutta jo nyt tuntuu
+liikkumattomassa ilmassa salaperäistä uhkaa, painostavaa aavistelua.
+Äkkiä vaeltavat synkät varjot ohitse, _Sankari- ja C-molli-sinfonian_
+traagillinen jyminä kuuluu, vuorottain kaamean hiljaisuuden hetket
+ja raivoisat myrskyn vihurit. Kuitenkaan ei päivän kirkkaus vielä
+ole himmentynyt. Ilo pysyy ilona, suruun on aina kätkettynä toivoa.
+Mutta vuoden 1810 jälkeen särkyy sielun tasapaino. Päivänvalo käy
+kummalliseksi. Mitä kirkkaimpien ajatusten keskeltä näemme ikäänkuin
+sumujen kohoavan; ne hajaantuvat, ne keräytyvät jälleen, ne synkentävät
+sydämen kaihomielisellä ja oikullisella levottomuudellaan; usein
+näyttää musikaalinen ajatus kokonaan katoavan, hukkuvan, kerran tai
+pari sukellettuaan esille sumujen seasta; se näyttäytyy jälleen
+sävellyksen lopussa, mutta rajun tuulenpuuskan kiidättämänä. Itse
+ilomielisyyskin on tullut sävyltään kirpeäksi ja hurjaksi. Kuume,
+myrkky sekoittuu kaikkiin tunteisiin [86]. Rajuilma kiihtyy, kuta
+lähemmäs yö saapuu. Ja katso, _Yhdeksännen sinfonian_ alusta lähtien,
+synkät ukkospilvet syöksyvät esiin leimuavien salamain seuraamina,
+yön tummentamina, myrskyjen taajentamina! — Aavistamatta, keskellä
+raivoisinta myrskyn mylvinää, pimeys katoaa, yö on paennut taivaalta ja
+ihmisen tahdonvoima on saanut jälleen heleän päivän paistamaan.
+
+Mikä valloitus on tämän arvoinen, mikä Bonaparten sotaretki, mikä
+Austerlitzin aurinko voi kilpailla tämän yli-inhimillisen, loistavan
+voimannäytteen, tämän voiton kanssa, suurimman, minkä ihmishenki
+koskaan on saavuttanut: onneton, köyhä, sairaloinen, yksinäinen
+mies, ruumiillistunut tuska, mies, jolta maailma kieltää ilon, luopi
+Ilon itse lahjoittaakseen sen maailmalle. Hän takoo sen omasta
+onnettomuudestaan, niinkuin hän itse sanoo ylpeässä lauseessaan,
+johon koko hänen elämänsä sisältyy ja joka on jokaisen sankarisielun
+tunnuslause:
+
+    "Kärsimyksen kautta iloon."
+    _Durch Leiden Freude_.
+
+(Kreivitär Erdödylle, 19 p, lokak. 1815 )
+
+
+
+
+LIITTEITÄ
+
+
+    _Adagio_.
+
+        Allein, allein, allein.
+
+    (Lichnowskylle, 21 p. syysk. 1814.)
+
+
+
+Heiligenstadt-testamentti. [87]
+
+
+Veljilleni Karl ja (Johann) [88] Beethovenille.
+
+Oi te ihmiset, jotka pidätte minua vihamielisenä ja hulluna tai sanotte
+minua ihmisvihaajaksi, kuinka väärin minua tuomitsettekaan! Te ette
+tunne salaista syytä siihen, mikä aiheuttaa teidän mielipiteenne. Minun
+sydämessäni ja sielussani ovat aina lapsuudesta saakka ainoastaan
+hyvyyden suloiset tunteet viihtyneet. Myöskin on minulla ollut
+taipumusta suorittamaan suuria tekoja. Mutta ajatelkaa vain kuinka
+hirveä on jo kuuden vuoden kuluessa ollut tilani, jota taitamattomat
+lääkärit ovat pahentaneet; vuosi vuoden jälkeen ovat toiveet
+parantumisestani minut pettäneet ja lopuksi olen ollut pakoitettu
+kärsimään _pitkällistä sairautta_, jonka parantaminen kenties vaatii
+vuosia, ellei se ole parantumaton. Vaikkakin olen syntynyt luonteeltani
+tuliseksi ja vilkkaaksi ja vaikkakin olen vastaanottavainen seuraelämän
+huvituksille, täytyi minun aikaiseen eristäytyä ihmisistä, viettää
+elämäni yksinäisyydessä. Jos tahdoin joskus asettua kaiken tämän
+yläpuolelle, oi kuinka kalliisti sainkaan sen maksaa, kuinka
+tuskallisesti sain jälleen tuntea onnettoman sairauteni. Ja kuitenkin,
+minun oli mahdotonta sanoa ihmisille: "Puhukaa kovempaa, huutakaa,
+sillä minä olen kuuro!" Oi, kuinka voisin myöntää itselläni _sen
+aistin_ heikkenevän, joka minulla pitäisi olla täydellisempänä
+kuin muilla ja joka minulla kerran oli mitä täydellisimpänä, niin
+täydellisenä kuin ani harvoilla on ollut minun toimialallani! — Ei,
+en voi sitä tehdä! — Sentähden antakaa minulle anteeksi, kun näette
+minun vetäytyvän syrjään, vaikka minä niin mielelläni haluaisin yhtyä
+seuraanne. Onnettomuuteni on minulle kaksin verroin tuskallinen, sillä
+siitä johtuu että tulen väärin ymmärretyksi. Minulle ei ole suotu
+mitään mielenvirkistystä ihmisten seurassa, henkevissä keskusteluissa,
+molemminpuolisessa avomielisyydessä. Olen yksin, aivan yksin; vain sen
+verran kuin kipein välttämättömyys vaatii, uskallan antautua puheisiin
+ihmisten kanssa. Minun täytyy elää kuin kirottuna. Jos lähestyn jotain
+seuraa, valtaa minut ahdistava levottomuus, pelätessäni, että minun
+tilani mahdollisesti tulisi huomatuksi.
+
+Niin oli myöskin niiden kuuden kuukauden aikana, jotka vietin maalla.
+Oppinut lääkärini kehoitti minua niin paljon kuin mahdollista
+säästämään kuuloani; sama oli myös minunkin toivomukseni. Ja kuitenkin
+annoin usein, kun vastustamaton haluni seuraelämään minut valtasi,
+vietellä itseni ottamaan siihen osaa. Mutta mikä nöyryytys tulikaan
+osakseni, kun joku seisoi vieressäni ja kuuli huilunsoiton etäältä
+_enkä minä kuullut mitään_, tai kun _joku kuuli paimenen laulavan_ enkä
+minä taaskaan kuullut mitään! [89] Tällaiset kokemukset saattoivat
+minut epätoivon partaalle, ja läheltä piti, etten omin käsin tehnyt
+loppua elämästäni. — Taide, taide ainoastaan, pidätti minua siitä.
+Oi, minusta tuntui mahdottomalta jättää tämä maailma, ennenkuin olin
+toteuttanut kaiken sen, jota varten tunsin itseni kutsutuksi. Ja siten
+jatkoin tätä kurjaa elämää, — todella kurjaa: niin herkkä ruumis, että
+pieninkin muutos saattoi kääntää parhaimmankin terveydentilani mitä
+huonoimmaksi. _Kärsivällisyys_ — siinä keino, joka minun nyt täytyy
+valita seuralaisekseni. Sen olen tehnyt. — Järkähtämätön, toivon niin,
+on oleva päätökseni kestää, kunnes heltymättömät kohtalottaret näkevät
+hyväksi katkaista elämänlankani. Kenties kääntyvät asiat parempaan
+päin, kenties eivät — minä olen valmis. — Ei ole helppoa tulla jo
+kahdenkymmenen kahdeksan vuoden ikäisenä pakoitetuksi olemaan filosofi,
+ja taiteilijalle on se vaikeampaa kuin kenellekään muulle.
+
+Jumala, sinä katsot korkeudesta sisimpääni, sinä tunnet sen, sinä
+tiedät, että ihmisrakkaus ja halu tehdä hyvää asuvat siellä. Oi
+ihmiset, jos te kerran luette tämän, ajatelkaa silloin, että olette
+olleet epäoikeudenmukaisia minua kohtaan; ja onneton lohduttakoon
+itseänsä löytäessään minussa toisen kaltaisensa, joka huolimatta
+kaikista luonnon esteistä on kuitenkin tehnyt kaiken voitavansa
+tullakseen luetuksi kunnioitettavien taiteilijoiden ja ihmisten
+joukkoon.
+
+Te, minun veljeni Karl ja (Johann)! Niin pian kuin olen kuollut ja
+jos professori Schmidt vielä elää, pyytäkää häntä minun nimessäni
+selostamaan tautini laatu ja liittäkää sairauteni historiaan tämä
+selostus, jotta maailma, siinä määrin kuin on mahdollista, ainakin
+kuolemani jälkeen rakentaisi sovinnon kanssani.
+
+— Samalla kertaa tunnustan teidät molemmat perillisiksi pieneen
+omaisuuteeni — jos sitä siksi voi kutsua. Jakakaa se veljellisesti,
+olkaa yksimielisiä ja auttakaa toinen toistanne. Sen pahan, mitä
+olette minulle tehneet, olen — sen tiedätte — jo kauan sitten antanut
+anteeksi. Sinua, veljeni Karl, kiitän erikoisesti siitä alttiista
+ystävyydestä, jota viime aikoina olet osoittanut minua kohtaan.
+Minun toivomukseni on, että teidän elämänne tulisi onnellisemmaksi
+ja suruttomammaksi kuin omani on olijat. Kasvattakaa lapsianne
+_hyveessä_; vain se voi tehdä meidät onnellisiksi, ei raha. Minä puhun
+kokemuksesta. Hyve se oli, joka auttoi minua kurjuudessani; sitä ja sen
+ohella taidettani on minun kiittäminen siitä, että en ole lopettanut
+elämääni itsemurhalla. — Hyvästi, ja rakastakaa toisianne! — Kiitän
+kaikkia ystäviäni, erityisesti _ruhtinas Lichnowskya ja professori
+Schmidtiä_. — Minä toivon, että ne soittimet, jotka ruhtinas L. on
+minulle lahjoittanut, säilytettäisiin jomman kumman teidän luonanne.
+Kuitenkaan älköön tästä asiasta mitään riitaa syntykö välillenne. Jos
+ne voivat jollain tavoin olla teille suuremmaksi hyödyksi, niin myykää
+ne viipymättä. Kuinka iloinen olisinkaan jos vielä haudassa maatessani
+voisin palvella teitä!
+
+Jos niin käy, riennän iloisin mielin kuolemaa kohti. — Jos se saapuu,
+ennen kuin olen ennättänyt kypsyttää kaikki taiteelliset lahjani, niin
+saapuu se, huolimatta kovasta kohtalostani, liian aikaisin minulle, ja
+toivoisin voivani sitä viivyttää. — Kuitenkin, tässäkin tapauksessa
+olen tyytyväinen. Vapauttaahan se minut loputtomasta kärsimyksestä!
+— Tule, milloin tahdot; rohkeasti käyn vastaasi. — Hyvästi, ja älkää
+aivan kokonaan minua unhottako kuolemassa; olen ansainnut sen, että
+ajattelette minua, sillä minä olen elämäni kuluessa usein ajatellut
+teitä tehdäkseni teidät onnellisiksi. Olkaa sitä!
+
+Ludwig van Beethoven.
+
+Heiligenstadt 6 p. lokak. 1802.
+
+
+
+Veljilleni Karl'ille ja (Johann'ille).
+
+
+Luettavaksi ja toimeenpantavaksi kuolemani jälkeen.
+
+Heiligenstadt, 10 p. lokak. 1802.
+
+Siis otan nyt jäähyväiset sinulta — ja teen sen murheellisena. — Niin,
+tuosta rakkaasta toivosta — joka minulla oli tänne tullessani: saada
+edes jossakin määrin terveyteni takaisin — täytyy minun nyt kokonaan
+luopua. — Niinkuin syksyn lehdet putoavat ja kellastuvat, samoin —
+samoin on myöskin se minulta kuihtunut. Melkein samanlaisena kuin tänne
+tulin — lähden täältä. — Tuo rohkea tarmokin — joka minulle usein
+antoi voimaa kauniina kesäpäivinä — on kadonnut. — Oi Sallimus, anna
+minulle vielä kerran kirkkaan _ilon_ päivän koittaa! — Siitä on jo niin
+kauan, kun todellisen ilon syvät soinnut tuntuivat minulle läheisiltä!
+— Milloin, milloin, oi Jumala, voin ne jälleen kuulla luonnon ja
+ihmiskunnan temppelissä? — En koskaan? — Ei! — Oi, se olisi liian
+julmaa!
+
+
+
+
+KIRJEITÄ
+
+
+
+Pastori Amendalle Kuurinmaalle. [90]
+
+
+Minun rakas, minun hyvä Amendani, ylin ystäväni, syvällä liikutuksella,
+tuskan ja ilon sekaisilla tunteilla olen vastaanottanut ja lukenut
+viimeisen kirjeesi. Mihinkä voisinkaan verrata sinun uskollisuuttasi
+minua kohtaan! Ah, kuinka on suloista, että aina olet pysynyt
+minulle niin ystävällisenä. Niin, olen pannut sinun ystävällisyytesi
+koetukselle, ja minä tiedän tehdä eroituksen sinun ja kaikkien muiden
+välillä. Sinä et ole Wienin ystävä, et, sinä kuulut niihin, jotka minun
+synnyinseutuni maa on kasvattanut. Kuinka usein toivonkaan, että olisit
+lähelläni, sillä sinun Beethovenisi on syvästi onneton. Tiedä, että
+jaloin osa olemustani, kuuloni, on suuresti heikentynyt. Jo niihin
+aikoihin, kun olit luonani, huomasin oireita siihen, mutta salasin ne;
+sen jälkeen on vika vain yhä pahentunut. Voiko se milloinkaan täysin
+parantua, sen saa ajan pitkään nähdä; sen pitäisi johtua vatsani
+sairaloisuudesta. Mitä viimemainittuun tulee, olen nyt melkein täysin
+terve, mutta tokkohan kuuloni milloinkaan tulee hyväksi? Tosin toivon
+sitä, mutta hyvin luultavasti turhaan, sillä sellaiset sairaudet ovat
+useimmissa tapauksissa parantumattomia. Kuinka surullinen elämäni
+onkaan! Minun täytyy välttää kaikkea sitä, joka on minulle rakasta —
+ja lisäksi tehdä sitä tässä niin kurjassa, itsekkäässä maailmassa!...
+— Kesken kaikkea voin sinulle sanoa, että Lichnowsky on minun mitä
+vilpittömin ystäväni. Sitte viime vuoden on hän minulle lahjoittanut
+600 florinia: tämä seikka sekä teosteni hyvä menekki on sallinut minun
+elää tarvitsematta huolehtia jokapäiväisestä leivästä. Kaiken, mitä nyt
+sävellän, voin myydä heti viisi kertaa, ja minulle maksetaan hyvästi. —
+Olen kirjoittanut sangen paljon viimeaikoina; ja kun olen kuullut että
+olet tilannut pianoja... liikkeestä, lähetän sinulle muutamia teoksiani
+samassa lähetyksessä jonkun pianon mukana, jotta se tulisi sinulle
+halvemmaksi.
+
+Minun lohdutuksekseni on tänne nyt saapunut eräs henkilö, jonka
+parissa voin nauttia tuttavallisesta seurustelusta ja epäitsekkäästä
+ystävyydestä: hän on yksi nuoruuteni ystävistä [91]. Olen hänen
+kanssaan usein puhunut sinusta ja sanonut hänelle, että — jätettyäni
+synnyinseutuni olet sinä yksi niistä, jotka sydämeni on valinnut.
+— Hän ei myöskään pidä tuosta ...sta [92]. Hän on liian heikko
+minun ystäväkseni ja pysyy sellaisena. Minä pidän häntä ja vain
+kuin soittimina, joita soitan, milloin minua miellyttää; mutta he
+eivät voi koskaan tulla minun toimintani jaloiksi todistajiksi, yhtä
+vähän kuin he toden perästä voivat ottaa osaa elämääni; minä pidän
+heitä arvossa ainoastaan niiden palvelusten mukaan, joita he tekevät
+minulle. Oi kuinka onnellinen olisin, jos minulla olisi kuuloni
+täysin jäljellä! Silloin rientäisin sinun luoksesi. Minun täytyy olla
+eristettynä kaikesta; parhaat vuoteni kuluvat, ilman että olen voinut
+toteuttaa kaikkea sitä, minkä lahjani ja voimani ovat minulle antaneet
+suoritettavaksi. — Surullinen alistuvaisuus, jonka turviin minun
+täytyy paeta! Tosin olen päättänyt asettua kaikkien näiden kärsimysten
+yläpuolelle, mutta kuinka se käy minulle mahdolliseksi? Niin, Amenda,
+jollei minun vikani ole parantunut kuuden kuukauden kuluttua, vaadin
+sinulta, että, jätät kaikki ja tulet luokseni. Teen silloin matkoja
+(soittoni ja sävellystoimintani eivät toistaiseksi kärsi paljon
+sairaudestani; se tulee selvimmin näkyviin vain seuraelämässä), ja
+sinä tulet matkatoverikseni. Olen vakuutettu siitä, että onni tulee
+olemaan mukanani; mikäpä kävisi minulle nyt yli voimain! Senjälkeen
+kuin lähdit, olen kirjoitellut kaikenlaista, vieläpä oopperoitakin
+ja kirkollista musiikkia. Niin, ethän hylkää pyyntöäni, autathan
+ystävääsi kantamaan huolensa ja kärsimyksensä. Olen myöskin paljon
+kehittänyt pianonsoittotaitoani ja minä toivon, että tämä matka
+on sinullekin tuottava huvia. Sen jälkeen jäät ikuisiksi ajoiksi
+luokseni. — Olen säännöllisesti saanut kaikki kirjeesi; kuinka
+harvoin lienenkin vastannut, olet kuitenkin aina ollut ajatuksissani,
+ja minun sydämeni sykkii aina yhtä lämpimästi sinulle. — Sen, mitä
+olen sinulle maininnut kuulostani, pyydän sinua säilyttämään suurena
+salaisuutena ja toivon, ettet ilmaise sitä kenellekään, olkoon se
+kuka tahansa. — — Kirjoita minulle oikein usein. Sinun kirjeesi, jos
+kohta ne ovatkin niin lyhyitä, lohduttavat minua ja tekevät minulle
+hyvää. Odotan jälleen pian kirjettä sinulta, rakas ystäväni. — En ole
+sinulle lähettänyt takaisin kvartettiasi [93], koska olen sen kokonaan
+uudelleen muovaillut, sitten kun vasta nyt olen alkanut osata todella
+säveltää kvartetteja: tulet sen näkemään, kun ne saat. — Nyt, hyvästi,
+rakas ystävä! Jos luulet että minä täällä voin tehdä jotain, joka olisi
+sinulle mieluista, on itsestään selvää, että ilmoitat siitä uskolliselle
+
+L. v. Beethovenillesi
+
+joka vilpittömästi rakastaa sinua.
+
+
+
+Tohtori Frans Gerhard Wegelerille.
+
+
+Wien, 29 p. kesäk. (1801).
+
+Hyvä, rakas Wegelerini, kuinka kiitollinen olenkaan siitä, että muistit
+minua! Olen niin vähän ansainnut sitä, niin vähän pyrkinyt sitä
+ansaitsemaan; ja kuitenkin olet niin hyvä etkä minkään anna itseäsi
+närkästyttää, et edes minun anteeksiantamattoman laiminlyöntinikään;
+pysyt aina uskollisena, hyvänä, vilpittömänä ystävänä. — Minäkö voisin
+sinut unohtaa, unohtaa teidät, jotka olette olleet minulle niin
+rakkaita ja kalliita, ei, älä usko sitä! On hetkiä, jolloin hartaasti
+kaipaan teitä, jolloin haluaisin viettää jonkun ajan parissanne. —
+Minun isänmaani, tuo kaunis seutu, jossa ensi kerran näin päivän
+valon, pysyy aina yhtä kauniina ja kirkkaana silmissäni kuin se oli
+silloin, kun teidät jätin. Se hetki, jona voin jälleen nähdä teidät ja
+tervehtiä Rein-isäämme, on oleva elämäni onnellisimpia. — Milloin se
+voi tapahtua, siitä en voi vielä varmaa sanoa. — Niin paljon tahdon
+kuitenkin teille sanoa, että saatte nähdä minut todella suurena, en
+tarkoita ainoastaan taiteilijana, vaan myöskin ihmisenä: te tulette
+huomaamaan minut paremmaksi, täydellisemmäksi; ja jos hyvinvointi
+ei ole lainkaan lisääntynyt meidän isänmaassamme, on minun taiteeni
+pyhittävä voimansa köyhien kohtalon lievittämiseksi...
+
+Sinä tahdot tietää jotain olosuhteistani: no niin, ne eivät ole huonot
+Sitten viime vuoden on Liehnowsky, joka (niin uskomattomalta kuin se
+sinusta voi tuntuakin, vaikkapa minäkin sen sinulle sanon) on aina
+ollut lämpimin ystäväni — (tosin on välillämme silloin tällöin ollut
+pieniä erimielisyyksiä, mutta ne ovat vain lujittaneet ystävyyttämme)
+— määrännyt minulle 600 florinin suuruisen vuotuisen avustuksen, jota
+minä saan nauttia niin kauan kuin en ole itselleni löytänyt mitään
+sopivaa tointa. Sävellykseni tuottavat minulle paljon, ja voin sanoa,
+että minulla on enemmän tilauksia kuin voin niitä ottaa tehtäväkseni.
+Jokaista teosta varten on minulla kuusi tai seitsemän kustantajaa, ja
+vielä useampiakin, jos vain tahtoisin vaivata itseäni. Minun kanssani
+ei tingitä: minä määrään hinnan ja se maksetaan. Sinä ymmärrät, että
+se on ihanaa. Esimerkiksi, minä näen jonkun ystävän kärsivän puutetta,
+ja jollei kukkaroni salli minun heti tulla hänen avukseen, ei minun
+tarvitse muuta kuin istua työpöytäni ääreen ja ennen pitkää olen
+pelastanut hänet pulasta. — Minä olen myöskin käytännöllisempi nyt kuin
+ennen...
+
+Onnetonta kyllä on kateellinen demooni, huono terveyteni, asettunut
+poikkiteloin tielleni. Kolmen vuoden kuluessa on minun kuuloni yhä
+heikontunut. Tämän lienee aiheuttanut vatsani sairaus, josta, kuten
+tiedät, jo ennenkin kärsin, mutta joka on nyt paljon pahentunut; minua
+vaivaa nimittäin alinomainen diarré ja siitä johtuva ylenmääräinen
+heikkous. Frank tahtoi vahvistaa minua kovettavilla lääkkeillä ja
+määräsi manteliöljyä kuuloni parantamiseksi. Mutta — prosit! Siitä
+ei ollut mitään apua: kuuloni tuli yhä huonommaksi ja vatsani pysyi
+samassa kunnossa. Tätä kesti aina viime syksyyn asti, jolloin
+olin usein epätoivoissani. Eräs lääkäri, aasi miehekseen, neuvoi
+minulle kylmiä kylpyjä, toinen, viisaampi, haaleita Tonava-kylpyjä:
+tämä teki ihmeitä, vatsani tuli paremmaksi, mutta kuuloni pysyi
+entisellään, ellei tullut sitäkin heikommaksi. Talvella oli tilani
+todellakin surkuteltava: kärsin hirvittäviä koliikintuskia ja tautini
+uusiutui täydellisesti. Yhtä kurjassa kunnossa pysyin sitten viime
+kuuhun asti, jolloin menin Veringin puheille; ajattelin nimittäin
+että tautini lähinnä vaatisi kirurgin käsittelyä, ja sitäpaitsi
+olen aina tuntenut häntä kohtaan luottamusta. Hänen onnistui
+melkein täydellisesti parantaa tuo vaikea diarré; hän määräsi
+minulle haaleita Tonava-kylpyjä, joihin minun täytyi kaataa pieni
+pullollinen vahvistavia nesteitä; mitään muuta lääkettä ei hän
+minulle antanut, kunnes neljä päivää sitten sain pillereitä vatsaa ja
+eräänlaatuista teetä korvia varten. Tunnen siitä itseni terveemmäksi
+ja voimakkaammaksi, mutta korvani suhisevat ja kohisevat (sausen
+und brausen) yötä päivää. Voin sanoa, että vietän kurjaa elämää. Jo
+melkein kahden vuoden kuluessa vältän kaikkea seuraa, sillä en voi
+sanoa ihmisille: "Minä olen kuuro". Jos minulla olisi joku muu ammatti,
+kävisi se vielä päinsä, mutta minun toimialallani on se hirveä tilanne.
+Mitä sanoisivatkaan siitä vihamieheni, joiden lukumäärä ei ole pieni.
+
+Antaakseni sinulle jonkinlaisen kuvan tästä ihmeellisestä kuuroudesta,
+mainitsen, että minun teatterissa täytyy asettua aivan orkesterin
+lähelle voidakseni kuulla näyttelijöitä. En kuule soittimien ja
+ihmisäänien korkeita säveleitä, jos istun hiukan kauempana. On
+ihmeellistä, että on ihmisiä, jotka keskustellessaan kanssani eivät
+lainkaan ole huomanneet sitä. Kun olen hyvin hajamielinen, pannaan
+kenties kaikki sen syyksi. Kun puhutaan hiljaa, kuulen tuskin mitään;
+niin, kuulen tosin äänet, mutta en sanoja, ja jos taas huudetaan,
+en voi sitä tietää. Mitä tästä kaikesta tulee, sen tietää taivas.
+Vering sanoo, että vika varmasti vähenee, ellei se kokonaan parannu.
+— Hyvin usein olen kironnut olemassaoloani ja Luojaa [94]. Plutarkos
+on minulle opettanut alistuvaisuutta. Minä tahdon, jos se suinkin
+on mahdollista, minä tahdon uhmata kohtaloani; mutta elämässäni on
+hetkiä, jolloin olen kurjin Jumalan luomista olennoista. — Pyydän ettet
+kenellekään puhu mitään minun tilastani, et edes Lorchenille [95];
+minä uskon sen sinulle suurena salaisuutena. Minua ilahduttaisi, jos
+tästä asiasta kirjoittaisit Veringille. Jos tilani pysyy samanlaisena,
+tulen ensi keväänä luoksesi; sinä saat vuokrata minulle jossakin
+kauniissa seudussa maatalon, ja niin tulee minusta maalainen kuudeksi
+kuukaudeksi. Kenties se tekisi minulle hyvää. Alistuvaisuus, mikä
+surullinen turvapaikka! Ja kuitenkin on se ainoa, mikä minulla on
+jäljellä. — Annathan minulle anteeksi, että kaikkien omien ikävyyksiesi
+lisäksi vaivaan ystävänä sinua vielä näillä huolillani.
+
+Stephan Breuning on nyt täällä ja me olemme melkein joka päivä yhdessä.
+Tekee minulle niin hyvää kutsua esiin menneitä tunnelmia! Hänestä on
+tullut todellakin hyvä ja kelpo nuori mies, joka tietää jotain ja jolla
+(niinkuin meillä kaikilla enemmän tai vähemmän) on sydän oikealla
+paikalla...
+
+Tahdon kirjoittaa myöskin hyvälle Lorchenille. En koskaan ole
+unhottanut ketään teistä, rakkaat ystävät, vaikka en olekaan antanut
+mitään elonmerkkiä itsestäni; mutta kirjoittaminen, sen tiedät,
+ei koskaan ole ollut vahvoja puoliani; parhaimmat ystäväni eivät
+vuosikausiin ole saaneet yhtään kirjettä minulta. Minä elän vain
+nuoteissani; tuskin on joku teos valmistunut, kun toinen on jo alulla.
+Sillä tavoin kuin nyt työskentelen, on minulla usein kolme tai neljä
+sävellystä yhtaikaa valmistettavana — Kirjoita minulle useammin; tahdon
+koettaa saada aikaa vastatakseni sinulle. Tervehdä kaikkia minun
+puolestani...
+
+Hyvästi, hyvä, uskollinen Wegeler! Ole vakuutettu alttiudestani ja
+ystävyydestäni.
+
+Sinun
+
+Beethoven.
+
+
+
+Wegelerille,
+
+
+Wien, 16 p marrask. 1801.
+
+Hyvä Wegelerini, kiitän sinua siitä, että jälleen muistit minua, sitä
+enemmän, kun minä niin vähän ansaitsen sitä. — Sinä tahdot tietää
+kuinka voin ja mitä tarvitsen. Niin vähän mieluista kuin minulle onkin
+kosketella tätä asiaa, teen sen kuitenkin kernaimmin sinun kanssasi.
+
+Vering on monien kuukausien kuluessa antanut minun lakkaamatta käyttää
+vetolääkkeitä molempiin käsivarsiini... Tämä hoitotapa on minulle
+hyvin epämieluinen; puhumattakaan tuskista, en koskaan pariin päivään
+kykene sen jälkeen käyttämään käsiäni... Minun täytyy myöntää, että
+suhina ja kohina korvissani on nyt vähäisempi kuin ennen, varsinkin
+vasemmassa korvassa, jossa kuurouteni juuri alkoi; mutta kuuloni ei
+tähän saakka mitenkään ole parantunut; en uskalla ratkaista, onko
+se tullut vielä entisestäkin huonommaksi. — Vatsani on parempi;
+varsinkin kun muutamien päivien kuluessa käytän haaleita kylpyjä,
+voin seuraavina kahdeksana, kymmenenä päivänä sangen hyvin. Silloin
+tällöin nautin jotain vatsaa vahvistavaa lääkettä; alan myöskin,
+sinun neuvojesi mukaan, käyttää yrttejä vatsalla. — Vering ei halua
+kuulla puhuttavankaan suihkukylvyistä. Muuten, en ole häneen erittäin
+tyytyväinen. Hän ei todellakaan kohdista tarpeeksi suurta huomiota
+ja huolenpitoa tällaiseen sairauteen kuin minun on; jollen kävisi
+hänen luonansa — ja se on minulle hyvin vaikeaa —, en varmaankaan
+näkisi häntä koskaan. — Mitä ajattelisit Schmidtistä? En vaihda
+kernaasti lääkäriä, mutta minusta tuntuu, että Vering on liiaksi
+käytännön ihminen hankkiakseen opiskelun tietä itselleen enemmän uusia
+menettelytapoja. — Schmidt tuntuu minusta tässä suhteessa olevan aivan
+toisenlainen, ja hän ei kenties olisi niin huolimaton. — Puhutaan
+galvanismin ihmeitätekevästä vaikutuksesta; mitä arvelet siitä? Eräs
+lääkäri kertoi minulle nähneensä kuuromykän lapsen, joka oli saanut
+kuulonsa jälleen, sekä miehen, joka oli ollut kuurona seitsemän vuotta,
+mutta niinikään parantunut. — Olen juuri saanut kuulla, että Schmidt
+tekee samantapaisia kokeita.
+
+Minä elän nyt jälleen hiukan miellyttävämmin; liikun enemmän ihmisten
+parissa. Sinä voit tuskin uskoa kuinka yksinäinen ja surullinen elämäni
+on ollut kahden viime vuoden kuluessa. Kuulosairauteni kummitteli joka
+taholla edessäni, niinkuin aave, ja minä pakenin ihmisiä. Maailman on
+täytynyt luulla minua ihmisvihaajaksi, ja sitä olen kuitenkin niin
+vähän! — Tämän muutoksen on eräs rakas, suloinen tyttö aikaansaanut;
+hän rakastaa minua, ja minä rakastan häntä: nautin jälleen muutamia
+onnen hetkiä, ensimäisiä sitten kahden vuoden; ja ensimäistä kertaa
+tunnen nyt, että avioliitto voisi antaa onnea. Onnetonta kyllä ei
+hän ole minun säädystäni — ja, sanoakseni totuuden, tätä nykyä en
+vielä voisi mennä naimisiin: minun täytyy vielä aika lailla ponnistaa
+voimiani. Ellei minulla olisi huonoa kuuloani, olisin jo kauan sitten
+kiertänyt puolet maailmaa, ja se täytyy minun kerran tehdä. — En tunne
+mitään suurempaa nautintoa kuin harjoittaa taidettani ja esittää sitä.
+— Älä luule, että olisin onnellinen teidän luonanne. Mikä voisi minua
+tehdä enää onnellisemmaksi? Vieläpä teidän huolenpitonnekin olisi
+minulle taakaksi; lukisin joka hetki osanottoa teidän kasvoistanne
+ja tuntisin itseni siitä yhä onnettomammaksi. — Te isänmaani kauniit
+seudut, mikä houkuttelisi minua luoksenne? Ei mikään muu kuin toivo
+paremmasta asemasta, ja sellaisen olisin jo saavuttanut ilman tätä
+sairauttani! Ah, jospa minulla ei olisi tuota vikaani, syleilisin
+koko maailmaa. Minun nuoruuteni — niin, tunnen sen — alkaa vasta nyt;
+olenhan aina ollut sairas! Ruumiillinen voimani kasvaa viime aikoina
+kilpaa henkisen tarmoni kanssa. Joka päivä lähestyn yhä lähemmäs sitä
+päämäärää, jonka näen kuin usvan läpi, mutta jota en voi lähemmin
+määritellä. Ainoastaan tällaisissa ajatuksissa voi sinun Beethovenisi
+elää. Ei mitään lepoa! — En tunne muuta lepoa kuin unen; ja minä olen
+kylliksi onneton, jotta minun täytyy myöntää sille enemmän aikaa kuin
+ennen. Jospa pääsen edes puoliksikin vapaaksi sairaudestani, niin
+silloin — miehenä, joka on enemmän itsensä herra, kypsempänä saavun
+luoksenne ja solmin uudelleen vanhan ystävyyden liittomme.
+
+Teidän tulee nähdä minut niin onnellisena kuin minun on suotu olla
+täällä maailmassa — ei onnettomana. — Ei, sitä en voisi kestää!
+Minä tahdon tarttua kohtaloa kurkusta. Se ei tule kokonaan minua
+nujertamaan. — Ah, on niin kaunista elää elämä tuhat kertaa! —
+Rauhallista elämää varten — sen tunnen — en ole luotu.
+
+... Tuhannet terveiset Lorchenille... — Sinä pidät minusta hiukkasen,
+eikö totta? Ole vakuutettu minun hartaasta uskollisuudestani ja
+ystävyydestäni!
+
+Sinun
+
+Beethoven.
+
+
+
+Kirje Wegeleriltä ja Eleonore von Breuningilta Beethovenille. [96]
+
+
+Coblentz, 28 p. jouluk. 1825.
+
+Rakas, vanha Ludwigini.
+
+En voi antaa yhden Riesin kymmenestä lapsesta lähteä Wieniin
+lähettämättä hänen mukanaan tervehdystä sinulle. Ettet, siitä saakka
+kun minä kahdeksankolmatta vuotta sitten jätin Wienin, ole joka
+toinen kuukausi saanut minulta pitkää kirjettä, siitä voit syyttää
+omaa vaitioloasi niiden ensimäisten kirjeitten jälkeen, jotka
+sinulle kirjoitin. Se ei ole niinkuin pitää, varsinkaan nyt; sillä
+me vanhat elämme niin kernaasti menneisyydessä ja löydämme sieltä,
+nuoruutemme aikaisista kuvista, kaiken viehätyksemme. Ainakin minulle
+on tuttavuutesi ja läheinen ystävyytesi sinun kanssasi — kiitos olkoon
+hyvän äitisi, jota Jumala siunatkoon — se valopilkku elämässäni, jonka
+puoleen käännän katseeni ilon tuntein... Minä nostan silmäni sinuun
+kuin sankariin, ja olen ylpeä voidessani sanoa: "Minäkin olen ollut
+mukana vaikuttamassa hänen kehitykseensä; hän uskoi minulle toiveensa
+ja unelmansa, ja kun hän myöhemmin niin usein jäi vaille ymmärtämystä,
+tiesin minä hyvin mitä hän tahtoi." Jumalan olkoon kiitos, että voin
+puhua sinusta vaimoni ja nyttemmin lapsieni kanssa! Anoppini talo
+oli sinun kotisi enemmän kuin oma asuntosi, erittäinkin jalon äitisi
+kuoleman jälkeen. Sano meille vielä kerran: "Niin, minä ajattelen
+teitä, ilossa, surussa." Ihminen, olkoonpa hän niinkin korkealle
+kohonnut kuin sinä, on onnellinen ainoastaan kerran elämässään: nuorena
+ollessaan. Bonnin, Kreutzbergin, Godesbergin, Puutarhakoulun kivillä
+mahtanevat ajatuksesi useammin kuin kerran ilolla viivähtää.
+
+Tahdon puhua sinulle itsestäni, meistä, osoittaakseni sinulle, millä
+tavoin sinun on minulle vastattava.
+
+Palattuani Wienistä 1796 sain kokea sangen paljon vastoinkäymisiä.
+Useat vuodet täytyi minun elää yksinomaan niistä tuloista, jotka
+lääkärin-vastaanottoni minulle tuotti ja kesti muutamia vuosia,
+ennenkuin tuossa kovin köyhässä seudussa onnistuin saamaan kokoon
+sen, mitä elämässä välttämättömästi tarvitsin. Sittemmin sain
+opettajanpaikan vakinaisella palkalla ja menin naimisiin v. 1802.
+Vuotta myöhemmin sain tyttären, joka elää vielä ja joka on itse
+täydellisyys. Hänessä on hyvä älyntoiminta yhdistyneenä isältä
+perimäänsä ilomielisyyteen, ja hän soittaa ihastuttavasti Beethovenin
+sonaatteja. Se ei ole hänen ansionsa; se on synnynnäistä, perittyä
+lahjakkuutta. V. 1807 sain pojan, joka nyt harjoittaa lääketieteellisiä
+opintoja Berlinissä. Neljän vuoden kuluttua lähetän hänet Wieniin;
+otatko silloin pitääksesi hänestä huolta? ... Viime elokuussa vietin
+kuudennettakymmenennettä syntymäpäivääni 60-lukuisen ystävä- ja
+tuttavapiirin seurassa, niiden joukossa kaupungin huomattavimpia
+henkilöitä. Sitten vuoden 1807 asun täällä, jossa minulla nyt on kaunis
+talo ja hyvä asema. Esimieheni ovat minuun tyytyväisiä ja kuningas
+on minulle antanut ritarimerkkejä ja mitaleita. Lore ja minä voimme
+sangen hyvin. — Olen tässä antanut sinun seikkaperäisesti tutustua
+olosuhteisiimme. Nyt on sinun vuorosi...
+
+Etkö milloinkaan tahdo kääntää katseitasi pois Pyhän Stephanin
+kirkosta? Eikö matka voisi viehättää sinua? Etkö enää koskaan tahdo
+nähdä Reiniä? — Sydämelliset tervehdykset rouva Lorelta samoinkuin
+minultakin.
+
+Hyvin vanha ystäväsi
+
+Wegeler.
+
+
+
+Coblentz, 29 p. jouluk 1825
+
+Rakas Beethoven, ystävämme niin monien pitkien vuosien takaa! Minä
+juuri pyysin Wegeleriä kirjoittamaan teille uudelleen. — Nyt, kun
+tämä pyyntö on täytetty, luulen olevani velvoitettu lisäämään vielä
+pari sanaa, — ei ainoastaan lähettääkseni oman tervehdykseni, vaan
+myöskin uudistaakseni vielä kerran sen tärkeän kysymyksen, onko
+teillä enää ollenkaan halua nähdä Reiniä ja syntymäseutuanne — ja
+valmistaa Wegelerille ja minulle suurinta kaikista iloista. Lenchenimme
+kiittää teitä niin monesta onnellisesta hetkestä; — hänen parhaimpia
+viehätyksiään on kuulla teistä puhuttavan; — hän tuntee kaikki iloisen
+nuoruusaikamme pienet seikkailut Bonnissa, — eripuraisuudet ja
+sovinnot... Kuinka iloiseksi hän tulisikaan saadessaan teidät nähdä! —
+Tyttärellämme ei, onnetonta kyllä, ole lainkaan musikaalisia lahjoja,
+mutta hän on suurella ahkeruudella ja kovilla ponnistuksilla päässyt
+niin pitkälle, että hän kykenee soittamaan teidän sonaattejanne,
+variatsionejanne y.m.; ja kun musiikki aina on ollut Wegelerin
+mieluisimpia nautintoja, valmistaa hän täten hänelle monta ilon hetkeä.
+Julius ei ole vailla musikaalisia taipumuksia, mutta tähän saakka on
+hän ne laiminlyönyt; nyt on hän kuitenkin puolen vuotta soittanut
+selloa innokkaasti ja mielihalulla, ja kun hänellä Berlinissä on
+hyvä opettaja, luulen että hän vielä tulee edistymään. — Molemmat
+lapset ovat suurikasvuisia ja muistuttavat isäänsä, — myöskin ovat
+he perineet tuon valoisan ja hyväntuulisen mielialan, jota Wegeler,
+Jumalan kiitos, ei vielä kokonaan ole kadottanut... Hän soittaa hyvin
+mielellään teidän variatsionienne eri teemoja; hän pitää enemmän
+vanhoista, mutta usein soittaa hän jonkun uudemmistakin, osoittaen
+uskomatonta kärsivällisyyttä. — Säveltämänne _Opferlied_ on hänestä
+kauneinta kaikesta; Wegeler ei koskaan mene huoneeseensa istuutumatta
+pianon ääreen. — Te voitte niinmuodoin, rakas Beethoven, nähdä kuinka
+pysyvä ja elävä on se muisto teistä, jonka täällä säilytämme. Sanokaa
+meille siis kerran, että teistä ei tämä ole aivan yhdentekevää ja että
+me emme ole tykkänään unohdettuja. — Jollei olisi usein niin vaikeaa
+toteuttaa rakkaimpia unelmiaan, olisimme jo käyneet tervehtimässä
+veljeäni Wienissä, saadaksemme samalla ilon nähdä teitä; mutta
+sellaista matkaa emme nyt voi ajatella, kun poikamme on Berlinissä.
+— Wegeler on teille jo kertonut kuinka täällä elämme: — tekisimme
+väärin, jos valittaisimme. Vaikeinkin aikamme on meille ollut helpompi
+kuin sadoille muille. — Suurin onnemme on, että saamme olla terveinä
+ja että lapsemme ovat kilttejä ja reippaita. Niin, he eivät tähän
+saakka ole aiheuttaneet meille mitään surua, ja itse ovat he iloisia
+ja aina hyväntuulisia. — Lenchenillä vain on ollut suuri suru, kun
+Burscheid-raukkamme kuoli — onnettomuus, jota kukaan meistä ei hevillä
+unohda. Hyvästi, rakas Beethoven, ja ajatelkaa meitä vilpittömästi ja
+hyväntahtoisesti.
+
+Eln. Wegeier.
+
+
+
+Beethoven Wegelerille.
+
+
+Wien, 7 p. lokak. 1826. [97]
+
+Vanha, rakas ystäväni!
+
+En voi sanoin ilmituoda, kuinka iloiseksi tulin saadessani sinun
+sekä Lorchenisi kirjeet. Tosin olisi velvollisuuteni ollut heti
+vastata, mutta minä olen hiukan huolimaton, varsinkin mitä kirjeitten
+kirjoittamiseen tulee, sillä ajattelen, että paremmat ihmiset tuntevat
+minut siitä huolimattakin. Ajatuksissani laadin usein vastauksen, mutta
+kun minun pitäisi panna se paperille, heitän usein kynän luotani,
+koska minusta tuntuu, etten osaa kirjoittaa sitä, mitä sisässäni
+liikkuu. Muistan kaiken sen ystävyyden, jota aina olet osoittanut minua
+kohtaan, esim. silloin kuin annoit maalata huoneeni valkoiseksi ja
+siten valmistit minulle miellyttävän yllätyksen. Myöskin Breuningin
+perheen hyväntahtoisuuden säilytän muistossani. Se, että meidän täytyi
+erota toisistamme, oli luonnollinen asiain kulku: jokaisen meistä
+täytyi pyrkiä sitä päämäärää kohti, jonka hän oli itselleen asettanut,
+ja koettaa se saavuttaa; ainoastaan hyvän ikuisesti järkkymättöminä
+pysyvät periaatteet ovat aina meitä läheisesti yhdistäneet. Onnetonta
+kyllä en tänään voi kirjoittaa sinulle niin pitkästi kuin haluaisin,
+sillä olen vuoteen omana...
+
+Minulla on vielä jäljellä varjokuva Lorchenistasi; (sanon tämän) jotta
+ymmärtäisit kuinka kaikki hyvä ja rakas nuoruuteni ajoilta yhä pysyy
+muistossani kallisarvoisena.
+
+... _Nulla dies sine linea_ — niin on minun luonani, ja kuitenkin annan
+runottareni nukkua; mutta se tapahtuu vain, jotta hän sitten heräisi
+sitä voimakkaampana. Toivon vielä saavani luoda muutamia suuria teoksia
+ja sen jälkeen, vanhana lapsena, päättää maallisen vaellukseni hyvien
+ihmisten parissa. [98]
+
+Niiden kunniamerkkien joukosta, joita olen saanut ja jotka — tiedän
+sen — ilahduttavat sinuakin, mainitsen mitalin, jonka sain Ranskan
+kuningas-vainajalta; siinä oli kirjoitus: _Ranskan kuninkaalta herra
+Beethovenille_ ja sitä seurasi hyvin kohtelias kirje _kuninkaan
+ensimäiseltä kamariherralta, herttua de Châtres'ilta_. [99]
+
+Rakas ystäväni, saat tyytyä tähän tällä kertaa. Menneisyyden muistot
+valtaavat minut ja vuodatan runsaita kyyneleitä lähettäessäni sinulle
+tämän kirjeen. Tämä on vain alkua; pian saat uuden kirjeen; kuta
+useammin kirjoitat minulle, sitä iloisemmaksi teet minut. Niin hyvät
+ystävät kuin me emme tarvitse siihen toisiltamme mitään erikoista
+kehoitusta. Hyvästi. Pyydän sinua puolestani hellästi syleilemään
+rakasta Lorcheniasi ja lapsiasi ja ajattelemaan minua. Jumala olkoon
+teidän kaikkien kanssanne!
+
+Sinun aina uskollinen, tosi ystäväsi, joka vilpittömästi kunnioittaa
+sinua.
+
+Beethoven.
+
+
+
+Wegelerille.
+
+
+Wien, 17 p. helmik. 1827.
+
+Vanha ja kunnioitettu ystäväni!
+
+Olen onnellisesti saanut Breuningilta toisen kirjeesi. Olen vielä
+liian heikko vastatakseni siihen, mutta voit ymmärtää, että kaikki,
+mitä sinä sanot, on minulle tervetullutta, ja että minä toivon sitä.
+Parantumiseni, jos sitä siksi voi sanoa, edistyy toistaiseksi hyvin
+hitaasti; on otaksuttavaa, että saan odottaa vielä neljättä leikkausta,
+vaikka lääkärit eivät siitä mitään puhu. Minä pysyn kärsivällisenä
+ja ajattelen: "Ei mitään niin pahaa, ettei sen mukana tule jotain
+hyvääkin..." Kuinka paljon minulla olisikaan tänään sinulle sanottavaa!
+Mutta olen liian heikko: en voi muuta kuin sydämessäni syleillä sinua
+ja Lorcheniasi. Tosi ystävystä ja kiintymystä sinua ja omaisiasi
+kohtaan tuntien, vanha, uskollinen ystäväsi
+
+Beethoven.
+
+
+
+Moschelekselle.
+
+
+Wien, 14 p. maalisk. 1827
+
+Rakas Moscheles!
+
+... Helmikuun 27 p:nä on minua leikattu neljännen kerran, ja nyt voi
+jo huomata selviä merkkejä siihen, että saan pian odottaa viidettä
+leikkausta. Mihin kaikki tämä lopultakin vie ja mitä minusta tulee, jos
+tällaista jatkuu vielä jonkun aikaa? — Kohtaloni on tosiaankin kova.
+Mutta minä jätän itseni sallimuksen haltuun ja rukoilen vain Jumalaa,
+että hän jumalallisen tahtonsa mukaan järjestäisi niin, että minun,
+niin kauan kuin minun elämässä täytyy kärsiä kuolemasta, ei tarvitsisi
+nähdä puutetta [100]. Se antaisi minulle voimaa kantamaan kohtaloni,
+niin kova ja hirvittävä kuin se onkin, Kaikkivaltiaan tahtoon alistuen.
+
+... Ystävänne
+
+L. v. Beethoven.
+
+
+
+
+BEETHOVENIN AJATUKSIA
+
+
+
+Musiikista.
+
+
+Ei löydy mitään sääntöä, jota ei voisi loukata kauniimman vuoksi. _Il
+n'ya pas de règle qu'on ne peut blesser à cause de Schöner_. ("Plus
+beau".) [101]
+
+* * *
+
+Musiikin täytyy antaa ihmishengen tulen tunkea esiin.
+
+* * *
+
+Musiikki on korkeampi ilmiö kuin viisaus ja filosofia.
+
+* * *
+
+Ei löydy mitään kauniimpaa kuin lähestyä jumaluutta ja säteillä sen
+valoa ihmiskuntaan.
+
+* * *
+
+Miksi minä kirjoitan? — Se, mikä minulla on sisimmässäni, tahtoo
+purkautua ulos, ja siksi minä kirjoitan. —
+
+* * *
+
+Luuletteko, että ajattelen jotain viulupahaista, kun henki puhuu
+minulle ja minä kirjoitan sen, mitä se minulle sanelee.
+
+Schuppanzighille.
+
+* * *
+
+Tapani on säveltää, soitinmusiikkiakin, siten, että pidän aina
+kokonaisuutta silmällä.
+
+Treitschkelle.
+
+* * *
+
+On välttämätöntä säveltää ilman pianoa... Vähitellen kehittyy kyky
+kuvitella sitä, mitä haluamme ja tunnemme, mikä on niin oleellinen
+tarve jaloille ihmisille.
+
+Arkkiherttua Rudolfille.
+
+* * *
+
+Kuvaileminen kuuluu maalaustaiteelle. Myöskin runous voi tässä
+suhteessa pitää itseään onnellisena säveltaiteeseen verrattuna: sen
+liikkuma-ala ei ole niin rajoitettu kuin omani; mutta sen sijaan
+ulottuu minun taiteeni kauemmas toisiin avaruuksiin, eikä ole helppoa
+saavuttaa minun valtakuntaani.
+
+Wilhelm Gerhardille.
+
+* * *
+
+Vapaus ja edistys ovat taiteen päämääriä, samoinkuin koko elämänkin.
+Ellemme olekaan niin perinpohjaisia kuin vanhat mestarit, niin on
+kulttuurin hienostus ainakin laajentanut monta alaa.
+
+Arkkiherttua Rudolfille.
+
+* * *
+
+Minulla ei ole tapana korjailla sävellyksiäni (kun kerran olen ne
+saanut valmiiksi). En ole sitä koskaan tehnyt, sillä olen vakuutettu
+siitä totuudesta, että jokainen osittainen muutos muuttaa myöskin
+sävellyksen luonnetta.
+
+Thomsonille.
+
+* * *
+
+Puhdasta kirkkomusiikkia tulisi esittää yksinomaan lauluäänillä,
+lukuunottamatta _Gloriaa_ tai jotain muuta samantapaista tekstiä. Sen
+vuoksi juuri asetan Palestrinan korkeimmalle. Mutta on hassunkurista
+jäljitellä häntä, jollei omista hänen henkeään ja uskonnollista
+katsantokantaansa.
+
+Urkuri Freudenbergille.
+
+* * *
+
+Kun teidän piano-oppilaallanne on oikea sormitus, täsmällinen rytmi,
+ja kun hän jotakuinkin virheettömästi soittaa nuoteista, niin
+kiinnittäkää huomionne ainoastaan esitystapaan; älkää keskeyttäkö
+häntä pienien virheiden vuoksi, huomauttakaa hänelle niistä vasta
+kappaleen loputtua. Tämä menetelmä kasvattaa _säveltaiteilijoita_,
+mikä, lopultakin, on yksi säveltaiteen ensimäisiä päämääriä... Antakaa
+hänen säveljuoksutuksissa (taituriutta kysyvissä) käyttää vuorotellen
+kaikkia sormiaan... Epäilemättä voi käyttämällä vähemmän sormia
+saavuttaa "helmeilevän" soittotaidon, kuten sanotaan, tai saada esiin
+"kuin helmiä", mutta välistä on taipuvainen pitämään muita koristuksia
+parempina. [102]
+
+Czernylle.
+
+["Beethovenin pianonsoitto ei ollut huoliteltua ja hänen
+sormituksensa oli usein virheellinen; äänen kauneuteen ei hän
+paljon huomiota kiinnittänyt. Mutta kuka tuli ajatelleeksi hänen
+pianistiominaisuuksiansa? Hänen ajatuksiensa johdettavaksi täytyi
+antautua, samoinkuin hänen sormiensakin täytyi antaa niille
+ilmaisumuoto, millä tavoin tahansa tämä tapahtuikin." (Paroni de
+Trémont, 1809.)]
+
+* * *
+
+Vanhojen mestarien joukossa ovat saksalainen Händel ja Sebastian Bach
+ainoat, joilla on ollut neroutta.
+
+Arkkiherttua Rudolfille, 1819.
+
+* * *
+
+Ihailen koko sydämestäni Sebastian Bachin, tuon sointujen alkuisän
+(dieses Urvaters der Harmonie) taidetta.
+
+Hofmeisterille, 1801.
+
+* * *
+
+Olen kaikkina aikoina ollut Mozartin hartaimpia ihailijoita ja sinä
+tulen pysymään viimeiseen hengenvetooni saakka.
+
+Abbé Stadlerille, 1826.
+
+* * *
+
+Pidän teidän näyttämöteoksianne etevämpinä kuin kenenkään muun. Minut
+valtaa ihastus joka kerran kun kuulen jonkun teidän uuden teoksenne,
+se kiinnittää mieltäni enemmän kuin omat teokseni: lyhyesti, minä
+kunnioitan ja rakastan teitä... Te tulette aikalaisistani aina olemaan
+se, jota pidän suurimmassa arvossa. Jos tahdotte valmistaa minulle
+erinomaisen suuren ilon, niin kirjoitatte minulle jonkun rivin, mikä
+lohduttaisi minua paljon. Taide yhdistää kaikkia ihmisiä, kuinka paljon
+enemmän siis tosi taiteilijoita; ja kenties pidätte minuakin kyllin
+ansiokkaana tulla luetuksi heidän joukkoonsa. (Vous resterez tousjours
+celui de mes contemporains, que je l'estime le plus. Si vous mes voulez
+faire un estrème plaisir, c'etoit, si vous m'ecrivez quelques lignes,
+ce que me soulagera bien. L'art unit tout le monde, wie viel mehr
+wahre Künstler; et peut-être vous me dignez aussi de me mettre auch zu
+rechnen unter diese Zahl.) [103]
+
+Cherubinille, 1823.
+
+[Harvennetut sanat kaikkine kielivirheineen ovat tekstissä ranskaksi
+kirjoitetut. Olemme jo ennen maininneet, että Cherubini ei koskaan
+vastannut tähän kirjeeseen.]
+
+
+
+Arvostelusta.
+
+
+Mitä minuun taiteilijana tulee, ei ole koskaan kuultu sanottavan, että
+olisin kiinnittänyt pienintäkään huomiota siihen, mitä minusta on voitu
+kirjoittaa.
+
+(Schottille, 1825.)
+
+* * *
+
+Minä ajattelen Voltairen tavoin, "että muutamat kärpäsenpistot eivät
+voi hillitä hevosta sen tulisesti laukatessa". (1826.)
+
+* * *
+
+Mitä noihin tyhmyreihin tulee, ei tarvitse muuta tehdä kuin antaa
+heidän lörpötellä. Heidän lorunsa ei tosiaankaan tee ketään
+kuolemattomaksi, yhtä vähän kuin se voi riistää kuolemattomuutta siltä,
+jolle Apollo sen on määrännyt. (1801.)
+
+
+
+
+KIRJALLISUUTTA
+
+
+Kirjallisuutta.
+
+Jos joku haluaisi tulla lähemmin tuntemaan Beethovenia, voisi hän
+siihen saada ohjausta muutamissa pääteoksissa ja -julkaisuissa, joista
+luettelo tässä seuraa:
+
+
+I. Beethovenin kirjeet.
+
+Ludvig Nohl. — Briefe Beethovens. 1865, Stuttgart.
+
+Ludvig Nohl. — Neue Briefe Beethovens. 1867, Stuttgart.
+
+Ludvig Ritter von Koechel. — 83 Original-Briefe L. v. B. an den
+Erzherzog Rudolf. 1865, Wien.
+
+Alfred Schoene. — Briefe von Beethoven an Marie Gräfin Erdödy, geb.
+Gräfin Mirzkyund Mag. Brauchle. 1866, Leipzig.
+
+Theodor von Frimmel. — Neue Beethoveniana. 1886.
+
+Katalog der mit der Beethoven—Feier zu Bonn, an 11—15 mai 1890
+verbundenen Ausstellung von Handschriften, Briefen, Bildnissen,
+Reliquien Ludwig van Beethovens. 1890, Bonn.
+
+La Mara. — Musikerbriefe aus fünf Jahrhunderten. 1892, Leipzig.
+
+D:r A. Chr. Kalischer. — Beethovens sämmtliche Briefe, Kritische
+Ausgabe mit Erläuterungen. 1906—1908, 5 nid. Leipzig ja Berlin.
+
+D:r Fritz Prelinger. — Beethovens sämmtliche Briefe und Aufzeichnungen.
+1907, Wien ja Leipzig. 3 nid.
+
+
+II. Beethovenin elämä.
+
+Gottfried Fischer. — Käsikirjoitus (mielenkiintoinen etenkin
+Beethovenin lapsuusajan tuntemiseksi. — Fischer, joka kuoli Bonnissa
+1864, omisti sen talon, jossa Beethovenit kahden miespolven aikana
+asuivat. Hän ja hänen sisarensa Caecilia tunsivat Beethovenin
+läheisesti lapsena ja panivat paperille muistelmansa, jotka ovat
+erittäin arvokkaita, kunhan niitä vain käyttää hiukan harkiten.) —
+Käsikirjoitus on säilytettävänä Beethoven-talossa Bonnissa. Deiters
+(ks. etempänä) on julkaissut niistä otteita.
+
+F.G. Wegeler und Ferdinand Ries. — Biographische Notizen über
+Ludwig van Beethoven (erityisesti arvokas hänen elämänsä alkupuolen
+tuntemiselle). 1838, Coblentz.
+
+Ludwig Nohl. — Eine stille Liebe zu Beethoven. 1857, Berlin. (Julkaisu
+Fanny Giannatasio del Rion päiväkirjasta, joka tunsi Beethovenin ja
+rakasti häntä, noin v:lta 1816.)
+
+Anton Schindler. — Beethovens Biographie, 1840.
+
+Anton Schindler. — Beethoven in Paris. 1842, Münster.
+
+Gerhard von Breuning. — Aus dem Schwarzspanierhause. 1874.
+(Schwarzspanierhaus on se talo Wienissä, jossa Beethoven kuoli. Se on
+purettu talvella 1903.)
+
+Moscheles. — The life of Beethoven. 2 nid. 1841, Lontoo.
+
+Alexander Wheelock Thayer (Hermann Deitersin englanninkielestä
+saksantama ja jatkama, myöhemmin Hugo Riemannin täydentämä). — Ludwig
+van Beethovens Leben. 5 nid., 1908.
+
+Teos on aloitettu 1866; työn loppuunsaattamisen keskeytti tekijän
+kuolema 1897 Triestissä, jossa hän oli Yhdysvaltain konsulina; hän
+ehti kuvailla Beethovenin elämää vuoteen 1816. — Deiters otti työn
+jatkaakseen, mutta hänkin kuoli v. 1907, ennenkuin ehti julkaista
+toista nidosta. H. Riemann lopetti teoksen, käyttäen hyväkseen
+Deitersin keräämää aineistoa. — Se on monessa suhteessa merkittävin
+teos Beethovenista.
+
+Ludwig Nohl. — Beethovens Leben. 1864— 1877. 4 nid.
+
+Ludwig Nohl. — Beethoven nach den Schilderungen seiner Zeitgenossen.
+Stuttgart.
+
+A.B. Marx. — L. van Beethovens Leben und Schaffen. 1863. 2 nid. V
+painos, G. Behncken uudistama, 1902, Berlin.
+
+Victor Wilder. — Beethoven, sa vie et son oeuvre. 1883.
+
+Mariam Tenger. — Beethovens unsterbliche Geliebte. 1890.
+
+Tämän kirjan historiallisesta tosiperäisyydestä on silloin tällöin
+kiistelty. Mariam Tenger oli Theresen uskottu ystävä tämän viimeisinä
+elinvuosina. On todennäköistä että Therese, silloin jo ijäkäs, saattoi
+tahtomattaan ihannoida muistelmiaan; kertomusten oleellinen sisällys on
+kuitenkin osoittautunut todenperäiseksi.
+
+A. Ehrhard. — Franz Grillparzer. 1900.
+
+Theodor von Frimmel. — Ludwig van Beethoven (julkaisusarjassa Berühmte
+Musiker). 1901. Berlin.
+
+Jean Chantavoine. — Beethoven, 1907.
+
+D:r Alfred Chr. Kalischer. — Beethoven und seine Zeitgenossen. Beiträge
+zur Geschichte des Künstlers und Menschen. 4 nid., 1910.
+
+Erittäin mieltäkiinnittävä kokoelma todistuskappaleita, jotka
+valaisevat Beethovenin suhdetta kaikkiin hänen ystäviinsä ja
+ystävättäriinsä. Ne antavat osittain uuden kuvan Beethovenin
+psykologiasta.
+
+
+III. Beethovenin teokset
+
+Beethoven. — Sämmtliche Werke, grosse, kritische Ausgabe, Breitkopf und
+Härtel, Leipzig, 38 nidosta.
+
+G. Nottebohm. — Thematisches Verzeichniss der im Druck erschienenen
+Werke von Ludwig van Beethoven. 1868, Leipzig.
+
+A.W. Thayer. — Chronologisches Verzeichniss der Werke v. B. 1865,
+Berlin.
+
+Nottebohm. — Ein Skizzenbuch von B. aus dem Jahre 1803. 1880.
+
+Nottebohm. — Beethovens Studien. 1873.
+
+Nottebohm. — Beethoveniana. — Zweite Beethoveniana. 1872—87.
+
+George Grove. — Beethoven and his nine Symphonies. 1896, Lontoo.
+
+J.G. Prodhomme. — Les symphonies de Beethoven, 1906.
+
+Alfredo Colompani. — Le Nove Sinfonie di Beethoven. 1897, Torino.
+
+Ernst von Elterlein. — B. Claviersonaten. 5:s painos, 1895.
+
+Willibald Nagel. — B. und seine Klaviersonaten, 2 nid. 1903—1905.
+
+Shedlock. — The pianoforte sonata. 1900, Lontoo.
+
+Carl Czerny. — Pianoforte-Schule. (Neljäs osa, luvut II, III.)
+
+Theodor Helm. — B. Streichquartette, 1885.
+
+H. de Curzon. — Les lieder et airs détachés de B. 1906.
+
+Otto Jahn. — Leonore, Klavierauszug mit Text, nach der zweiten
+Bearbeitung, 1852.
+
+D:r Erich Prieger. — Fidelio, Klavierauszug mit Text, nach der ersten
+Bearbeitung, 1906.
+
+Wilhelm Weber. — B. Missa Solemnis. 1897.
+
+Prof. D:r Richard Sternfeld. — Zur Einführung in L. v. B. Missa
+Solemnis.
+
+Ignaz von Seyfried. — L. v. B. Studien im Generalbass, Kontrapunkt und
+in der Kompositions-Lehre. 1832.
+
+W. de Lenz. — Beethoven et ses trois Styles. (Pianosonaattien
+analyysit) (loppuunmyyty) 1854.
+
+Oulibischeff. — Beethoven, ses critiques et ses glossateurs, 1857.
+
+Wasielewski. — Beethoven, 2 nid. 1886, Berlin.
+
+R. Schumann, — Écrits sur la musique et les musiciens, premiére serie,
+traduction H. de Curzon, 1894.
+
+Richard Wagner. — Beethoven. 1870, Leipzig.
+
+Vincent d'Indy. — Beethoven, 1911.
+
+Sen, joka haluaa tutkia Beethovenin musikaalisen neron kehittymistä, on
+hyödyllistä tuntea dessaulaisen Friedrich Wilhelm Rustin (1739—1796)
+tuotanto, josta äskettäin hänen pojanpoikansa on julkaissut muutamia
+sonaatteja. Rustin nuorin poika, Wilhelm Carl, eli Wienissä
+1807—1827 ja oli Beethovenin tuttava. Rust, Philip-Emmanuel Bach
+ja mannheimilaiset sinfonikot ovat olleet Beethovenin varsinaiset
+edeltäjät. — Ks. Hugo Riemann: Beethoven und die Mannheimer (Die musik,
+1907—08.)
+
+On myöskin mielenkiintoista tutustua Neefen (1748—99) liedeihin, jotka
+jo ovat sangen beethovenilaisia, sekä ranskalaisiin vallankumousajan
+säveltäjiin, etenkin Cherubiniin, jonka tyyliä, hänen erinäisissä
+uskonnollisissa ja draamallisissa sävellyksissään, Beethoven on
+paikoitellen käyttänyt esikuvanaan.
+
+
+IV. Beethovenin muotokuvat.
+
+1789. — Varjokuva Beethovenista kahdeksantoistavuotiaana,
+(Beethoven-talossa Bonnissa. julkaistu Frimmelin elämäkerrassa, siv 16.)
+
+1791—92, — Pienoiskuva Beethovenista, Gerhard von Kugelgen. (Omistaa
+Georg Henschel, Lontoo; julkaistu Musical Times'issä 15 p:ltä jouluk.
+92, siv. 8.)
+
+1801. — G. Stainhauserin piirustus, Johann Nedlin vaskipiirros.
+(Julkaistu Felix Clementin teoksessa Les Musiciens celäbres, 1878, siv.
+267, sekä Frimmelin teoksessa, siv. 28.)
+
+1802: Scheffnerin vaskipiirros, Stainhauserin mukaan.
+(Beethoven-talossa Bonnissa; julkaistu die Musik'issa 18 p:ltä maalisk.
+1902, siv. 1145.)
+
+1802. — Pienoiskuva Beethovenista, Christian Hornemann. (Omistaa rva
+von Breuning Wienissä; julkaistu Frimmelin teoksessa, siv. 31.)
+
+1805. — Beethovenin muotokuva, W. J Maehler. (Omistaa Robert Heimler
+Wienissä; julkaistu Musical Times'issä, siv. 7, Frimmelin teoksessa,
+siv. 34,)
+
+1808. — L. F. Schnorr de Carolsfeldin piirustus; Z. Bauerin
+kivipiirros. (Beethoven-talossa Bonnissa.)
+
+1812. — Beethovenin naamio, Franz Klein.
+
+1812. — Beethovenin rintakuva, Franz Kleinin veistämä naamion mukaan.
+(Omistaa pianotehtailija E. Streicher Wienissä; julkaistu Frimmelin
+teoksessa, siv. 46, Musical Times'issä, siv. 19.)
+
+1814. — L. Letronnen piirustus, Blasius Hoefelin vaskipiirros. (Kaunein
+muotokuva Beethovenista; Beethoven-talossa Bonnissa, jonne Wegeler,
+kuvan omistaja, sen luovutti; julkaistu Frimmelin teoksessa, siv. 51,
+Musical Times'issä, siv. 21.)
+
+1815. — L. Letronnen piirustus, Riedelin vaskipiirros. (Julkaistu die
+Musik'issa, siv. 1147.)
+
+1815. — Toinen Beethovenin muotokuva, Maehler. (Omistaa Ign. von
+Gleichenstein Fribourg-en-Brisgaussa. jäljennös Beethoven-talossa
+Bonnissa.)
+
+1815. — Beethovenin muotokuva, Christian Heckel. (Omistaa J. F. Heckel
+Mannheimissa; jäljennös Beethoven-talossa Bonnissa.)
+
+1818. — Vaskipiirros Beethovea-piirustuksen mukaan, Aug. von Kloeber.
+(Julkaistu Musical Times'issä, siv. 25). — Kloeberin alkuperäinen
+piirustus on tri Erich Priegerin kokoelmissa Bonnissa.
+
+1819. — Beethovenin muotokuva, Ferdinand Schimon — (Beethoven-talossa
+Bonnissa; julkaistu die Musik'issa, siv. 1149, Frimmelin teoksessa.
+siv. 63 ja Musical Times'issä, siv. 29.)
+
+1819. — Beethovenin muotokuva, K. Joseph Stieter. (Omistaa Alex. Meyer
+Cohn Berlinissä; julkaistu Frimme!in teoksessa, siv. 71).
+
+1821. — Beethovenin rintakuva, Anton Dietrich. (Omistaa Leopold
+Schrötter de Kristelli, jäljennös Beethoven-talossa Bonnissa.)
+
+1824—26. — Pilakuvia Beethovenista hänen kävellessään, J. P. Lyser.
+(Omistaa Gesellschaft der Musikfreunde Wienissä; julkaistut Frimmelin
+teoksessa, siv. 27 ja Musical Times'issä, siv. 15.)
+
+1823. — Pilakuvia Beethovenista hänen kävellessään, Jos. van Boehm.
+(Julkaistut Frimmelin teoksessa, siv. 70.)
+
+1823. — Beethovenin muotokuva. Waldmüller. (Omistaa Breitkopf ja Härtel
+Leipzigissä; julkaistu Frimmelin teoks. siv. 72.)
+
+1825—26. — Piirustus Beethovenista, Stefan Decker. (Omistaa Georg
+Decker Wienissä; jäljennös Beethoven-talossa Bonnissa.)
+
+1826. — Piirustus Beethovenista, A. Dietrich, kivipiirros Jos.
+Kriehuberin. (Julkaistu Frimmelin teoks., siv. 73.)
+
+1826. — Beethovenin rintakuva antiikkiseen tyyliin, Schaller. (Omistaa
+Lontoon Filharmoninen seura, kopia Beethoven-talossa Bonnissa;
+julkaistu Frimmelin teoks., siv. 74 ja Musical Times'issä.)
+
+1827. — Piirustusluonnos Beethovenista hänen kuolinvuoteellaan, Jos.
+Danhauser. (Omis: taa A. Artaria Wienissä; julkaistu Allgemeine
+Musik-Zeitungissa 19 p:ltä huhtik. 1901.)
+
+1827. — Kolme piirustusluonnosta Beethovenista hänen kuolinvuoteellaan,
+Teltscher. (Omistaa tri Aug. Heymann; julkaistut Frimmelin teoksessa ja
+Courrier musical'issa 15 p:ltä marrask. 1909.)
+
+1827. — Beethovenin kuolinnaamio, Danhauser (Beethoven-talossa
+Bonnissa.)
+
+Beethovenista on hänen kuolemansa jälkeen tehty lukuisia muotokuvia.
+Huomattavin hänen muistolleen pyhitetyistä teoksista on Max Klingerin
+veistämä muistopatsas Wienissä (1902).
+
+
+
+
+VIITESELITYKSET:
+
+
+[1] Ranskalainen alkuteos kuuluu sarjaan 'Vies des Hommes illustres'.
+
+[2] J. Russel (1822). — Kun Karl Czerny lapsena näki hänet (1801) parta
+ajamattomana ja pitkät hiukset päässä harottavina sekä vielä puettuna
+vuohennahkaisiin liiveihin ja housuihin, luuli hän näkevänsä edessään
+Robinson Crusoen.
+
+[3] Taidemaalari Kloeberin huomautus; hän maalasi mestarin muotokuvan
+noin 1818.
+
+[4] "Hänen kauniit ja ilmehikkäät silmänsä, milloin suloiset ja
+lempeät, milloin uhkaavat ja hirvittävät"... sanoo tri W.C. Müller
+(1820).
+
+[5] Kloeber sanoo: "Ossian-hahtno". Kaikki nämä yksityisseikat ovat
+otetut Beethovenin ystävien muistiinpanoista tai muiden, jotka hänet
+näkivät, — sellaisten kuin Czerny, Moscheles, Kloeber, Daniel Amadeus
+Atterbom, W.C Müller, J. Russel, Julius Benedict, Rochlitz y.m.
+
+[6] Ludwigin isoisä, perheen huomattavin jäsen ja se, jota Beethoven
+enimmän muistutti, oli syntynyt Antverpenissa ja asettui vasta
+kahdennellakymmenennellä ikävuodellaan asumaan Bonniin, jossa hän tuli
+vaaliruhtinaan kapellimestariksi. — Tätä tosiasiaa ei pidä unohtaa,
+jos tahtoo oikein ymmärtää Beethovenin olemukselle tunnusmerkillistä
+alkuvoimaista riippumattomuuden kaipuuta ja monia hänen luonteensa
+ominaisuuksia, jotka eivät ole puhtaasti saksalaisia.
+
+[7] Kirje tri Schadelle Augsburgiin 15 p. syysk. 1787 (Nohl: Briefe
+Beethovens, II).
+
+[8] Hän sanoi myöhemmin (v. 1816): "Se on raukka, joka ei osaa kuolla.
+Kun olin vasta viidentoista ikäinen, oli minulla jo kylliksi rohkeutta
+siihen."
+
+[9] Esitämme liitteissä muutamia näistä kirjeistä. Beethovenilla oli
+myöskin ystävä ja erinomainen ohjaaja Christian Gottlob Neefe'ssä,
+opettajassaan, joka vaikutti häneen yhtä paljon luonteensa jaloudella
+kuin monilla oivallisilla taiteilijaominaisuuksillaan.
+
+[10] Wegelerille 29 p. kesäk. 1801 (Nohl, XIV).
+
+[11] Hän oli jo aikaisemmin, keväällä 1787. lyhyemmän aikaa ollut
+siellä. Silloin tapasi hän Mozartin, joka ei näytä kiinnittäneen häneen
+erikoisempaa huomiota.
+
+Haydn, johon hän oli tutustunut Bonnissa, joulukuussa 1790, antoi
+hänelle muutamia oppitunteja. Beethoven käytti myöskin opettajinaan
+Albrechtsbergeriä ja Salieria. Edellinen ohjasi häntä kontrapunktissa
+ja fuugassa, jälkimäinen lauluäänen oikeassa käsittelyssä.
+
+[12] Hän oli äskettäin esittäytynyt Wienin yleisölle. Hän antoi
+ensimäisen konserttinsa pianistina siellä 30 p. maalisk. 1795.
+
+[13] Wegelerille 29 p. kesäk. 1801 (Nohl, XIV). "Ei kenenkään
+ystävistäni tarvitse kärsiä puutetta, niin kauan kuin minulla vain on
+jotain", kirjoitti hän Riesille noin v. 1801 (Nohl, XXIV).
+
+[14] Testamentissaan v:lta 1802 sanoo Beethoven, että silloin oli
+kuusi vuotta kulunut siitä, kun sairaus puhkesi, — tämä tapahtui siis
+v. 1796. Ottakaamme sivumennen huomioomme, että hänen sävellystensä
+joukossa ainoastaan op. 1 (kolme trioa) on ilmestynyt ennen v. 1796.
+Voi niinmuodoin sanoa, että Beethoven on kaikki teoksensa säveltänyt
+kuurona.
+
+Beethovenin kuuroudesta antaa tri Klotz-Forest lähempiä tietoja
+_Chronique medicalessa_ 15 p:ltä toukok. 1905. — Kirjoitelman
+tekijä luulee, että tauti oli johtunut perinnöllisestä yleisestä
+sairaloisuudesta (mahdollisesti äidin keuhkotaudista). V. 1796 toteaa
+hän Beethovenilla olleen eustakisissa tiehyeissä katarrin, joka
+v. 1799:n tienoilla muuttui äkilliseksi keskikorvatulehdukseksi.
+Hoidon puutteessa kehittyi tämä saman vuoden kesällä kroonilliseksi
+sairaudeksi kaikkine tuhoisine seurauksineen Kuurous lisääntyi,
+tulematta kuitenkaan koskaan aivan täydelliseksi. Beethoven erotti
+matalat äänet helpommin kuin korkeat sävelet. Viimeisinä vuosinaan
+käytti hän, kuten hänen aikalaisensa ovat ilmoittaneet, puukeppiä,
+jonka toinen pää oli kiinni pianossa ja toinen hänen hampaittensa
+välissä. Hän käytti tätä keinoa kuulonsa vahvistamiseksi tehdessään
+sävellystyötä.
+
+(Samasta asiasta kirjoittavat: R.G. Kunn: _Wiener medizinische
+Wochenschrift_, helmik.-maalisk. 1892; — Willibald Nagel: _Die Musik_,
+maalisk. 1902.)
+
+Beethoven-museossa Bonnissa säilytetään niitä akustisia koneita, joita
+mekaanikko Maelzel valmisti Beethovenia varten noin v. 1814.
+
+[15] Nohl: _Briefe Beethovens_, XIII.
+
+[16] Nohl: _Briefe Beethovens_ (Ks. liitteitä!)
+
+[17] 16 p marrask. 1801 (Nohl, XVIII).
+
+[18] Tämä ei estänyt häntä myöhemmin käyttämästä Beethovenin muinaista
+rakkautta miehensä hyväksi. Beethoven auttoi Gallenbergia. "Hän oli
+minun vihamieheni; juuri siitä syystä tein hänelle kaikkea mahdollista
+hyvää", sanoo hän Schindlerille eräässä keskusteluvihossaan v:lta 1821.
+Mutta hän halveksi kreivitärtä tämän vuoksi yhä enemmän. "Hän saapui
+Wieniin", kirjoittaa Beethoven ranskaksi, "ja kävi luonani; hän itki,
+mutta minä halveksin häntä."
+
+[19] 6 p. lokak. 1802 (Nohl, XXVI). Ks. liitteitä!
+
+[20] "Kasvattakaa lapsianne hyveihin! Ainoastaan hyve voi tehdä meidät
+onnellisiksi, ei raha. Puhun kokemuksesta. Se on auttanut minua
+kestämään onnettomuuteni; sitä, yhtäpaljon kuin taidettani, saan
+kiittää siitä, etten ole lopettanut elämääni itsemurhalla." Ja toisessa
+kirjeessä, 2 p:ltä toukok. 1810, hän kirjoittaa Wegelerille: "Jollen
+olisi jossakin lukenut, että ihmisen ei tule koskaan vapaaehtoisesti
+erota elämästä niin kauan kuin hän on kykenevä suorittamaan loppuun
+jonkun hyvän tehtävän, ei minua varmaan pitkiin aikoihin olisi ollut
+olemassa — epäilemättä olisin omin käsin tehnyt lopun elämästäni."
+
+[21] Wegelerille (Nohl, XVIII).
+
+[22] Hornemannin pienoismuotokuva, joka on v:lta 1802, näyttää meille
+Beethovenin puettuna ajan muodin mukaisesti, korvuskiharoineen,
+tukka laitettuna à la Titus, hänellä on byronilaisen sankarin synkkä
+ilme katseessa, mutta samalla on siinä myöskin tuo napoleonilainen
+tahdonlujuus, joka ei koskaan laske aseitaan.
+
+[23] Tiedetään, että Sankarisinfonia on kirjoitettu Napoleonista ja
+hänelle omistettu, ja että ensimäisessä käsikirjoituksessa vieläkin on
+otsikko: Buonaparte. Hiukan myöhemmin sai Beethoven tietää Napoleonin
+kruunauksesta. Hän joutui raivoihinsa: "Hänkin on siis vain tavallinen
+ihminen", huusi hän ja vihansa purkauksessa repäisi omistuslehden;
+sen sijalle kirjoitti hän, leimuten kostonhalusta ja samalla kertaa
+liikuttavasti, uuden otsikon: "Sankarisinfonia... sävelletty suuren
+miehen muiston viettämiseksi" (Sinfonia eroica... composta per
+festeggiare il sovvenire di un grand Uomo). Schindler kertoo, että
+hänen vihansa Napoleonia kohtaan myöhemmin hiukan lieventyi; tämä
+oli hänen mielestään ainoastaan onneton ihminen, säälittävä, Icarus,
+joka oli syöksynyt alas taivaasta. Kun hän kuuli puhuttavan S:t
+Helenan katastroofista v. 1821, sanoi hän: "Siitä on seitsemäntoista
+vuotta, kun kirjoitin sävellyksen, joka soveltuu tähän surulliseen
+tapahtumaan". Hän myönsi mielellään, että hän sinfoniansa Surumarssissa
+oli tuntenut aavistuksen valloittajasankarin traagillisesta lopusta.
+— On hyvin todennäköistä, että Beethoven Sankarisinfoniassa ja ennen
+kaikkea sen ensimäisessä osassa on mielikuvituksessaan muovaillut
+jonkunlaisen musikaalisen kuvan Bonapartesta, joka tosin oli sangen
+paljon mallistaan poikkeava, mutta joka tapauksessa sellainen kuin
+miksi hän sen kuvitteli ja toivoi: vallankumouksen genius. Beethoven
+käyttää sitäpaitsi Sankarisinfoniansa finalissa m.m. teemaa,
+joka tärkeänä musikaalisena aineksena esiintyy hänen aikaisemmin
+kirjoittamassaan vallankumouksen alkuperäisintä ja voimakkainta
+sankaria, vapauden jumalaa ylistävässä teoksessaan: Prometeus (1801).
+
+[24] Robert von Keudell, entinen Saksan lähettiläs Roomassa: Bismarck
+ja hänen perheensä, 1901, E.B. Langin ranskaksi kääntämä.
+
+Robert von Keudell soitti tämän sonaatin Bismarckille huonolla pianolla
+30 p. lokak. 1870 Versailles'issa. Bismarck sanoi teoksen viimeisestä
+aiheesta: "Siihen sisältyvät koko elämän taistelut ja huokaukset". Hän
+piti Beethovenia parhaimpana kaikista säveltäjistä ja hyvin usein hän
+vakuutti: "Beethoven soveltuu parhaiten minun hermoilleni".
+
+[25] Beethovenin talo oli lähellä Wienin linnoituksia, jotka Napoleon
+räjähdytti ilmaan valloitettuaan kaupungin. "Mikä hurja elämä,
+mikä hävityksen kauhistus minun ympärilläni!" kirjoitti Beethoven
+kustantajille Breitkopf ja Härtel 26 p. kesäk. 1809. "En näe muuta kuin
+rumpuja, trumpetteja ja kaikenlaista kurjuutta."
+
+Eräs ranskalainen, joka näki Beethovenin Wienissä 1809, paroni
+de Trémont, Conseil d'Etat'n auditori, on kuvaillut meille hänen
+ulkomuotoaan näihin aikoihin. Hän antaa sangen värikkään kuvan siitä
+epäjärjestyksestä, joka Beethovenin asunnossa oli vallalla. He
+keskustelivat filosofiasta, uskonnosta, politiikasta, mutta "ennen
+kaikkea Shakespearesta, hänen epäjumalastaan". Beethoven oli hyvin
+taipuvainen seuraamaan Trémontia Parisiin, missä, niinkuin hän tiesi,
+Konservatorio jo soitti hänen sinfoniojaan ja missä hänellä oli
+innokkaita ihailijoita — (Mercure musical 1 p:ltä toukok. 1906: Käynti
+Beethovenin luona, kirj. paroni de Trémont. Kirjoitelman on julkaissut
+J. Chantavoine.)
+
+[26] Tai oikeammin: Therese Brunsvik. Beethoven oli tutustunut
+Brunsvikin perheeseen Wienissä vuosien 1796 ja 1799 välillä. Giulietta
+Guicciardi oli Theresen serkku. Beethoven näyttää yhteen aikaan
+olleen mieltynyt erääseen Theresen sisareen, Josephineen, joka meni
+naimisiin kreivi Deymin kanssa sekä myöhemmin toisiin naimisiin
+paroni Stackelbergin kanssa. Vilkkaita ja yksityiskohtaisia kuvauksia
+Brunsvikin perheestä löytyy eräässä André de Hevesyn kirjoitelmassa:
+_Beethoven ja hänen kuolematon rakastettunsa_ (Revue de Paris,
+1 ja 15 p. maalisk. 1910). Hevesy on tutkielmassaan käyttänyt
+hyväkseen Theresen käsikirjoituksia, muistelmia ja muita papereita,
+joita säilytetään Martonvásárissa Unkarissa. Hän kuvailee erittäin
+uskottavasti Brunsvikin perheen ja Beethovenin välistä läheistä
+ystävyyttä, mutta asettaa hänen rakkautensa Thereseen kyseenalaiseksi.
+Hänen todistelutapansa ei kuitenkaan tunnu vakuuttavalta, ja minä
+pidätän itselleni vapauden myöhemmin sitä lähemmin kosketella.
+
+[27] Mariam Tenger: Beethovens unsterbliche Geliebte, Bonn, 1890.
+
+[28] Tämä ihmeteltävän kaunis aaria on löydetty J.S. Bachin puolison,
+Anna Magdalenan muistikirjasta (1725) otsikolla: _Aria di Giovannini_.
+On eriäviä mielipiteitä siitä, onko se alkuaan J.S. Bachin kynästä
+lähtöisin.
+
+[29] Nohl: Beethovens Leben.
+
+[30] Beethoven oli todellakin likinäköinen. Ignaz von Seyfried sanoo,
+että hänen huono näkönsä oli johtunut isostarokosta ja että hänen
+jo aivan nuorena täytyi käyttää silmälaseja. Likinäköisyys saattoi
+osaltaan vaikuttaa hänen silmiensä harhailevaan ilmeeseen. Kirjeissään
+vuosilta 1823—1824 valittaa hän kerran toisensa perästä silmiään, jotka
+tuottavat hänelle kipuja. — Ks. Christian Kalischerin kirjoitelmaa:
+_Beethovens Augen und Augenleiden_ (Die Musik, 15 p. maalisk. — 1 p.
+huhtik. 1902).
+
+[31] Näyttämömusiikki Goethen _Egmontiin_ on aloitettu 1809. —
+Beethoven olisi kernaasti kirjoittanut musiikin myöskin _Wilhelm
+Telliin_, mutta tehtävä annettiin Gyrowetzille.
+
+[32] Keskustelu Schindlerin kanssa.
+
+[33] Mutta kirjoitettu, niinkuin näyttää, Korompassa, Brunsvikien luona.
+
+[34] Nohl: _Briefe Beethovens_, XV.
+
+[35] Tätä muotokuvaa säilytetään vielä Beethoven-talossa Bonnissa. Se
+on julkaistu Frimmelin teoksessa _Beethovens Leben_ s. 29, ja _Musical
+Timesissä_ 15 p:ltä jouluk. 1892.
+
+[36] Gleichensteinille (Nohl: _Neue Briefe Beethovens_, XXXI).
+
+[37] "Sydän on kaiken suuren mittapuu". (Giannatasio del Rio'lle. —
+Nohl, CLXXX).
+
+[38] "Minä rakastan Goethen runoja", kirjoittaa hän Bettina Brentanolle
+19 p. helmik. 1811.
+
+Ja toisessa paikassa:
+
+"Goethe ja Schiller ovat mielirunoilijani Ossianin ja Homeroksen
+rinnalla, joita viimemainittuja minä ikävä kyllä voin lukea vain
+käännöksinä." (Breitkopf ja Härtelille 8 p. elok. 1809. — Nohl: _Neue
+Briefe_, L 11).
+
+On huomion arvoista, kuinka varma Beethovenin kirjallinen maku oli
+huolimatta hänen laiminlyödystä kasvatuksestaan. Paitsi Goetheä, josta
+hän sanoi, että tämä aina tuntui hänestä "suurelta, majesteetilliselta,
+aina D-duurissa", ja Goetheä valtavampina hän kunnioitti kolmea miestä:
+Homerosta, Plutarkosta ja Shakespearea. Homeroksen teoksista piti hän
+enimmän Odysseiasta. Hän luki säännöllisesti Shakespearea saksalaisina
+käännöksinä, ja me tiedämme mikä traagillinen ylevyys leimaa hänen
+musiikkinsa _Coriolaniin ja Myrskyyn_. Mitä tulee Plutarkokseen, sai
+hän häneltä hengelleen ravintoa, kuten kaikki vallankumouksen miehet,
+Brutus oli hänen sankarinsa, samoinkuin Michelangelonkin: hänellä oli
+Michelangelon Brutus-veistos huoneessaan. Hän rakasti Platoa ja uneksi
+hänen tasavaltansa toteuttamista kautta koko maailman. "Sokrates ja
+Jeesus ovat olleet esikuviani", on hän jossain sanonut. (Keskusteluja
+vuosilta 1819—20.)
+
+[39] Bettina von Arnimille (Nohl, XCI).
+
+[40] "Beethoven", sanoi Goethe Zelterille, "on onnetonta kyllä
+täydellisesti hillitön personallisuus; hän ei varmaankaan ole väärässä
+syyttäessään ihmisiä inhoittaviksi, mutta tällä tavoin ei hän suinkaan
+tee heitä miellyttävämmiksi itselleen eikä muille. Hänelle täytyy
+antaa anteeksi ja häntä täytyy surkutella, sillä hän on kuuro." — Hän
+ei myöhemmin tehnyt mitään, joka olisi vahingoittanut Beethovenia,
+mutta ei myöskään mitään hänen hyväkseen, hän vaikeni kokonaan hänen
+teoksistaan ja vieläpä vältti lausumasta hänen nimeäänkin. — Pohjaltaan
+ihaili hän Beethovenin musiikkia, mutta samalla kertaa pelkäsi hän
+sitä: se teki hänet levottomaksi; hän pelkäsi, että se häiritsisi hänen
+sielunrauhaansa, jonka hän niin suurella vaivalla oli saavuttanut ja
+joka, päinvastoin kuin yleensä arvellaan, ei hänellä suinkaan ollut
+synnynnäistä. Hän ei tunnustanut sitä muille, kenties ei itselleenkään.
+— Eräs nuoren Felix Mendelssohnin — joka 1813 kävi Weimarissa — kirje
+antaa meidän vastoin hänen tahtoaan tunkeutua tämän intohimoisen ja
+levottoman (leidenschaftlicher Sturm und Verworrenheit, kuten Goethe
+itse sanoi) sielun syvyyksiin, jota mahtava älynvoima hillitsi.
+
+"Aluksi", kirjoittaa Mendelssohn, "hän ei tahtonut kuulla
+puhuttavankaan Beethovenista, mutta sitten täytyi hänen taipua
+kuulemaan _C-molli-sinfoniaa_, joka häntä syvästi järkytti. Mutta hän
+ei tahtonut antaa sitä huomata, vaan sanoi ainoastaan: 'Se ei herätä
+mitään liikutuksen tunteita, vaan pelkästään ihmettelyä'. Hetken
+kuluttua jatkoi hän: 'Se on suuremmoista, hurjaa; voisi luulla, että
+koko talo särkyisi raunioiksi.' Saapui päivällinen, jonka kuluessa
+hän pysyi omissa ajatuksissaan kunnes hän jälleen johti keskustelun
+Beethoveniin, kääntyen puoleeni kysymyksillä. Huomasin selvästi, että
+tämä kaikki oli tehnyt häneen vaikutuksensa..."
+
+(Ks. eräitä Frimmelin kirjoitelmia Goethen ja Beethovenin suhteesta
+toisiinsa.)
+
+[41] Goethen kirje Zelterille, 2 p. syysk. 1812. — Zelter Goethelle
+14 p. syysk. 1812: "Auch ich bewundere ihn mit Schrecken" ("Minäkin
+ihailen häntä kauhulla"). — Zelter kirjoittaa 1819 Goethelle:
+"Sanotaan, että hän on hullu".
+
+[42] Se on joka tapauksessa aihe, joka on Beethovenin mieltä
+kiinnittänyt: me näemme sen hänen päiväkirjastaan ja varsinkin hänen
+luonnoksistaan Kymmenenteen sinfoniaan.
+
+[43] Samanaikainen ja osaltaan ehkä näihin teoksiin innoittavasti
+vaikuttava oli hänen hellä ystävyyssuhteensa nuoreen berliniläiseen
+laulajattareen, Amalie Seebaldiin.
+
+[44] Aivan hänen vastakohtansa oli, tässä tapauksessa, Schubert, joka
+oli 1807 kirjoittanut tilapäissävellyksen "Napoleon Suuren kunniaksi"
+ja johti itse sen esitystä keisarin läsnäollessa.
+
+[45] "En puhu sinulle mitään hallitsijoistamme ja heidän
+valtakunnistaan", kirjontaa hän Kauka'lle Wienin kongressin aikana.
+"Minulle on hengen valtakunta rakkain kaikista: se on ylin kaikista
+hengellistä ja maallisista valtioista." (Mir ist das geistliche Reich
+das Liebste und Oberste aller geistlichen und weltlichen Monarchien.)
+
+[46] "Wien — eikö sillä ole jo kaikki sanottu? — Pieninkin jälki
+saksalaisesta protestantismista on pois kitketty, vieläpä kansallinen
+korostus kielessäkin, joka on italialaisen murteen turmelema.
+Saksalaista henkeä, saksalaisia seurustelumuotoja ja tapoja selostetaan
+käsikirjoissa, jotka ovat italialaista ja espanjalaista alkuperää.
+Maa, jolla on väärennetty historia, väärennetty tiede, väärennetty
+uskonto... Kevytmielinen skeptisismi, joka pakostakin hävittää ja
+hautaa totuudenrakkauden, rakkauden kunniaan ja riippumattomuuteen..."
+(Wagner: Beethoven, 1870.)
+
+Grillparzer on kirjoittanut, että on onnettomuus syntyä
+itävaltalaiseksi. Ne suuret saksalaiset säveltäjät 19:nnen vuosisadan
+loppupuolelta, jotka ovat eläneet Wienissä, ovat julmasti kärsineet
+henkisestä ilmakehästä tässä kaupungissa, joka on innostunut
+farisealaisesti jumaloimaan Brahmsia. Brucknerin elämä siellä oli
+yhtämittaista kärsimystä. Hugo Wolf, joka taisteli vastaan kaikin
+voimin ennenkuin hän sortui, on lausunut Wienistä mitä ankarimpia
+tuomioita.
+
+[47] Kuningas Jérôme oli tarjonnut Beethovenille elinkautisen,
+kuudensadan kultatukaatin suuruisen vuosipalkan sekä matkarahoja
+sataviisikymmentä hopeatukaattia ja vaati häneltä ainoastaan, että
+hän sitoutuisi silloin tällöin soittamaan hänelle ja johtamaan hänen
+kamarimusiikkikonserttejaan, jotka eivät saisi olla pitkiä eikä liian
+usein pidettäviä. (Nohl, XLIX.) Beethoven oli vähällä matkustaa.
+
+[48] Rossinin Tancred riitti järkyttämään koko saksalaisen musiikin
+perustuksia. Bauernfeld merkitsee päiväkirjaansa seuraavan lausunnon,
+joka kierteli ympäri Wienin salonkeja v. 1816: "Mozart ja Beethoven
+ovat vanhoja pedantteja; kuluneitten aikojen rajallisuus löysi heidän
+musiikissaan nautintonsa; vasta Rossinista alkaen tiedämme, mitä on
+melodia. _Fidelio_ on paljasta roskaa; on mahdotonta käsittää, kuinka
+kukaan voi vaivautua kuulemaan jotain niin ikävää."
+
+Beethoven antoi viimeisen konserttinsa pianistina v. 1814.
+
+[49] Samana vuonna kadotti Beethoven veljensä Karl'in. "Hän oli yhtä
+kiinni elämässä kuin minä kernas siitä luopumaan", kirjoitti hän
+Antonia Brentanolle.
+
+[50] Jollei ota lukuun hänen liikuttavaa ystävyyssuhdettaan kreivitär
+Maria von Erdödyyn, joka, kuten hänkin, kärsi aina; hän oli
+parantumattomasti sairas ja kadotti äkkiä v. 1816 ainoan poikansa.
+Beethoven omisti hänelle v. 1809 kaksi trioaan, op. 70, ja vv.
+1815—1817 kaksi suurta sellosonaattiaan op. 102.
+
+[51] Kuurouden lisäksi huonontui hänen yleinen terveytensä päivä
+päivältä. Lokakuussa 1816 oli hän hyvin sairas katarrin johdosta.
+Kesällä 1817 sanoi hänen lääkärinsä, että se oli rintatautia. Talvella
+1817—1818 levottuutti hän itseään tällä luulotellulla keuhkotaudilla.
+Sitten puhkesi äkillinen reumatismi 1820-1821, keltatauti 1821, silmän
+sidekalvon tulehdus 1823.
+
+[52] On huomion arvoista, että tästä vuodesta alkaa hänen musiikkinsa
+tyyli muuttua, ensimäiseksi sonaatissa op. 101.
+
+Beethovenin keskusteluvihot, jotka käsittävät yli 11,000
+käsinkirjoitettua sivua, löytyvät nykyään koottuina Berlinin
+Kuninkaallisessa kirjastossa.
+
+[53] Schindler, joka vuodesta 1819 oli Beethovenin uskottu ystävä,
+oli tavannut hänet jo 1814; mutta Beethovenin oli ollut hyvin vaikeaa
+lahjoittaa hänelle ystävyyttään; hän kohteli Schindleriä alussa
+ylpeällä halveksinnalla.
+
+[54] Ks. Wagnerin erinomaisia kirjoituksia Beethovenin kuuroudesta
+(Beethoven, 1870).
+
+[55] Hän rakasti eläimiä ja sääli niitä. Historioitsija Frimmelin äiti
+kertoi, että hän kauan vaistomaisesti vihasi Beethovenia, senvuoksi
+että tämä — hänen ollessaan pieni tyttö — piti tapanaan nenäliinallaan
+karkoittaa pois kaikki perhoset, joita hän tahtoi ottaa kiinni.
+
+[56] Hänellä oli aina huono asunto. Niiden kolmenkymmenen vuoden
+aikana, jotka hän Wienissä vietti, muutti hän asuntoa kolmekymmentä
+kertaa.
+
+[57] Beethoven oli henkilökohtaisesti kääntynyt Cherubinin puoleen,
+jota "hän aikalaisistaan piti suurimmassa arvossa". (Nohl: Briefe
+Beethovens CCL.) Cherubini ei vastannut mitään.
+
+[58] "En kosta koskaan", kirjoittaa hän eräässä kirjeessä rva
+Streicherille. "Jos olen pakoitettu toimimaan toisia ihmisiä vastaan,
+teen ainoastaan kaikkein välttämättömimmän puolustaakseni itseäni tai
+estääkseni heitä tekemästä jotain pahaa."
+
+[59] Nohl, CCCXLIII.
+
+[60] Nohl, CCCXIV.
+
+[61]Nohl, CCCLXX.
+
+[62] Nohl, CCCXII—LXVII. Eräs kirje, jonka Kalischer äskettäin on
+löytänyt Berlinistä, osoittaa kuinka kiihkeästi Beethoven toivoi
+voivansa veljenpojastaan kasvattaa "valtiolle hyödyllisen kansalaisen".
+(1 p. helmik. 1819).
+
+[63] Schindler, joka hänet näki silloin, sanoo että hän äkkiä muuttui
+seitsenkymmenvuotiaan ukon näköiseksi, murtuneeksi, voimattomaksi,
+tahdottomaksi. Hän olisi kuollut, jos Karl olisi kuollut. — Hän kuoli
+muutamia kuukausia sen jälkeen.
+
+[64] Meidän päiviemme dilettantismi ei ole laiminlyönyt koettaa pestä
+tämän lurjuksen kunniaa. Siinä ei ole mitään ihmeellistä.
+
+[65] Fischenichin kirje Charlotte Schillerille (tammik. 1793).
+Schillerin Odi oli kirjoitettu 1785. — Itse teema esiintyy v. 1808
+_Fantasiassa pianolle, orkesterille ja kuorolle_, op. 80 sekä v.
+1810 Goethen sanoihin sävelletyssä _Liedissä: Kleine Blumen, kleine
+Blätter_. — Olen nähnyt eräässä luonnosvihossa v:lta 1812, joka nykyään
+on tri Erich Priegerin hallussa Bonnissa, _Seitsemännen sinfonian_
+luonnoksien ja _Macbeth-alkusoiton_ suunnitelmien joukossa Beethovenin
+koettavan sovelluttaa Schillerin sanoja siihen teemaan, jota hän
+myöhemmin käytti alkusoitossa op. 115 (Namensfeier). — Muutamat
+_Yhdeksännen sinfonian_ soitinaiheista esiintyvät jo ennen v. 1815.
+Vihdoin, v. 1822, saa lopullisen muotonsa Ilo-aihe samoinkuin kaikki
+muut sinfonian sävelmät, lukuunottamatta _trioa_, joka seuraa hiukan
+myöhemmin, senjälkeen _andante moderato_ ja lopuksi _adagio_, joka
+valmistui viimeisenä.
+
+Mitä tulee Schillerin runoon ja sen väärään tulkintaan — meidän
+päivinämme kun on tahdottu vaihtaa sana _Freude_ (ilo) sanaan
+_Freiheit_ (vapaus) — ks. Charles Andlerin kirjoitusta julkaisussa
+_Pages libres_ (8 p. heinäk. 1905).
+
+[66] Berlinin kirjastossa.
+
+[67] "_Also ganz so als ständen Worte darunter_" ("Siis aivan kuin
+sanat olisivat alle merkityt".)
+
+[68] _D-duuri-messu_, op. 123.
+
+[69] Taloudellisten ikävyyksien, hädän, kaikenlaisten huolten
+uuvuttamana sävelsi Beethoven viiden vuoden aikana, vuodesta 1816
+vuoteen 1821, ainoastaan kolme teosta pianolle (op. 101, 102, 106).
+Hänen vihamiehensä sanoivat, että hän oli lopussa. 1821 alkoi hän
+jälleen työskennellä.
+
+[70] Helmik. 1824. Allekirjoittajat: ruhtinas C. Lichnowsky, kreivi
+Moritz Lichnowsky, kreivi Moritz von Fries, kreivi M. von Dietrichsein,
+kreivi F. von Palfy, kreivi Czernin, Ignaz Edler von Mosel, Karl
+'Czerny, abbé Stadler, A. Diabelli, Artaria, Steiner, A. Streicher,
+Zmeskall, Kiesewetter y.m.
+
+[71] "Minun moraalinen luonteeni on yleisesti tunnettu", lausui
+Beethoven ylpeästi Wienin maistraatin edessä 1 p. helmik 1819, kun hän
+vaati oikeutta tunnustamaan hänet veljenpoikansa holhoojaksi. "Vieläpä
+etevät kirjailijatkin, kuten Weissenbach, arvelivat, että maksoi vaivan
+omistaa hänelle teoksiaan."
+
+[72] Elokuussa 1824 alkoi hän pelätä, että hän kuolisi äkkiä
+halvaukseen, "niinkuin rakas isoisäni, jota niin paljon muistutan",
+kirjoittaa hän 16 p. elok. 1824 tri Bachille.
+
+Hän poti vaikeaa vatsatautia. Talvella 1824-1825 hän oli hyvin
+sairas. Toukokuussa 1825 sylki hän verta, samoin vuoti hänen nenänsä
+verta. 9 p:nä kesäk. 1825 kirjoittaa hän veljenpojalleen: "Olen usein
+äärimmäisen heikko... Viikatemies ei viivy enää kauaa."
+
+[73] _Yhdeksäs sinfonia_ esitettiin ensimäisen kerran Saksassa
+Frankfurtissa 1 p:nä huhtik. 1825, Lontoossa jo 25 p:nä maalisk.
+1825, Parisissa — Konservatoriossa — 27 p:nä maalisk. 1831.
+Seitsentoistavuotias Mendelssohn esitti sen pianolla Berlinissä
+Jägerhallessa 14 p. marrask. 1826. Wagner, joka opiskeli Leipzigissä,
+kirjoitti siitä omakätisen täydellisen kopian ja 6 p:nä lokak. 1830
+hän kirjeessään tarjosi kustantaja Schottille sinfoniasta tekemäänsä
+kaksikätistä pianosovitusta. Voidaan sanoa, että _Yhdeksännellä
+sinfonialla_ oli ratkaiseva merkitys Wagnerin elämässä.
+
+[74] "Apollo ja runottaret eivät varmaan tahdo minua näin aikaiseen
+luovuttaa kuolemalle, sillä minä olen niille vielä niin paljon velkaa!
+Ennen matkaani Elysiumin kentille täytyy minun jättää jälkeeni se, mitä
+henki minulle puhuu ja käskee minun loppuun saakka toteuttaa. Minusta
+tuntuu kuin olisin tuskin lainkaan kirjoittanut nuotteja." (Veljeksille
+Schott 17 p:nä syysk. 1824. — Nohl: Neue Briefe, CCLXXII.)
+
+[75] Beethoven kirjoittaa Moschelekselle 18 p. maalisk. 1827: "Sinfonia
+täydellisenä luonnoksena sekä uusi alkusoitto ovat pöytälaatikossani."
+Tätä luonnosta ei ole koskaan löydetty. — Hänen päiväkirjaansa vain on
+merkitty:
+
+"Adagio cantique. — Uskonnollinen hymni vanhoissa sävellajeissa
+kulkevaa sinfoniaa varten (Herr Gott, dich loben wir — Halleluja),
+joko itsenäisenä taikka johdantona fuugaan. Tälle sinfonialle voisivat
+antaa luonteenomaisuutta lauluäänet, jotka esiintyisivät joko
+_finalissa_ taikka jo _adagiossa_. Orkesterin viulut j.n.e. olisivat
+kymmenkertaisesti kaksinnetut viimeisessä osassa. Antaa lauluäänien
+esiintyä yksitellen tai tavalla tai toisella kerrata _adagio_
+viimeisessä osassa. Tekstiksi _adagioon_ kreikkalainen tarina (tai)
+kirkollinen kiitoslaulu; allegro: Bacchus-juhla." (1818).
+
+Kuten näkyy, oli kuoroloppu silloin aijottu _Kymmenenteen_ eikä
+_Yhdeksänteen sinfoniaan_.
+
+Myöhemmin hän sanoo, että hän _Kymmenennessä sinfoniassaan_ tahtoo
+toteuttaa "uusaikaisen maailman sovinnon antiikkisen maailman kanssa,
+jota Goethe on koettanut _Faustinsa_ toisessa osassa."
+
+[76] Aihe on otettu sodan ritarista, joka on rakastunut haltiattareen
+ja tämän lumouksen pauloissa ja jota vapauden kaipuu riuduttaa. Tällä
+ja _Tannhäuser_-runoelmalla on kosketuskohtia toistensa kanssa.
+Beethovenia tämä aihe askarrutti vv. 1823-1826. (Ks Ehrhard: Franz
+Grillparzer, 1900.)
+
+[77] Beethoven oli jo v:sta 1808 alkaen ollut aikeissa kirjoittaa
+musiikin _Faustiin_. (Faustin edellinen osa oli juuri, syksyllä
+1807 ilmestynyt otsikolla: Murhenäytelmä.) Tämä oli hänen rakkain
+suunnitelmansa ("Was mir und der Kunst das Höchste ist").
+
+[78] "Etelä-Ranska, sinne, sinne!" (Südliches Frankreich, dahin,
+dahin!) (Päiväkirjasta; Berlinin kirjastossa). — ".. Päästä pois
+täältä! Ainoastaan siten voit jälleen kohottaa itsesi taiteesi
+korkeisiin avaruuksiin... Vielä yksi sinfonia, sitten matkustaa,
+matkustaa, matkustaa... Kesällä tehdä työtä matkaa varten... Matkustaa
+kautta Italian, Sisilian, jonkun toisen taiteilijan seurassa." (Id)
+
+[79] V. 1819 oli hän lähellä joutua poliisin kynsiin, kun hän hyvin
+äänekkäästi oli lausunut, "että Kristus, lopultakin, ei ollut mitään
+muuta kuin ristiinnaulittu juutalainen". Hän kirjoitti silloin
+_D-duurimessua_. Tämä olkoon kylliksi sanottu hänen uskonnollisten
+ajatustensa vapaudesta. (Mitä tulee Beethovenin uskonnollisiin
+mielipiteisiin, ks. Theodor Frimmel: Beethoven, 3 pain., "Verlag
+Harmonie'n" kustantama, ja Beethoveniana, Georg Müllerin kust., nid.
+II, luku Blöchinger.) — Yhtä vapaana mielipiteiltään politiikan suhteen
+Beethoven hyökkäsi rohkeasti hallituksen vikojen kimppuun. M.m. moitti
+hän lainlaadinnan järjestelyä, joka oli omavaltainen ja mateleva,
+pitkien muodollisuuksien orja; poliisin vehkeilyjä; kirjavaa ja velttoa
+virkavaltaa, joka kuoletti kaiken yksilöllisen alotteliaisuuden ja
+lamautti toimintavoiman; rappeutuneen ylimystön etuoikeuksia, joiden
+avulla tämä ylimystö piti hallussaan kaikki valtion korkeimmat virat.
+— Hänen valtiollinen myötätuntonsa näytti silloin olevan. Englannin
+puolella.
+
+[80] Hänen veljenpoikansa itsemurhayritys.
+
+[81] Ks. tri Klotz-Forestin kirjoitusta _Beethovenin viimeinen
+sairaus ja kuolema_ julkaisussa Chronique medicale 1 ja 15 p:ltä
+huhtik. 1906. — Sangen tarkat tiedot saa Keskusteluvihoista, joihin
+lääkärin kysymykset ovat merkityt, sekä lääkärin (tri Wawruch) omasta
+selostuksesta, jonka hän on julkaissut otsikolla Aerztlicher Rückblick
+auf L. v. B. letzte Lebenstage v. 1882 Wiener Zeitschriftissa (20 p.
+toukok. 1827).
+
+Hänen taudissaan oli kaksi astetta: 1) keuhkovamma, joka näytti kuuden
+päivän kuluttua menneen ohi. "Seitsemäntenä päivänä tunsi hän itsensä
+kyllin terveeksi noustakseen vuoteesta, kävelläkseen, lukeakseen ja
+kirjoittaakseen." — 2) Ruoansulatushäiriöt, joihin vielä lisäksi
+tulivat verenkiertohäiriöt. "Kahdeksantena päivänä tapasin hänet hyvin
+heikkona ja keltaisena koko ruumiiltaan. Raju diarré-kohtaus ynnä
+siihen liittyneet oksennuskouristukset olivat yön kuluessa olleet
+vähällä aiheuttaa hänelle kuoleman." Tästä hetkestä alkoi vesitauti
+kehittyä.
+
+Tällä taudin uusiutumisella on sielulliset syynsä, jotka ovat vähän
+tunnettuja. "Kiihkeä viha, katkerat kärsimykset, hänen kokemastaan
+kiittämättömyydestä johtuneet, sekä hänen osalleen tulleet
+ansaitsemattomat loukkaukset olivat taudin puhkeamisen aiheuttaneet",
+sanoo tri Wawruch. "Vavisten ja väristen vaipui hän sen tuskan taakan
+alle, joka raateli hänen sydänjuuriaan."
+
+Yhdistäen nämä eri huomiot toteaa tri Kotz-Forest ensin
+verensalpauskohtauksen keuhkoissa ja sen jälkeen Laënnecin
+maksakirroosin ja sen yhteydessä vesitaudin sekä vesipöhön ruumiin
+alaosassa. Hän arvelee, että sairauden oli aiheuttanut väkijuomain
+kohtuuton käyttö. Tämä oli jo ollut myöskin tri Malfattin mielipide:
+Sedebat et bibebat.
+
+
+[82] Leikkaukset tehtiin 20 p. jouluk., 8 p. tammik., 2 p. helmik. ja
+27 p. helmik. — Kuolinvuoteellaan vaivasivat tuota onnetonta miestä
+luteet. (Gerhard von Breuningin kirje.)
+
+[83] Nuori säveltaiteilija Anselm Hüttenbrenner.
+
+"Jumala olkoon ylistetty", kirjoittaa Breuning "Kiittäkäämme Häntä
+siitä, että Hän on antanut lopun noille pitkille ja tuskallisille
+kärsimyksille!"
+
+Kaikki Beethovenin käsikirjoitukset, kirjat ja huonekalut myytiin
+huutokaupalla 1575:stä florinista. Luettelo käsitti 252 kpl.
+käsikirjoitusta ja musiikkia käsittelevää teosta, joista ei tarjottu
+982 florinia 37 Kreutseria enempää. Keskusteluvihot ja Päiväkirjat
+myytiin 1 florinista 20 kreutserista. — Beethovenin omistamien kirjojen
+joukossa oli m.m.: Kant: Naturgeschichte und Theorie des Himmels; Bode:
+Anleitung zur Kenntnis des gestirnten Himmels; Thomas von Kempis:
+Nachfolge Christi. — Sensuuri takavarikoi: Seume: Spaziergang nach
+Syrakus; Kotzebue: Über den Adel; Fessler: Ansichten von Religion und
+Kirchentum.
+
+[84] "Olen onnellinen aina kun olen voittanut jonkun vaikeuden" (Kirje
+"kuolemattomalle rakastetulle".) — "Tahtoisin elää elämän tuhat
+kertaa... Minä en ole luotu rauhallista elämää varten." (Wegelerille 16
+p. marrask. 1801.)
+
+[85] "Beethoven opetti minut tuntemaan luontoa ja ohjasi minua tässä
+samoinkuin musiikin opiskelussa. Eivät luonnon lait, vaan sen alkuvoima
+hurmasi häntä." (Schindler.)
+
+[86] "Ah, elämä on niin kaunis, mutta minun elämäni on ainaiseksi
+myrkytetty" (vergiftet). (Kirje Wegelerilie 2 piitä toukok. 1810.)
+
+[87] Heiligenstadt on yksi Wienin esikaupungeista. Beethoven oleskeli
+siellä tähän aikaan.
+
+[88] Nimi on unohdettu käsikirjoituksesta. N.B. — Harvennetut sanat
+ovat alleviivatut tekstissä.
+
+[89] Tahtoisin tämän tuskallisen valituksen johdosta tehdä
+huomautuksen, jota luullakseni ei milloinkaan ennen ole tehty. — On
+tunnettua, että _Pastoraali-sinfonian_ toisen osan lopussa orkesterista
+kuuluu satakielen, käen ja viiriäisen laulu; ja voi muuten sanoa että
+melkein koko sinfonia on kudottu laulusta ja luonnonäänistä. Estetikot
+ovat ahkerasti pohtineet kysymystä, ovatko nämä jäljittelevän musiikin
+kokeet hyväksyttäviä vai eivät. Ei kukaan ole huomannut sitä, että
+Beethoven ei mitään jäljitellyt, koska hän ei mitään kuullut: hän loi
+sielussaan uudelleen sen maailmaan, joka oli kuollut hänelle. Tämä
+seikka juuri antaa tuolle lintujen esiinloihtimiselle niin liikuttavan
+sulon. Ainoa tapa, jolla hän saattoi niitä kuulla, oli antaa niiden
+laulaa omassa itsessään.
+
+[90] Kirjoitettu otaksuttavasti v. 1801.
+
+[91] Stephan von Breuning.
+
+[92] Zmeskall (?). Hän oli hovisihteeri Wienissä ja pysyi Beethovenin
+uskollisena ihailijana.
+
+[93] Op. 18, n:o 1.
+
+[94] Nohl on julkaisussaan _Briefe Beethovens_ pyyhkinyt sanat: _und
+den Schöpfer_ (ja Luojaa),
+
+[95] Eleonora.
+
+[96] Minusta on tuntunut olevan paikallaan esittää tässä nämä molemmat
+kirjeet, jotka antavat meidän tutustua noihin oivallisiin ihmisiin,
+Beethovenin uskollisimpiin ystäviin. Ystävistään mies tunnetaan.
+
+[97] Me huomaamme, että tämän ajan ystävät, vaikkakin olivat toisiinsa
+mitä lämpimimmin kiintyneet, olivat ystävyydenilmauksissaan vähemmän
+kärsimättömiä kuin nykyään. Beethoven vastaa Wegelerille vasta
+_kymmenen kuukauden_ kuluttua.
+
+[98] Beethoven ei aavistanut, että hän pian sen jälkeen kirjoitti
+viimeisen teoksensa, toisen _finalin_ kvartettiinsa op. 130. Hän oli
+silloin käymässä veljensä luona Gneixendorfissa lähellä Kremsiä,
+Tonavan varrella.
+
+[99] Herttua de la Châtre.
+
+[100] Beethoven oli, melkein täydellisesti ilman rahoja kun oli,
+kääntynyt Lontoon Filharmonisen seuran ja Moscheleksen, joka silloin
+oleskeli Englannnissa, puoleen, koettaen saada siellä toimeen konsertin
+omaksi hyväkseen. Seura oli kyllin jalomielinen lähettääkseen hänelle
+heti sata puntaa etukäteen. Hän tuli tästä syvästi liikutetuksi.
+"Oli järkyttävää", kertoo eräs ystävä, "nähdä, kuinka hän kirjeen
+vastaanotettuaan pani kätensä ristiin ja nyyhkytti ilosta ja
+kiitollisuudesta". Tästä mielenliikutuksesta aukeni jälleen haava, joka
+leikkauksen jälkeen juuri oli parantunut. Hän tahtoi vielä sanella
+kiitoskirjeen "noille jaloille englantilaisille, jotka olivat ottaneet
+osaa hänen surulliseen kohtaloonsa"; hän lupasi heille uusia teoksia,
+kymmenennen sinfoniansa, alkusoiton, kaikkea, mitä he vain halusivat.
+"En koskaan ennen", sanoi hän, "ole alottanut mitään teosta niin
+suurella rakkaudella kuin tätä, johon nyt ryhdyn". Tämä kirje on 18
+p:ltä maaliskuuta. 26 p:nä oli hän kuollut.
+
+[101] Tekstissä ranskankielellä paitsi viimeinen sana.
+
+[102] "Beethovenin pianonsoitto ei ollut huoliteltua ja hänen
+sormituksensa oli usein virheellinen; äänen kauneuteen ei hän
+paljon huomiota kiinnittänyt. Mutta kuka tuli ajatelleeksi hänen
+pianistiominaisuuksiansa? Hänen ajatuksiensa johdettavaksi täytyi
+antautua, samoinkuin hänen sormiensakin täytyi antaa niille
+ilmaisumuoto, millä tavoin tahansa tämä tapahtuikin." (Paroni de
+Trémont, 1809.)
+
+[103] Harvennetut sanat kaikkine kielivirheineen ovat tekstissä
+ranskaksi kirjoitetut.
+
+Olemme jo ennen maininneet, että Cherubini ei koskaan vastannut tähän
+kirjeeseen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 74914 ***
